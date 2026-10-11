@@ -9098,5 +9098,5370 @@
     ],
     "correctOptionId": "C7-Q050-O2",
     "explanation": "Gia đình bền vững cần sự phối hợp giữa sinh đẻ, giáo dục, kinh tế và tình cảm."
+  },
+  {
+    "id": "R185-C1-Q001",
+    "chapter": 1,
+    "number": 1,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 1,
+    "question": "Nguồn gốc lý luận trực tiếp hình thành nên Chủ nghĩa xã hội khoa học là:",
+    "options": [
+      {
+        "id": "R185-C1-Q001-O1",
+        "text": "Tư tưởng xã hội chủ nghĩa của Tomazo Campnela"
+      },
+      {
+        "id": "R185-C1-Q001-O2",
+        "text": "Tư tưởng xã hội chủ nghĩa của Gieerrac Uynxtteli"
+      },
+      {
+        "id": "R185-C1-Q001-O3",
+        "text": "Tư tưởng xã hội chủ nghĩa thế kỷ XVIII"
+      },
+      {
+        "id": "R185-C1-Q001-O4",
+        "text": "chủ nghĩa xã hội không tưởng ở Pháp, Anh"
+      }
+    ],
+    "correctOptionId": "R185-C1-Q001-O4",
+    "explanation": "Đáp án D đúng vì chủ nghĩa xã hội không tưởng phê phán ở Pháp và Anh là nguồn gốc lý luận trực tiếp để Karl Marx và Friedrich Engels kế thừa, phê phán và phát triển thành chủ nghĩa xã hội khoa học.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C1-Q002",
+    "chapter": 1,
+    "number": 2,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 2,
+    "question": "Chủ nghĩa xã hội khoa học ra đời từ điều kiện kinh tế – xã hội nào?",
+    "options": [
+      {
+        "id": "R185-C1-Q002-O1",
+        "text": "Sự ra đời chính Đảng của giai cấp công nhân"
+      },
+      {
+        "id": "R185-C1-Q002-O2",
+        "text": "Sự phát triển của phương thức sản xuất tư bản và sự lớn mạnh của giai cấp công nhân"
+      },
+      {
+        "id": "R185-C1-Q002-O3",
+        "text": "Sự ủng hộ của tầng lớp nông dân và đội ngũ trí thức đối với giai cấp công nhân"
+      },
+      {
+        "id": "R185-C1-Q002-O4",
+        "text": "Giai cấp công nhân đã thực sự giác ngộ về sứ mệnh của giai cấp mình"
+      }
+    ],
+    "correctOptionId": "R185-C1-Q002-O2",
+    "explanation": "Đáp án B đúng vì chủ nghĩa xã hội khoa học chỉ có thể ra đời khi phương thức sản xuất tư bản chủ nghĩa phát triển mạnh, đồng thời giai cấp công nhân lớn mạnh và bước vào đấu tranh như một lực lượng xã hội độc lập.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C1-Q003",
+    "chapter": 1,
+    "number": 3,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 3,
+    "question": "Tiền đề kinh tế cho sự hình thành tư tưởng xã hội chủ nghĩa là:",
+    "options": [
+      {
+        "id": "R185-C1-Q003-O1",
+        "text": "Sự xuất hiện giai cấp thống trị"
+      },
+      {
+        "id": "R185-C1-Q003-O2",
+        "text": "Sự xuất hiện nhà nước"
+      },
+      {
+        "id": "R185-C1-Q003-O3",
+        "text": "Sự xuất hiện chế độ tư hữu"
+      },
+      {
+        "id": "R185-C1-Q003-O4",
+        "text": "Cả A, B và C đều đúng"
+      }
+    ],
+    "correctOptionId": "R185-C1-Q003-O3",
+    "explanation": "Đáp án C đúng vì chế độ tư hữu tạo ra sự phân hóa về sở hữu, từ đó nảy sinh giai cấp, áp bức và bóc lột; đây là tiền đề kinh tế làm xuất hiện những tư tưởng hướng tới một xã hội công bằng hơn.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C1-Q004",
+    "chapter": 1,
+    "number": 4,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 4,
+    "question": "Tư tưởng xã hội chủ nghĩa được bắt đầu hình thành ở chế độ xã hội nào?",
+    "options": [
+      {
+        "id": "R185-C1-Q004-O1",
+        "text": "Chế độ công xã nguyên thủy"
+      },
+      {
+        "id": "R185-C1-Q004-O2",
+        "text": "Chế độ chiếm hữu nô lệ"
+      },
+      {
+        "id": "R185-C1-Q004-O3",
+        "text": "Chế độ phong kiến"
+      },
+      {
+        "id": "R185-C1-Q004-O4",
+        "text": "Chế độ tư bản chủ nghĩa"
+      }
+    ],
+    "correctOptionId": "R185-C1-Q004-O2",
+    "explanation": "Đáp án B đúng vì tư tưởng xã hội chủ nghĩa bắt đầu xuất hiện rõ khi xã hội đã phân chia giai cấp và có áp bức, điển hình từ xã hội chiếm hữu nô lệ; công xã nguyên thủy chưa có đối kháng giai cấp.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C1-Q005",
+    "chapter": 1,
+    "number": 5,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 5,
+    "question": "Các nhà tư tưởng xã hội chủ nghĩa không tưởng có hạn chế cơ bản là:",
+    "options": [
+      {
+        "id": "R185-C1-Q005-O1",
+        "text": "Không thể phát hiện ra lực lượng xã hội tiên phong thực hiện cuộc chuyển biến cách mạng xã hội"
+      },
+      {
+        "id": "R185-C1-Q005-O2",
+        "text": "Không chủ trương xóa bỏ chế độ tư hữu về tư liệu sản xuất"
+      },
+      {
+        "id": "R185-C1-Q005-O3",
+        "text": "Không chủ trương xóa bỏ chế độ áp bức bóc lột"
+      },
+      {
+        "id": "R185-C1-Q005-O4",
+        "text": "Mong muốn thực hiện chế độ bình quân trong phân phối"
+      }
+    ],
+    "correctOptionId": "R185-C1-Q005-O1",
+    "explanation": "Đáp án A đúng vì hạn chế căn bản của chủ nghĩa xã hội không tưởng là chưa tìm ra lực lượng xã hội có khả năng thực hiện cuộc cải biến cách mạng, tức chưa xác định đúng vai trò lịch sử của giai cấp công nhân.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C1-Q006",
+    "chapter": 1,
+    "number": 6,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 6,
+    "question": "Chủ nghĩa xã hội khoa học đã làm sáng tỏ vai trò lịch sử toàn thế giới của giai cấp nào?",
+    "options": [
+      {
+        "id": "R185-C1-Q006-O1",
+        "text": "Giai cấp nông dân"
+      },
+      {
+        "id": "R185-C1-Q006-O2",
+        "text": "Giai cấp công nhân"
+      },
+      {
+        "id": "R185-C1-Q006-O3",
+        "text": "Giai cấp tư sản"
+      },
+      {
+        "id": "R185-C1-Q006-O4",
+        "text": "Giai cấp chủ nô"
+      }
+    ],
+    "correctOptionId": "R185-C1-Q006-O2",
+    "explanation": "Đáp án B đúng vì chủ nghĩa xã hội khoa học làm sáng tỏ sứ mệnh lịch sử toàn thế giới của giai cấp công nhân trong việc xóa bỏ chế độ áp bức, bóc lột và xây dựng xã hội mới.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C1-Q007",
+    "chapter": 1,
+    "number": 7,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 7,
+    "question": "Trong chủ nghĩa tư bản, mâu thuẫn về mặt kinh tế đã biểu hiện ra thành mâu thuẫn chính trị giữa:",
+    "options": [
+      {
+        "id": "R185-C1-Q007-O1",
+        "text": "Giai cấp tư sản với giai cấp địa chủ"
+      },
+      {
+        "id": "R185-C1-Q007-O2",
+        "text": "Giai cấp tư sản với giai cấp tiểu tư sản"
+      },
+      {
+        "id": "R185-C1-Q007-O3",
+        "text": "Giai cấp tư sản với giai cấp nông dân"
+      },
+      {
+        "id": "R185-C1-Q007-O4",
+        "text": "Giai cấp tư sản với giai cấp công nhân"
+      }
+    ],
+    "correctOptionId": "R185-C1-Q007-O4",
+    "explanation": "Đáp án D đúng vì mâu thuẫn kinh tế cơ bản của chủ nghĩa tư bản biểu hiện về mặt xã hội - chính trị thành mâu thuẫn giữa tư bản và lao động, tức giữa giai cấp tư sản và giai cấp công nhân.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C1-Q008",
+    "chapter": 1,
+    "number": 8,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 8,
+    "question": "Chủ nghĩa xã hội khoa học có nhiệm vụ cơ bản là:",
+    "options": [
+      {
+        "id": "R185-C1-Q008-O1",
+        "text": "Luận chứng một cách khoa học tính tất yếu về mặt lịch sử sự thay thế của chủ nghĩa tư bản bằng chủ nghĩa xã hội với sứ mệnh lịch sử của giai cấp tư sản"
+      },
+      {
+        "id": "R185-C1-Q008-O2",
+        "text": "Luận chứng một cách khoa học tính tất yếu về mặt lịch sử sự thay thế của chủ nghĩa tư bản bằng chủ nghĩa cộng sản với sứ mệnh lịch sử của giai cấp tư sản"
+      },
+      {
+        "id": "R185-C1-Q008-O3",
+        "text": "Luận chứng một cách khoa học tính tất yếu về mặt lịch sử sự thay thế của chủ nghĩa tư bản bằng chủ nghĩa xã hội với sứ mệnh lịch sử của giai cấp công nhân"
+      },
+      {
+        "id": "R185-C1-Q008-O4",
+        "text": "Luận chứng một cách khoa học tính tất yếu về mặt lịch sử sự thay thế của chủ nghĩa xã hội bằng chủ nghĩa cộng sản với sứ mệnh lịch sử của giai cấp công nhân"
+      }
+    ],
+    "correctOptionId": "R185-C1-Q008-O3",
+    "explanation": "Đáp án C đúng vì nhiệm vụ trung tâm của chủ nghĩa xã hội khoa học là luận chứng tính tất yếu lịch sử của việc chủ nghĩa tư bản được thay thế bằng chủ nghĩa xã hội, đồng thời chỉ ra sứ mệnh của giai cấp công nhân trong quá trình đó.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C1-Q009",
+    "chapter": 1,
+    "number": 9,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 9,
+    "question": "Đối tượng nghiên cứu của Chủ nghĩa xã hội khoa học là gì?",
+    "options": [
+      {
+        "id": "R185-C1-Q009-O1",
+        "text": "Là những quy luật hình thành và phát triển của các hình thái kinh tế – xã hội"
+      },
+      {
+        "id": "R185-C1-Q009-O2",
+        "text": "Là những quy luật và tính quy luật chính trị – xã hội của quá trình phát sinh, hình thành và phát triển hình thái kinh tế – xã hội cộng sản chủ nghĩa"
+      },
+      {
+        "id": "R185-C1-Q009-O3",
+        "text": "Là những quy luật và tính quy luật chính trị – xã hội của quá trình phát sinh, hình thành và phát triển hình thái kinh tế – xã hội xã hội chủ nghĩa"
+      },
+      {
+        "id": "R185-C1-Q009-O4",
+        "text": "Là những quy luật và tính quy luật của tự nhiên và tư duy"
+      }
+    ],
+    "correctOptionId": "R185-C1-Q009-O2",
+    "explanation": "Đáp án B đúng vì chủ nghĩa xã hội khoa học nghiên cứu các quy luật và tính quy luật chính trị - xã hội của quá trình hình thành, phát triển hình thái kinh tế - xã hội cộng sản chủ nghĩa, chứ không nghiên cứu mọi quy luật tự nhiên hoặc mọi hình thái xã hội.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C1-Q010",
+    "chapter": 1,
+    "number": 10,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 10,
+    "question": "Phạm trù nào được coi là cơ bản nhất của Chủ nghĩa xã hội khoa học?",
+    "options": [
+      {
+        "id": "R185-C1-Q010-O1",
+        "text": "Giai cấp công nhân"
+      },
+      {
+        "id": "R185-C1-Q010-O2",
+        "text": "Sứ mệnh lịch sử của giai cấp công nhân"
+      },
+      {
+        "id": "R185-C1-Q010-O3",
+        "text": "Chuyên chính vô sản"
+      },
+      {
+        "id": "R185-C1-Q010-O4",
+        "text": "xã hội chủ nghĩa"
+      }
+    ],
+    "correctOptionId": "R185-C1-Q010-O2",
+    "explanation": "Đáp án B đúng vì sứ mệnh lịch sử của giai cấp công nhân là phạm trù trung tâm, trả lời câu hỏi lực lượng xã hội nào có khả năng thực hiện quá trình chuyển biến từ chủ nghĩa tư bản lên chủ nghĩa xã hội và chủ nghĩa cộng sản.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C1-Q011",
+    "chapter": 1,
+    "number": 11,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 11,
+    "question": "Ai là người đầu tiên đưa Chủ nghĩa xã hội khoa học trở thành thực tiễn sinh động?",
+    "options": [
+      {
+        "id": "R185-C1-Q011-O1",
+        "text": "Karl Marx"
+      },
+      {
+        "id": "R185-C1-Q011-O2",
+        "text": "Friedrich Engels"
+      },
+      {
+        "id": "R185-C1-Q011-O3",
+        "text": "Vladimir Ilyich Lenin"
+      },
+      {
+        "id": "R185-C1-Q011-O4",
+        "text": "Hồ Chí Minh"
+      }
+    ],
+    "correctOptionId": "R185-C1-Q011-O3",
+    "explanation": "Đáp án C đúng vì Vladimir Ilyich Vladimir Ilyich Lenin là người lãnh đạo Cách mạng Tháng Mười Nga và trực tiếp vận dụng lý luận chủ nghĩa xã hội khoa học vào xây dựng xã hội mới, đưa học thuyết từ lý luận thành thực tiễn sinh động.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C1-Q012",
+    "chapter": 1,
+    "number": 12,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 12,
+    "question": "Phạm trù nào được Karl Marx và Friedrich Engels cho rằng trong quá trình thống trị giai cấp chưa đầy một thế kỷ, giai cấp tư sản đã tạo ra nhiều hơn và đồ sộ hơn tất cả các thế hệ trước gộp lại?",
+    "options": [
+      {
+        "id": "R185-C1-Q012-O1",
+        "text": "lực lượng sản xuất"
+      },
+      {
+        "id": "R185-C1-Q012-O2",
+        "text": "năng suất lao động"
+      },
+      {
+        "id": "R185-C1-Q012-O3",
+        "text": "quan hệ sản xuất"
+      },
+      {
+        "id": "R185-C1-Q012-O4",
+        "text": "Cơ sở hạ tầng"
+      }
+    ],
+    "correctOptionId": "R185-C1-Q012-O1",
+    "explanation": "Đáp án A đúng vì Karl Marx và Friedrich Engels nhấn mạnh giai cấp tư sản, trong chưa đầy một thế kỷ thống trị, đã tạo ra lực lượng sản xuất đồ sộ hơn tất cả các thế hệ trước cộng lại. Câu hỏi đang hỏi thành tựu về sức sản xuất của xã hội, không phải quan hệ sản xuất hay cơ sở hạ tầng.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C1-Q013",
+    "chapter": 1,
+    "number": 13,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 13,
+    "question": "Tác phẩm nào đánh dấu sự ra đời của Chủ nghĩa xã hội khoa học?",
+    "options": [
+      {
+        "id": "R185-C1-Q013-O1",
+        "text": "Tuyên ngôn của Đảng Cộng sản"
+      },
+      {
+        "id": "R185-C1-Q013-O2",
+        "text": "Hệ tư tưởng Đức"
+      },
+      {
+        "id": "R185-C1-Q013-O3",
+        "text": "Gia đình thần thánh"
+      },
+      {
+        "id": "R185-C1-Q013-O4",
+        "text": "Tình cảnh giai cấp lao động ở Anh"
+      }
+    ],
+    "correctOptionId": "R185-C1-Q013-O1",
+    "explanation": "Đáp án A đúng vì Tuyên ngôn của Đảng Cộng sản năm 1848 trình bày tương đối hoàn chỉnh các nguyên lý cơ bản của chủ nghĩa xã hội khoa học và được xem là mốc đánh dấu sự ra đời của học thuyết này.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C1-Q014",
+    "chapter": 1,
+    "number": 14,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 14,
+    "question": "Theo Friedrich Engels, hai phát kiến vĩ đại nào đã đưa chủ nghĩa xã hội trở thành một khoa học?",
+    "options": [
+      {
+        "id": "R185-C1-Q014-O1",
+        "text": "Chủ nghĩa duy vật biện chứng và Chủ nghĩa duy vật lịch sử"
+      },
+      {
+        "id": "R185-C1-Q014-O2",
+        "text": "Sứ mệnh lịch sử giai cấp công nhân và Học thuyết giá trị thặng dư"
+      },
+      {
+        "id": "R185-C1-Q014-O3",
+        "text": "Học thuyết giá trị thặng dư và Chủ nghĩa duy vật lịch sử"
+      },
+      {
+        "id": "R185-C1-Q014-O4",
+        "text": "Sứ mệnh lịch sử giai cấp công nhân và Chủ nghĩa duy vật lịch sử"
+      }
+    ],
+    "correctOptionId": "R185-C1-Q014-O3",
+    "explanation": "Đáp án C đúng vì theo Friedrich Engels, chủ nghĩa duy vật lịch sử và học thuyết giá trị thặng dư là hai phát kiến giúp giải thích khoa học quy luật phát triển xã hội và bản chất kinh tế của chủ nghĩa tư bản, từ đó biến chủ nghĩa xã hội từ không tưởng thành khoa học.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C1-Q015",
+    "chapter": 1,
+    "number": 15,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 15,
+    "question": "Dựa trên sáng kiến vĩ đại nào để Karl Marx và Friedrich Engels luận giải một cách khoa học về sứ mệnh lịch sử của giai cấp công nhân?",
+    "options": [
+      {
+        "id": "R185-C1-Q015-O1",
+        "text": "Thuyết tiến hóa các loài của Đacuyn"
+      },
+      {
+        "id": "R185-C1-Q015-O2",
+        "text": "Chủ nghĩa duy vật lịch sử và học thuyết giá trị thặng dư"
+      },
+      {
+        "id": "R185-C1-Q015-O3",
+        "text": "Kinh tế học chính trị cổ điển Anh"
+      },
+      {
+        "id": "R185-C1-Q015-O4",
+        "text": "chủ nghĩa xã hội không tưởng Pháp"
+      }
+    ],
+    "correctOptionId": "R185-C1-Q015-O2",
+    "explanation": "Đáp án B đúng vì chủ nghĩa duy vật lịch sử cung cấp cơ sở triết học còn học thuyết giá trị thặng dư làm rõ cơ sở kinh tế của chủ nghĩa tư bản; từ hai phát kiến đó, Karl Marx và Friedrich Engels luận giải khoa học sứ mệnh lịch sử của giai cấp công nhân.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C2-Q016",
+    "chapter": 2,
+    "number": 16,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 16,
+    "question": "“Tuy ít về số lượng, ra đời muộn so với giai cấp công nhân châu Âu, đời sống gắn với sản xuất công nghiệp, họ là đại biểu của phương thức sản xuất tiên tiến nhất”. Đây là quan điểm nhằm chỉ giai cấp/tầng lớp nào ở Việt Nam?",
+    "options": [
+      {
+        "id": "R185-C2-Q016-O1",
+        "text": "Nông dân"
+      },
+      {
+        "id": "R185-C2-Q016-O2",
+        "text": "Tiểu tư sản"
+      },
+      {
+        "id": "R185-C2-Q016-O3",
+        "text": "Công nhân"
+      },
+      {
+        "id": "R185-C2-Q016-O4",
+        "text": "Tư sản"
+      }
+    ],
+    "correctOptionId": "R185-C2-Q016-O3",
+    "explanation": "Đáp án C đúng vì mô tả này nói về giai cấp công nhân Việt Nam: ra đời muộn, số lượng ban đầu không lớn nhưng gắn với sản xuất công nghiệp và đại diện cho phương thức sản xuất tiên tiến.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C2-Q017",
+    "chapter": 2,
+    "number": 17,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 17,
+    "question": "Điền vào chỗ trống cho đoạn văn sau đây: “[.........] là sản phẩm của sự kết hợp chủ nghĩa Mác – Vladimir Ilyich Lenin với phong trào công nhân trong cuộc đấu tranh thực hiện sứ mệnh lịch sử của giai cấp công nhân”.",
+    "options": [
+      {
+        "id": "R185-C2-Q017-O1",
+        "text": "Giai cấp công nhân"
+      },
+      {
+        "id": "R185-C2-Q017-O2",
+        "text": "Giai cấp tư sản"
+      },
+      {
+        "id": "R185-C2-Q017-O3",
+        "text": "Đảng chính trị"
+      },
+      {
+        "id": "R185-C2-Q017-O4",
+        "text": "Đảng Cộng sản"
+      }
+    ],
+    "correctOptionId": "R185-C2-Q017-O4",
+    "explanation": "Đáp án D đúng vì Đảng Cộng sản ra đời từ sự kết hợp chủ nghĩa Mác - Vladimir Ilyich Lenin với phong trào công nhân; Đảng là tổ chức chính trị tiên phong của giai cấp công nhân.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C2-Q018",
+    "chapter": 2,
+    "number": 18,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 18,
+    "question": "Theo Karl Marx và Friedrich Engels, chỉ có hai tiêu chí cơ bản nói lên thế nào là người công nhân, đó là:",
+    "options": [
+      {
+        "id": "R185-C2-Q018-O1",
+        "text": "Về phương thức lao động, phương thức sản xuất và vị trí của giai cấp công nhân trong quan hệ sản xuất tư bản chủ nghĩa"
+      },
+      {
+        "id": "R185-C2-Q018-O2",
+        "text": "Về phương thức lao động, phương thức sản xuất và vị trí của giai cấp công nhân trong quan hệ sản xuất xã hội chủ nghĩa"
+      },
+      {
+        "id": "R185-C2-Q018-O3",
+        "text": "Về phương thức lao động, phương thức sản xuất và vị trí của giai cấp công nhân trong quan hệ sản xuất xã hội"
+      },
+      {
+        "id": "R185-C2-Q018-O4",
+        "text": "Về phương thức lao động, phương thức sản xuất và vị trí của giai cấp công nhân trong quan hệ sản xuất"
+      }
+    ],
+    "correctOptionId": "R185-C2-Q018-O1",
+    "explanation": "Đáp án A đúng vì hai tiêu chí cơ bản để nhận diện giai cấp công nhân là: một là phương thức lao động, phương thức sản xuất; hai là vị trí của họ trong quan hệ sản xuất tư bản chủ nghĩa. Hai tiêu chí này vừa nói họ lao động bằng công cụ công nghiệp hiện đại, vừa nói họ không sở hữu tư liệu sản xuất chủ yếu và phải bán sức lao động.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C2-Q019",
+    "chapter": 2,
+    "number": 19,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 19,
+    "question": "“Giai cấp công nhân là những người trực tiếp hoặc gián tiếp vận hành máy móc, các công cụ sản xuất có tính chất công nghiệp ngày càng hiện đại, có tính chất xã hội hóa cao”. Đây là tiêu chí nào trong các tiêu chí xác định giai cấp công nhân?",
+    "options": [
+      {
+        "id": "R185-C2-Q019-O1",
+        "text": "Vị trí của giai cấp công nhân trong quan hệ sản xuất tư bản chủ nghĩa"
+      },
+      {
+        "id": "R185-C2-Q019-O2",
+        "text": "Phương thức lao động, phương thức sản xuất"
+      },
+      {
+        "id": "R185-C2-Q019-O3",
+        "text": "Không thuộc tiêu chí nào"
+      },
+      {
+        "id": "R185-C2-Q019-O4",
+        "text": "Cả A, B đều đúng"
+      }
+    ],
+    "correctOptionId": "R185-C2-Q019-O2",
+    "explanation": "Đáp án B đúng vì việc trực tiếp hoặc gián tiếp vận hành máy móc và công cụ sản xuất công nghiệp hiện đại phản ánh phương thức lao động và phương thức sản xuất của giai cấp công nhân.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C2-Q020",
+    "chapter": 2,
+    "number": 20,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 20,
+    "question": "“Giai cấp công nhân là những người lao động không có tư liệu sản xuất, phải bán sức lao động, làm thuê cho nhà tư bản, bị nhà tư bản bóc lột giá trị thặng dư”. Đây là tiêu chí nào trong các tiêu chí xác định giai cấp công nhân?",
+    "options": [
+      {
+        "id": "R185-C2-Q020-O1",
+        "text": "Vị trí của giai cấp công nhân trong quan hệ sản xuất tư bản chủ nghĩa"
+      },
+      {
+        "id": "R185-C2-Q020-O2",
+        "text": "Phương thức lao động, phương thức sản xuất"
+      },
+      {
+        "id": "R185-C2-Q020-O3",
+        "text": "Không thuộc tiêu chí nào"
+      },
+      {
+        "id": "R185-C2-Q020-O4",
+        "text": "Cả A, B đều đúng"
+      }
+    ],
+    "correctOptionId": "R185-C2-Q020-O1",
+    "explanation": "Đáp án A đúng vì mô tả 'không có tư liệu sản xuất, phải bán sức lao động, bị bóc lột giá trị thặng dư' nói trực tiếp đến vị trí của giai cấp công nhân trong quan hệ sản xuất tư bản chủ nghĩa.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C2-Q021",
+    "chapter": 2,
+    "number": 21,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 21,
+    "question": "Chọn ý đúng nhất về sứ mệnh lịch sử của giai cấp công nhân:",
+    "options": [
+      {
+        "id": "R185-C2-Q021-O1",
+        "text": "Đấu tranh xóa bỏ chế độ tư bản chủ nghĩa"
+      },
+      {
+        "id": "R185-C2-Q021-O2",
+        "text": "Đấu tranh xóa bỏ chế độ áp bức bóc lột"
+      },
+      {
+        "id": "R185-C2-Q021-O3",
+        "text": "Tiến lên xây dựng chủ nghĩa xã hội"
+      },
+      {
+        "id": "R185-C2-Q021-O4",
+        "text": "Xóa bỏ mọi áp bức, bóc lột, bất công trong chế độ tư bản chủ nghĩa, xây dựng thành công chế độ xã hội chủ nghĩa"
+      }
+    ],
+    "correctOptionId": "R185-C2-Q021-O4",
+    "explanation": "Đáp án D đúng vì sứ mệnh lịch sử của giai cấp công nhân không chỉ dừng ở xóa bỏ chủ nghĩa tư bản hay chống bóc lột, mà còn phải xây dựng thành công xã hội xã hội chủ nghĩa, tiến tới giải phóng con người một cách toàn diện.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C2-Q022",
+    "chapter": 2,
+    "number": 22,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 22,
+    "question": "Điều kiện khách quan quy định sứ mệnh lịch sử của giai cấp công nhân là:",
+    "options": [
+      {
+        "id": "R185-C2-Q022-O1",
+        "text": "Địa vị kinh tế – xã hội và địa vị chính trị – xã hội"
+      },
+      {
+        "id": "R185-C2-Q022-O2",
+        "text": "Đảng Cộng sản lãnh đạo"
+      },
+      {
+        "id": "R185-C2-Q022-O3",
+        "text": "Bản thân giai cấp công nhân phát triển về số lượng và chất lượng"
+      },
+      {
+        "id": "R185-C2-Q022-O4",
+        "text": "Cả A, B"
+      }
+    ],
+    "correctOptionId": "R185-C2-Q022-O1",
+    "explanation": "Đáp án A đúng vì địa vị kinh tế - xã hội và địa vị chính trị - xã hội tồn tại khách quan, quy định khả năng và lợi ích cách mạng của giai cấp công nhân; sự lãnh đạo của Đảng thuộc nhân tố chủ quan.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C2-Q023",
+    "chapter": 2,
+    "number": 23,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 23,
+    "question": "Nhân tố chủ quan quyết định giai cấp công nhân thực hiện thành công sứ mệnh lịch sử là:",
+    "options": [
+      {
+        "id": "R185-C2-Q023-O1",
+        "text": "Đảng Cộng sản lãnh đạo"
+      },
+      {
+        "id": "R185-C2-Q023-O2",
+        "text": "Địa vị kinh tế – xã hội"
+      },
+      {
+        "id": "R185-C2-Q023-O3",
+        "text": "Địa vị chính trị – xã hội"
+      },
+      {
+        "id": "R185-C2-Q023-O4",
+        "text": "Cả B và C đều đúng"
+      }
+    ],
+    "correctOptionId": "R185-C2-Q023-O1",
+    "explanation": "Đáp án A đúng vì Đảng Cộng sản là nhân tố chủ quan quan trọng nhất, giúp phong trào công nhân từ tự phát chuyển thành tự giác, có lý luận, đường lối và tổ chức để thực hiện sứ mệnh lịch sử.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C2-Q024",
+    "chapter": 2,
+    "number": 24,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 24,
+    "question": "Đảng Cộng sản Việt Nam là sản phẩm của sự kết hợp của:",
+    "options": [
+      {
+        "id": "R185-C2-Q024-O1",
+        "text": "Chủ nghĩa Mác – Vladimir Ilyich Lenin với phong trào công nhân ở Việt Nam"
+      },
+      {
+        "id": "R185-C2-Q024-O2",
+        "text": "Chủ nghĩa Mác – Vladimir Ilyich Lenin với phong trào công nhân và phong trào yêu nước ở Việt Nam"
+      },
+      {
+        "id": "R185-C2-Q024-O3",
+        "text": "Chủ nghĩa Mác – Vladimir Ilyich Lenin với phong trào yêu nước Việt Nam"
+      },
+      {
+        "id": "R185-C2-Q024-O4",
+        "text": "Chủ nghĩa Mác – Vladimir Ilyich Lenin với phong trào nông dân và phong trào yêu nước Việt Nam"
+      }
+    ],
+    "correctOptionId": "R185-C2-Q024-O2",
+    "explanation": "Đáp án B đúng vì ở Việt Nam, Đảng Cộng sản được hình thành từ sự kết hợp của chủ nghĩa Mác - Vladimir Ilyich Lenin với phong trào công nhân và phong trào yêu nước, phản ánh đặc điểm lịch sử của cách mạng Việt Nam.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C2-Q025",
+    "chapter": 2,
+    "number": 25,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 25,
+    "question": "Khi nghiên cứu về giai cấp công nhân, Karl Marx và Friedrich Engels dùng nhiều thuật ngữ khác nhau chỉ về giai cấp này. Song có cùng một mục đích là:",
+    "options": [
+      {
+        "id": "R185-C2-Q025-O1",
+        "text": "Biểu thị quan niệm về giai cấp công nhân – con đẻ của nền đại công nghiệp tư bản chủ nghĩa"
+      },
+      {
+        "id": "R185-C2-Q025-O2",
+        "text": "Giai cấp đại biểu cho lực lượng sản xuất tiên tiến và phương thức sản xuất hiện đại"
+      },
+      {
+        "id": "R185-C2-Q025-O3",
+        "text": "Cả A, B đúng"
+      },
+      {
+        "id": "R185-C2-Q025-O4",
+        "text": "Cả A, B sai"
+      }
+    ],
+    "correctOptionId": "R185-C2-Q025-O3",
+    "explanation": "Đáp án C đúng vì cả hai ý A và B đều cùng nhằm làm rõ bản chất của giai cấp công nhân: họ là sản phẩm của nền đại công nghiệp tư bản chủ nghĩa, đồng thời đại biểu cho lực lượng sản xuất tiên tiến và phương thức sản xuất hiện đại.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C2-Q026",
+    "chapter": 2,
+    "number": 26,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 26,
+    "question": "Câu nói: “Điểm chủ yếu trong học thuyết Mác là ở chỗ nó làm sáng rõ vai trò lịch sử thế giới của giai cấp vô sản là người xây dựng xã hội xã hội chủ nghĩa” là của ai?",
+    "options": [
+      {
+        "id": "R185-C2-Q026-O1",
+        "text": "Karl Marx"
+      },
+      {
+        "id": "R185-C2-Q026-O2",
+        "text": "Friedrich Engels"
+      },
+      {
+        "id": "R185-C2-Q026-O3",
+        "text": "Vladimir Ilyich Lenin"
+      },
+      {
+        "id": "R185-C2-Q026-O4",
+        "text": "Hồ Chí Minh"
+      }
+    ],
+    "correctOptionId": "R185-C2-Q026-O3",
+    "explanation": "Đáp án C đúng vì câu nhận định về 'điểm chủ yếu trong học thuyết Mác' và vai trò lịch sử thế giới của giai cấp vô sản là của Vladimir Ilyich Vladimir Ilyich Lenin.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C2-Q027",
+    "chapter": 2,
+    "number": 27,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 27,
+    "question": "Theo quan điểm của chủ nghĩa Mác – Vladimir Ilyich Lenin, luận điểm nào sau đây nói về bản chất của giai cấp tư sản?",
+    "options": [
+      {
+        "id": "R185-C2-Q027-O1",
+        "text": "Giai cấp tư sản bóc lột giá trị thặng dư"
+      },
+      {
+        "id": "R185-C2-Q027-O2",
+        "text": "Giai cấp tư sản tích cực áp dụng tiến bộ khoa học kỹ thuật và công nghệ"
+      },
+      {
+        "id": "R185-C2-Q027-O3",
+        "text": "Giai cấp tư sản đổi mới phương pháp quản lý"
+      },
+      {
+        "id": "R185-C2-Q027-O4",
+        "text": "Giai cấp tư sản thực hiện chính sách an sinh xã hội"
+      }
+    ],
+    "correctOptionId": "R185-C2-Q027-O1",
+    "explanation": "Đáp án A đúng vì theo lý luận giá trị thặng dư, bản chất quan hệ của giai cấp tư sản với người lao động làm thuê là chiếm hữu giá trị thặng dư do công nhân tạo ra; các hoạt động quản lý hay an sinh không phản ánh bản chất này.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C2-Q028",
+    "chapter": 2,
+    "number": 28,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 28,
+    "question": "Tìm ý đúng điền vào chỗ trống trong câu nói của Karl Marx và Friedrich Engels: “Tất cả các giai cấp khác đều suy tàn và tiêu vong cùng với sự phát triển của đại công nghiệp, còn giai cấp vô sản lại là [.........] của bản thân nền đại công nghiệp”.",
+    "options": [
+      {
+        "id": "R185-C2-Q028-O1",
+        "text": "Chủ thể"
+      },
+      {
+        "id": "R185-C2-Q028-O2",
+        "text": "Sản phẩm"
+      },
+      {
+        "id": "R185-C2-Q028-O3",
+        "text": "Lực lượng"
+      },
+      {
+        "id": "R185-C2-Q028-O4",
+        "text": "Sự phát triển"
+      }
+    ],
+    "correctOptionId": "R185-C2-Q028-O2",
+    "explanation": "Đáp án B đúng vì Karl Marx và Friedrich Engels gọi giai cấp vô sản là 'sản phẩm' của nền đại công nghiệp: đại công nghiệp phát triển đã tạo ra và làm lớn mạnh giai cấp công nhân hiện đại.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C2-Q029",
+    "chapter": 2,
+    "number": 29,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 29,
+    "question": "Tìm ý đúng điền vào chỗ trống trong câu nói của Karl Marx và Friedrich Engels: “Trong tất cả các giai cấp hiện đang đối lập với giai cấp tư sản thì chỉ có giai cấp vô sản là giai cấp thật sự [.........]”.",
+    "options": [
+      {
+        "id": "R185-C2-Q029-O1",
+        "text": "Khoa học"
+      },
+      {
+        "id": "R185-C2-Q029-O2",
+        "text": "Cách mạng"
+      },
+      {
+        "id": "R185-C2-Q029-O3",
+        "text": "Triệt để"
+      },
+      {
+        "id": "R185-C2-Q029-O4",
+        "text": "Tiên phong"
+      }
+    ],
+    "correctOptionId": "R185-C2-Q029-O2",
+    "explanation": "Đáp án B đúng vì trong Tuyên ngôn của Đảng Cộng sản, giai cấp vô sản được xác định là giai cấp 'thật sự cách mạng' trong các giai cấp đối lập với giai cấp tư sản.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C2-Q030",
+    "chapter": 2,
+    "number": 30,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 30,
+    "question": "Xét trong quan hệ sản xuất tư bản chủ nghĩa, giai cấp công nhân là:",
+    "options": [
+      {
+        "id": "R185-C2-Q030-O1",
+        "text": "Giai cấp nghèo khổ nhất"
+      },
+      {
+        "id": "R185-C2-Q030-O2",
+        "text": "Giai cấp không có tư liệu sản xuất, đi làm thuê cho nhà tư bản, bị bóc lột giá trị thặng dư"
+      },
+      {
+        "id": "R185-C2-Q030-O3",
+        "text": "Giai cấp có số lượng đông trong dân cư"
+      },
+      {
+        "id": "R185-C2-Q030-O4",
+        "text": "Cả A, B và C"
+      }
+    ],
+    "correctOptionId": "R185-C2-Q030-O2",
+    "explanation": "Đáp án B đúng vì trong quan hệ sản xuất tư bản chủ nghĩa, công nhân không sở hữu tư liệu sản xuất chủ yếu, phải bán sức lao động cho nhà tư bản và bị chiếm hữu giá trị thặng dư.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C2-Q031",
+    "chapter": 2,
+    "number": 31,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 31,
+    "question": "Tìm ý đúng điền vào chỗ trống: Đảng Cộng sản [.........] cao nhất của giai cấp công nhân.",
+    "options": [
+      {
+        "id": "R185-C2-Q031-O1",
+        "text": "Là tổ chức chính trị"
+      },
+      {
+        "id": "R185-C2-Q031-O2",
+        "text": "Là tổ chức kinh tế"
+      },
+      {
+        "id": "R185-C2-Q031-O3",
+        "text": "Là tổ chức xã hội"
+      },
+      {
+        "id": "R185-C2-Q031-O4",
+        "text": "Là tổ chức chính trị – xã hội"
+      }
+    ],
+    "correctOptionId": "R185-C2-Q031-O1",
+    "explanation": "Đáp án A đúng vì Đảng Cộng sản được xác định là tổ chức chính trị cao nhất của giai cấp công nhân, có vai trò lãnh đạo về đường lối, tổ chức và hành động cách mạng.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C2-Q032",
+    "chapter": 2,
+    "number": 32,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 32,
+    "question": "Tìm ý đúng điền vào chỗ trống: Giai cấp công nhân [.........] của Đảng Cộng sản.",
+    "options": [
+      {
+        "id": "R185-C2-Q032-O1",
+        "text": "Là cơ sở giai cấp"
+      },
+      {
+        "id": "R185-C2-Q032-O2",
+        "text": "Là cơ sở kinh tế"
+      },
+      {
+        "id": "R185-C2-Q032-O3",
+        "text": "Là bộ phận"
+      },
+      {
+        "id": "R185-C2-Q032-O4",
+        "text": "Là tổ chức chính trị – xã hội"
+      }
+    ],
+    "correctOptionId": "R185-C2-Q032-O1",
+    "explanation": "Đáp án A đúng vì giai cấp công nhân là cơ sở giai cấp của Đảng Cộng sản; Đảng là đội tiên phong chính trị của giai cấp công nhân.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C2-Q033",
+    "chapter": 2,
+    "number": 33,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 33,
+    "question": "Hình thức đầu tiên của đấu tranh giai cấp của giai cấp công nhân khi chưa giành được chính quyền?",
+    "options": [
+      {
+        "id": "R185-C2-Q033-O1",
+        "text": "Đấu tranh chính trị"
+      },
+      {
+        "id": "R185-C2-Q033-O2",
+        "text": "Đấu tranh vũ trang"
+      },
+      {
+        "id": "R185-C2-Q033-O3",
+        "text": "Đấu tranh kinh tế"
+      },
+      {
+        "id": "R185-C2-Q033-O4",
+        "text": "Đấu tranh tư tưởng"
+      }
+    ],
+    "correctOptionId": "R185-C2-Q033-O3",
+    "explanation": "Đáp án C đúng vì khi chưa giành được chính quyền, hình thức đấu tranh xuất hiện sớm nhất của công nhân thường là đấu tranh kinh tế như đòi tăng lương, giảm giờ làm, cải thiện điều kiện lao động; từ đó phong trào mới phát triển lên đấu tranh chính trị.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C2-Q034",
+    "chapter": 2,
+    "number": 34,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 34,
+    "question": "Giai cấp công nhân thông qua con đường nào để giải phóng mình và giải phóng nhân dân lao động?",
+    "options": [
+      {
+        "id": "R185-C2-Q034-O1",
+        "text": "Biểu tình"
+      },
+      {
+        "id": "R185-C2-Q034-O2",
+        "text": "Đấu tranh nghị viện"
+      },
+      {
+        "id": "R185-C2-Q034-O3",
+        "text": "Cách mạng xã hội chủ nghĩa"
+      },
+      {
+        "id": "R185-C2-Q034-O4",
+        "text": "Bãi công"
+      }
+    ],
+    "correctOptionId": "R185-C2-Q034-O3",
+    "explanation": "Đáp án C đúng vì mục tiêu giải phóng giai cấp công nhân và nhân dân lao động không thể đạt được chỉ bằng bãi công hay biểu tình riêng lẻ; theo lý luận của môn học, con đường căn bản là cách mạng xã hội chủ nghĩa.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C2-Q035",
+    "chapter": 2,
+    "number": 35,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 35,
+    "question": "Giai cấp công nhân là người lao động gắn với nền sản xuất:",
+    "options": [
+      {
+        "id": "R185-C2-Q035-O1",
+        "text": "Nông nghiệp"
+      },
+      {
+        "id": "R185-C2-Q035-O2",
+        "text": "Thủ công nghiệp"
+      },
+      {
+        "id": "R185-C2-Q035-O3",
+        "text": "Nền công nghiệp hiện đại"
+      },
+      {
+        "id": "R185-C2-Q035-O4",
+        "text": "Đại nông nghiệp"
+      }
+    ],
+    "correctOptionId": "R185-C2-Q035-O3",
+    "explanation": "Đáp án C đúng vì giai cấp công nhân gắn với nền công nghiệp hiện đại và các công cụ lao động ngày càng hiện đại, xã hội hóa cao.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C2-Q036",
+    "chapter": 2,
+    "number": 36,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 36,
+    "question": "Giai cấp công nhân là giai cấp triệt để cách mạng bởi vì:",
+    "options": [
+      {
+        "id": "R185-C2-Q036-O1",
+        "text": "Họ là giai cấp có nhiệm vụ xóa bỏ chủ nghĩa tư bản và xây dựng chủ nghĩa xã hội"
+      },
+      {
+        "id": "R185-C2-Q036-O2",
+        "text": "Họ là giai cấp không có tư liệu sản xuất, làm thuê, bị bóc lột giá trị thặng dư"
+      },
+      {
+        "id": "R185-C2-Q036-O3",
+        "text": "Họ là giai cấp thực hiện xóa bỏ mọi chế độ tư hữu"
+      },
+      {
+        "id": "R185-C2-Q036-O4",
+        "text": "Cả B và C"
+      }
+    ],
+    "correctOptionId": "R185-C2-Q036-O2",
+    "explanation": "Theo đáp án gợi ý của file, chọn B. Địa vị không sở hữu tư liệu sản xuất chủ yếu, phải làm thuê và bị bóc lột giá trị thặng dư tạo nên lợi ích đối lập cơ bản với giai cấp tư sản, là căn nguyên khiến giai cấp công nhân có tính cách mạng triệt để. Phương án C nói 'xóa bỏ mọi chế độ tư hữu' là quá rộng.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C3-Q037",
+    "chapter": 3,
+    "number": 37,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 37,
+    "question": "Đặc điểm nổi bật nhất của thời kỳ quá độ lên chủ nghĩa xã hội là gì?",
+    "options": [
+      {
+        "id": "R185-C3-Q037-O1",
+        "text": "Tồn tại một nền kinh tế nhiều thành phần trong một hệ thống kinh tế quốc dân thống nhất"
+      },
+      {
+        "id": "R185-C3-Q037-O2",
+        "text": "Kết cấu giai cấp trong xã hội đa dạng và phức tạp"
+      },
+      {
+        "id": "R185-C3-Q037-O3",
+        "text": "Tồn tại nhiều yếu tố văn hóa và tư tưởng khác nhau"
+      },
+      {
+        "id": "R185-C3-Q037-O4",
+        "text": "Tồn tại những yếu tố của xã hội cũ bên cạnh những nhân tố mới của chủ nghĩa xã hội trong mối quan hệ vừa thống nhất vừa đấu tranh với nhau trên tất cả các lĩnh vực"
+      }
+    ],
+    "correctOptionId": "R185-C3-Q037-O4",
+    "explanation": "Đáp án D đúng vì đặc điểm bao trùm của thời kỳ quá độ là cái cũ và cái mới cùng tồn tại, vừa thống nhất vừa đấu tranh trên mọi lĩnh vực. Kinh tế nhiều thành phần, cơ cấu giai cấp phức tạp hay tư tưởng đa dạng chỉ là những biểu hiện cụ thể của đặc điểm này.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C3-Q038",
+    "chapter": 3,
+    "number": 38,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 38,
+    "question": "Phân phối theo lao động là hình thức phân phối cơ bản của xã hội nào?",
+    "options": [
+      {
+        "id": "R185-C3-Q038-O1",
+        "text": "Xã hội tư bản chủ nghĩa"
+      },
+      {
+        "id": "R185-C3-Q038-O2",
+        "text": "Xã hội xã hội chủ nghĩa"
+      },
+      {
+        "id": "R185-C3-Q038-O3",
+        "text": "Xã hội cộng sản chủ nghĩa"
+      },
+      {
+        "id": "R185-C3-Q038-O4",
+        "text": "Các phương án trên đều sai"
+      }
+    ],
+    "correctOptionId": "R185-C3-Q038-O2",
+    "explanation": "Đáp án B đúng vì trong giai đoạn xã hội chủ nghĩa, phân phối theo lao động là hình thức phân phối cơ bản; ở giai đoạn cộng sản chủ nghĩa phát triển cao mới hướng tới phân phối theo nhu cầu.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C3-Q039",
+    "chapter": 3,
+    "number": 39,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 39,
+    "question": "Chế độ dân chủ xã hội chủ nghĩa được thiết lập cho:",
+    "options": [
+      {
+        "id": "R185-C3-Q039-O1",
+        "text": "Giai cấp tư sản"
+      },
+      {
+        "id": "R185-C3-Q039-O2",
+        "text": "Giai cấp công nhân"
+      },
+      {
+        "id": "R185-C3-Q039-O3",
+        "text": "Giai cấp công nhân và đa số nhân dân lao động"
+      },
+      {
+        "id": "R185-C3-Q039-O4",
+        "text": "Giai cấp tiểu tư sản"
+      }
+    ],
+    "correctOptionId": "R185-C3-Q039-O3",
+    "explanation": "Đáp án C đúng vì dân chủ xã hội chủ nghĩa được thiết lập trước hết cho giai cấp công nhân và đông đảo nhân dân lao động, chứ không phải cho riêng một giai cấp thiểu số.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C3-Q040",
+    "chapter": 3,
+    "number": 40,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 40,
+    "question": "Vladimir Ilyich Vladimir Ilyich Lenin chia hình thái kinh tế – xã hội cộng sản chủ nghĩa thành mấy giai đoạn?",
+    "options": [
+      {
+        "id": "R185-C3-Q040-O1",
+        "text": "Hai giai đoạn: chủ nghĩa xã hội và chủ nghĩa cộng sản"
+      },
+      {
+        "id": "R185-C3-Q040-O2",
+        "text": "Ba giai đoạn: Thời kỳ quá độ lên chủ nghĩa xã hội, chủ nghĩa xã hội và giai đoạn cao của hình thái kinh tế – xã hội cộng sản chủ nghĩa"
+      },
+      {
+        "id": "R185-C3-Q040-O3",
+        "text": "Bốn giai đoạn: Thời kỳ quá độ lên chủ nghĩa xã hội, chủ nghĩa xã hội, chủ nghĩa xã hội phát triển cao và cộng sản chủ nghĩa"
+      },
+      {
+        "id": "R185-C3-Q040-O4",
+        "text": "Tất cả các câu đều sai"
+      }
+    ],
+    "correctOptionId": "R185-C3-Q040-O2",
+    "explanation": "Đáp án B đúng vì theo cách trình bày của bộ đề, tiến trình gồm ba phần: thời kỳ quá độ lên chủ nghĩa xã hội, chủ nghĩa xã hội và giai đoạn cao của hình thái kinh tế - xã hội cộng sản chủ nghĩa.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C3-Q041",
+    "chapter": 3,
+    "number": 41,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 41,
+    "question": "Với dự báo khoa học của chủ nghĩa Mác – Vladimir Ilyich Lenin, khi đến một giai đoạn mà xã hội không còn giai cấp, không còn đấu tranh giai cấp thì:",
+    "options": [
+      {
+        "id": "R185-C3-Q041-O1",
+        "text": "Nhà nước vẫn còn tồn tại"
+      },
+      {
+        "id": "R185-C3-Q041-O2",
+        "text": "Nhà nước tự tiêu vong"
+      },
+      {
+        "id": "R185-C3-Q041-O3",
+        "text": "Nhà nước phát triển"
+      },
+      {
+        "id": "R185-C3-Q041-O4",
+        "text": "Nhà nước phồn thịnh"
+      }
+    ],
+    "correctOptionId": "R185-C3-Q041-O2",
+    "explanation": "Đáp án B đúng vì theo chủ nghĩa Mác - Vladimir Ilyich Lenin, nhà nước gắn với sự tồn tại của giai cấp và đối kháng giai cấp. Khi xã hội không còn giai cấp và đấu tranh giai cấp, cơ sở tồn tại của nhà nước mất đi nên nhà nước dần tự tiêu vong.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C3-Q042",
+    "chapter": 3,
+    "number": 42,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 42,
+    "question": "Thời kỳ quá độ lên chủ nghĩa xã hội là thời kỳ bắt đầu khi nào?",
+    "options": [
+      {
+        "id": "R185-C3-Q042-O1",
+        "text": "Bắt đầu từ khi giai cấp công nhân và nhân dân lao động giành được chính quyền nhà nước"
+      },
+      {
+        "id": "R185-C3-Q042-O2",
+        "text": "Bắt đầu từ cuộc cách mạng dân chủ tư sản kiểu mới"
+      },
+      {
+        "id": "R185-C3-Q042-O3",
+        "text": "Bắt đầu từ đấu tranh giai cấp"
+      },
+      {
+        "id": "R185-C3-Q042-O4",
+        "text": "Bắt đầu từ sản xuất hàng hóa"
+      }
+    ],
+    "correctOptionId": "R185-C3-Q042-O1",
+    "explanation": "Đáp án A đúng vì thời kỳ quá độ bắt đầu khi giai cấp công nhân và nhân dân lao động giành được chính quyền nhà nước, từ đó có điều kiện cải biến xã hội cũ và xây dựng xã hội mới.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C3-Q043",
+    "chapter": 3,
+    "number": 43,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 43,
+    "question": "Thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam là bước quá độ:",
+    "options": [
+      {
+        "id": "R185-C3-Q043-O1",
+        "text": "Quá độ trực tiếp, từ chủ nghĩa tư bản lên chủ nghĩa xã hội"
+      },
+      {
+        "id": "R185-C3-Q043-O2",
+        "text": "Quá độ gián tiếp, bỏ qua chế độ chủ nghĩa tư bản tiến lên chủ nghĩa xã hội"
+      },
+      {
+        "id": "R185-C3-Q043-O3",
+        "text": "Quá độ gián tiếp, bỏ qua chế độ phong kiến tiến lên chủ nghĩa xã hội"
+      },
+      {
+        "id": "R185-C3-Q043-O4",
+        "text": "Quá độ có qua trung gian"
+      }
+    ],
+    "correctOptionId": "R185-C3-Q043-O2",
+    "explanation": "Đáp án B đúng vì Việt Nam đi lên chủ nghĩa xã hội theo con đường quá độ gián tiếp, bỏ qua việc xác lập vị trí thống trị của quan hệ sản xuất và kiến trúc thượng tầng tư bản chủ nghĩa.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C3-Q044",
+    "chapter": 3,
+    "number": 44,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 44,
+    "question": "Thực chất của thời kỳ quá độ lên chủ nghĩa xã hội là gì?",
+    "options": [
+      {
+        "id": "R185-C3-Q044-O1",
+        "text": "Là cuộc cải biến cách mạng về kinh tế"
+      },
+      {
+        "id": "R185-C3-Q044-O2",
+        "text": "Là cuộc cải biến cách mạng về chính trị"
+      },
+      {
+        "id": "R185-C3-Q044-O3",
+        "text": "Là cuộc cải biến cách mạng về tư tưởng và văn hóa"
+      },
+      {
+        "id": "R185-C3-Q044-O4",
+        "text": "Các phương án trên đều đúng"
+      }
+    ],
+    "correctOptionId": "R185-C3-Q044-O4",
+    "explanation": "Đáp án D đúng vì thực chất thời kỳ quá độ là cuộc cải biến cách mạng toàn diện xã hội cũ sang xã hội mới, bao gồm đồng thời kinh tế, chính trị, tư tưởng và văn hóa; vì vậy các ý A, B và C đều đúng nhưng mới phản ánh từng mặt.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C3-Q045",
+    "chapter": 3,
+    "number": 45,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 45,
+    "question": "Thời kỳ quá độ lên chủ nghĩa xã hội ở miền Bắc nước ta bắt đầu từ khi nào?",
+    "options": [
+      {
+        "id": "R185-C3-Q045-O1",
+        "text": "1930"
+      },
+      {
+        "id": "R185-C3-Q045-O2",
+        "text": "1945"
+      },
+      {
+        "id": "R185-C3-Q045-O3",
+        "text": "1954"
+      },
+      {
+        "id": "R185-C3-Q045-O4",
+        "text": "1975"
+      }
+    ],
+    "correctOptionId": "R185-C3-Q045-O3",
+    "explanation": "Đáp án C đúng vì miền Bắc bắt đầu thời kỳ quá độ lên chủ nghĩa xã hội từ năm 1954 sau khi được giải phóng và bước vào xây dựng xã hội mới.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C3-Q046",
+    "chapter": 3,
+    "number": 46,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 46,
+    "question": "Thời kỳ quá độ ở Việt Nam bắt đầu từ khi nào?",
+    "options": [
+      {
+        "id": "R185-C3-Q046-O1",
+        "text": "1930"
+      },
+      {
+        "id": "R185-C3-Q046-O2",
+        "text": "1945"
+      },
+      {
+        "id": "R185-C3-Q046-O3",
+        "text": "1954"
+      },
+      {
+        "id": "R185-C3-Q046-O4",
+        "text": "1975"
+      }
+    ],
+    "correctOptionId": "R185-C3-Q046-O4",
+    "explanation": "Theo ghi chú của file, chọn D nếu hiểu câu hỏi theo phạm vi cả nước: từ năm 1975 sau khi đất nước thống nhất, cả nước cùng bước vào thời kỳ quá độ. Miền Bắc đã bắt đầu từ năm 1954, nên cần phân biệt hai mốc này.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C3-Q047",
+    "chapter": 3,
+    "number": 47,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 47,
+    "question": "Vladimir Ilyich Lenin đã áp dụng lý luận chủ nghĩa Mác – Vladimir Ilyich Lenin vào xây dựng chủ nghĩa xã hội hiện thực ở quốc gia nào?",
+    "options": [
+      {
+        "id": "R185-C3-Q047-O1",
+        "text": "Anh"
+      },
+      {
+        "id": "R185-C3-Q047-O2",
+        "text": "Pháp"
+      },
+      {
+        "id": "R185-C3-Q047-O3",
+        "text": "Mỹ"
+      },
+      {
+        "id": "R185-C3-Q047-O4",
+        "text": "Nga"
+      }
+    ],
+    "correctOptionId": "R185-C3-Q047-O4",
+    "explanation": "Đáp án D đúng vì Vladimir Ilyich Vladimir Ilyich Lenin đã vận dụng và phát triển lý luận Mác - Vladimir Ilyich Lenin trong Cách mạng Tháng Mười và quá trình xây dựng chủ nghĩa xã hội hiện thực ở nước Nga Xô viết.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C3-Q048",
+    "chapter": 3,
+    "number": 48,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 48,
+    "question": "Đặc trưng cơ bản của chủ nghĩa xã hội là:",
+    "options": [
+      {
+        "id": "R185-C3-Q048-O1",
+        "text": "Đây là giai đoạn thấp, mới thoát thai từ xã hội cũ, vì vậy còn nhiều tàn dư trên tất cả các lĩnh vực của đời sống xã hội"
+      },
+      {
+        "id": "R185-C3-Q048-O2",
+        "text": "Đây là giai đoạn cao, các lĩnh vực của đời sống xã hội đang phát triển ở trình độ cao"
+      },
+      {
+        "id": "R185-C3-Q048-O3",
+        "text": "Đây là giai đoạn trung bình, chưa thoát thai từ xã hội cũ, vì vậy còn nhiều tàn dư của xã hội trên rất nhiều lĩnh vực"
+      },
+      {
+        "id": "R185-C3-Q048-O4",
+        "text": "Đây là giai đoạn thấp, giai đoạn chưa phát triển nên còn nhiều tàn dư của xã hội trên rất nhiều lĩnh vực"
+      }
+    ],
+    "correctOptionId": "R185-C3-Q048-O1",
+    "explanation": "Đáp án A đúng vì chủ nghĩa xã hội là giai đoạn thấp của hình thái kinh tế - xã hội cộng sản chủ nghĩa, mới thoát thai từ xã hội cũ nên vẫn còn nhiều dấu vết, tàn dư trên các lĩnh vực.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C3-Q049",
+    "chapter": 3,
+    "number": 49,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 49,
+    "question": "Đặc điểm lớn nhất của thời kỳ quá độ lên chủ nghĩa xã hội ở nước ta là:",
+    "options": [
+      {
+        "id": "R185-C3-Q049-O1",
+        "text": "năng suất lao động thấp"
+      },
+      {
+        "id": "R185-C3-Q049-O2",
+        "text": "lực lượng sản xuất chưa phát triển"
+      },
+      {
+        "id": "R185-C3-Q049-O3",
+        "text": "Nhiều thành phần xã hội đan xen tồn tại"
+      },
+      {
+        "id": "R185-C3-Q049-O4",
+        "text": "Từ một nền sản xuất nhỏ là phổ biến quá độ lên chủ nghĩa xã hội không qua chế độ tư bản chủ nghĩa"
+      }
+    ],
+    "correctOptionId": "R185-C3-Q049-O4",
+    "explanation": "Đáp án D đúng vì đặc điểm lớn nhất của Việt Nam là xuất phát từ nền sản xuất nhỏ phổ biến, quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa; các khó khăn như năng suất thấp hay lực lượng sản xuất chưa phát triển là những biểu hiện của điểm xuất phát này.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C3-Q050",
+    "chapter": 3,
+    "number": 50,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 50,
+    "question": "Khi nói “Quá độ lên chủ nghĩa xã hội bỏ qua tư bản chủ nghĩa” là bỏ qua yếu tố nào?",
+    "options": [
+      {
+        "id": "R185-C3-Q050-O1",
+        "text": "Bỏ qua các yếu tố kinh tế gắn với chủ nghĩa tư bản"
+      },
+      {
+        "id": "R185-C3-Q050-O2",
+        "text": "Bỏ qua việc xác lập vị trí thống trị của quan hệ sản xuất và kiến trúc thượng tầng tư bản chủ nghĩa"
+      },
+      {
+        "id": "R185-C3-Q050-O3",
+        "text": "Bỏ qua các yếu tố chính trị gắn với sự phát triển của tư bản chủ nghĩa"
+      },
+      {
+        "id": "R185-C3-Q050-O4",
+        "text": "Bỏ qua các yếu tố văn hóa gắn với sự phát triển của tư bản chủ nghĩa"
+      }
+    ],
+    "correctOptionId": "R185-C3-Q050-O2",
+    "explanation": "Đáp án B đúng vì 'bỏ qua chế độ tư bản chủ nghĩa' là bỏ qua việc xác lập vị trí thống trị của quan hệ sản xuất và kiến trúc thượng tầng tư bản chủ nghĩa, chứ không phủ nhận mọi thành tựu kinh tế, khoa học hay văn hóa của chủ nghĩa tư bản.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C3-Q051",
+    "chapter": 3,
+    "number": 51,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 51,
+    "question": "Thời kỳ quá độ lên chủ nghĩa xã hội là:",
+    "options": [
+      {
+        "id": "R185-C3-Q051-O1",
+        "text": "Là thời kỳ cải biến cách mạng sâu sắc trên tất cả các lĩnh vực của đời sống xã hội từ xã hội cũ sang xã hội mới"
+      },
+      {
+        "id": "R185-C3-Q051-O2",
+        "text": "Là thời kỳ cách mạng lâu dài, khó khăn và phức tạp đi từ xã hội cũ sang xã hội mới"
+      },
+      {
+        "id": "R185-C3-Q051-O3",
+        "text": "Là một thời kỳ cách mạng xã hội chủ nghĩa từ xã hội cũ sang xã hội mới"
+      },
+      {
+        "id": "R185-C3-Q051-O4",
+        "text": "Là một thời kỳ đấu tranh cách mạng từ xã hội cũ sang xã hội mới"
+      }
+    ],
+    "correctOptionId": "R185-C3-Q051-O1",
+    "explanation": "Đáp án A đúng vì thời kỳ quá độ là thời kỳ cải biến cách mạng sâu sắc và toàn diện trên tất cả các lĩnh vực từ xã hội cũ sang xã hội mới; các phương án còn lại chỉ diễn đạt một phần hoặc chưa đầy đủ.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C3-Q052",
+    "chapter": 3,
+    "number": 52,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 52,
+    "question": "Thời kỳ quá độ lên chủ nghĩa xã hội diễn ra cuộc đấu tranh gay gắt giữa:",
+    "options": [
+      {
+        "id": "R185-C3-Q052-O1",
+        "text": "Một bên là giai cấp nông nhân và nhân dân lao động vừa giành được chính quyền nhà nước với một bên là giai cấp bóc lột và các thế lực phản động mới bị đánh đổ"
+      },
+      {
+        "id": "R185-C3-Q052-O2",
+        "text": "Một bên là giai cấp công nhân và nhân dân lao động vừa giành được chính quyền nhà nước với một bên là giai cấp bóc lột và các thế lực phản động mới bị đánh đổ"
+      },
+      {
+        "id": "R185-C3-Q052-O3",
+        "text": "Một bên là giai cấp tiểu tư sản và nhân dân lao động vừa giành được chính quyền nhà nước với một bên là giai cấp bóc lột và các thế lực phản động mới bị đánh đổ"
+      },
+      {
+        "id": "R185-C3-Q052-O4",
+        "text": "Một bên là giai cấp tư sản và nhân dân lao động vừa giành được chính quyền nhà nước với một bên là giai cấp bóc lột và các thế lực phản động mới bị đánh đổ"
+      }
+    ],
+    "correctOptionId": "R185-C3-Q052-O2",
+    "explanation": "Đáp án B đúng vì sau khi giai cấp công nhân và nhân dân lao động giành chính quyền, cuộc đấu tranh vẫn tiếp diễn với các giai cấp bóc lột và lực lượng phản động vừa bị đánh đổ.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C3-Q053",
+    "chapter": 3,
+    "number": 53,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 53,
+    "question": "Karl Marx và Friedrich Engels coi sự chuyển biến từ hình thái kinh tế – xã hội thấp lên hình thái kinh tế – xã hội cao là:",
+    "options": [
+      {
+        "id": "R185-C3-Q053-O1",
+        "text": "Một quá trình lịch sử"
+      },
+      {
+        "id": "R185-C3-Q053-O2",
+        "text": "Một quá trình lịch sử – tự nhiên"
+      },
+      {
+        "id": "R185-C3-Q053-O3",
+        "text": "Một quá trình tự nhiên"
+      },
+      {
+        "id": "R185-C3-Q053-O4",
+        "text": "Một quá trình phát triển văn hóa – xã hội"
+      }
+    ],
+    "correctOptionId": "R185-C3-Q053-O2",
+    "explanation": "Đáp án B đúng vì Karl Marx và Friedrich Engels xem sự thay thế các hình thái kinh tế - xã hội là một quá trình lịch sử - tự nhiên: diễn ra theo những quy luật khách quan của đời sống xã hội, không phải hoàn toàn do ý muốn chủ quan.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C3-Q054",
+    "chapter": 3,
+    "number": 54,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 54,
+    "question": "Ai đã dự báo sự xuất hiện của hình thái kinh tế – xã hội cộng sản chủ nghĩa từ những nước tư bản chủ nghĩa phát triển?",
+    "options": [
+      {
+        "id": "R185-C3-Q054-O1",
+        "text": "Karl Marx, Friedrich Engels"
+      },
+      {
+        "id": "R185-C3-Q054-O2",
+        "text": "Vladimir Ilyich Lenin"
+      },
+      {
+        "id": "R185-C3-Q054-O3",
+        "text": "Stalin"
+      },
+      {
+        "id": "R185-C3-Q054-O4",
+        "text": "Hồ Chí Minh"
+      }
+    ],
+    "correctOptionId": "R185-C3-Q054-O1",
+    "explanation": "Đáp án A đúng vì Karl Marx và Friedrich Engels dự báo trước hết sự chuyển biến lên hình thái cộng sản chủ nghĩa từ các nước tư bản chủ nghĩa phát triển cao.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C3-Q055",
+    "chapter": 3,
+    "number": 55,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 55,
+    "question": "Ai đã dự báo sự xuất hiện của hình thái kinh tế – xã hội cộng sản chủ nghĩa ở các nước tư bản có trình độ phát triển trung bình và những nước thuộc địa sau khi được giải phóng do giai cấp công nhân lãnh đạo?",
+    "options": [
+      {
+        "id": "R185-C3-Q055-O1",
+        "text": "Karl Marx"
+      },
+      {
+        "id": "R185-C3-Q055-O2",
+        "text": "Friedrich Engels"
+      },
+      {
+        "id": "R185-C3-Q055-O3",
+        "text": "Vladimir Ilyich Lenin"
+      },
+      {
+        "id": "R185-C3-Q055-O4",
+        "text": "Hồ Chí Minh"
+      }
+    ],
+    "correctOptionId": "R185-C3-Q055-O3",
+    "explanation": "Đáp án C đúng vì Vladimir Ilyich Vladimir Ilyich Lenin phát triển lý luận của Karl Marx và Friedrich Engels, chỉ ra khả năng quá độ lên chủ nghĩa xã hội ở những nước tư bản phát triển trung bình hoặc nước thuộc địa sau giải phóng dưới sự lãnh đạo của giai cấp công nhân.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C3-Q056",
+    "chapter": 3,
+    "number": 56,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 56,
+    "question": "Theo Karl Marx và Friedrich Engels, điểm giống nhau giữa hai giai đoạn của hình thái kinh tế – xã hội cộng sản chủ nghĩa là:",
+    "options": [
+      {
+        "id": "R185-C3-Q056-O1",
+        "text": "Cùng dựa trên chế độ công hữu về tư liệu sản xuất"
+      },
+      {
+        "id": "R185-C3-Q056-O2",
+        "text": "Không tồn tại nhà nước"
+      },
+      {
+        "id": "R185-C3-Q056-O3",
+        "text": "Không còn đấu tranh giai cấp"
+      },
+      {
+        "id": "R185-C3-Q056-O4",
+        "text": "Cả A, B và C"
+      }
+    ],
+    "correctOptionId": "R185-C3-Q056-O1",
+    "explanation": "Đáp án A đúng vì điểm chung về cơ sở kinh tế của hai giai đoạn là cùng dựa trên chế độ công hữu đối với tư liệu sản xuất chủ yếu; nhà nước và đấu tranh giai cấp không mất đi ngay ở giai đoạn thấp.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C3-Q057",
+    "chapter": 3,
+    "number": 57,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 57,
+    "question": "Đâu không phải là nội dung của thời kỳ quá độ lên chủ nghĩa xã hội trong lĩnh vực kinh tế?",
+    "options": [
+      {
+        "id": "R185-C3-Q057-O1",
+        "text": "Cải tạo quan hệ sản xuất cũ, xây dựng quan hệ sản xuất mới"
+      },
+      {
+        "id": "R185-C3-Q057-O2",
+        "text": "Tiến hành công nghiệp hóa xã hội chủ nghĩa"
+      },
+      {
+        "id": "R185-C3-Q057-O3",
+        "text": "Sắp xếp, bố trí lại các lực lượng sản xuất hiện có"
+      },
+      {
+        "id": "R185-C3-Q057-O4",
+        "text": "Xây dựng nền dân chủ xã hội chủ nghĩa"
+      }
+    ],
+    "correctOptionId": "R185-C3-Q057-O4",
+    "explanation": "Đáp án D đúng vì xây dựng nền dân chủ xã hội chủ nghĩa thuộc lĩnh vực chính trị, không phải nội dung kinh tế. Ba phương án còn lại đều trực tiếp liên quan lực lượng sản xuất và quan hệ sản xuất.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C3-Q058",
+    "chapter": 3,
+    "number": 58,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 58,
+    "question": "Đâu không phải là nội dung của thời kỳ quá độ lên chủ nghĩa xã hội trong lĩnh vực chính trị:",
+    "options": [
+      {
+        "id": "R185-C3-Q058-O1",
+        "text": "Đấu tranh chống lại các thế lực thù địch chống phá sự nghiệp xây dựng chủ nghĩa xã hội"
+      },
+      {
+        "id": "R185-C3-Q058-O2",
+        "text": "Xây dựng Đảng Cộng sản vững mạnh"
+      },
+      {
+        "id": "R185-C3-Q058-O3",
+        "text": "Khắc phục những tệ nạn xã hội do xã hội cũ để lại"
+      },
+      {
+        "id": "R185-C3-Q058-O4",
+        "text": "Xây dựng nền dân chủ xã hội chủ nghĩa"
+      }
+    ],
+    "correctOptionId": "R185-C3-Q058-O3",
+    "explanation": "Đáp án C đúng vì khắc phục tệ nạn xã hội thuộc lĩnh vực xã hội, không phải nội dung chính trị. Xây dựng Đảng, bảo vệ chế độ và xây dựng dân chủ xã hội chủ nghĩa đều là nhiệm vụ chính trị.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C3-Q059",
+    "chapter": 3,
+    "number": 59,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 59,
+    "question": "Đâu không phải là nội dung của thời kỳ quá độ lên chủ nghĩa xã hội trong lĩnh vực tư tưởng – văn hóa:",
+    "options": [
+      {
+        "id": "R185-C3-Q059-O1",
+        "text": "Tuyên truyền hệ tư tưởng của giai cấp công nhân"
+      },
+      {
+        "id": "R185-C3-Q059-O2",
+        "text": "Xây dựng Đảng Cộng sản vững mạnh"
+      },
+      {
+        "id": "R185-C3-Q059-O3",
+        "text": "Xây dựng nền văn hóa mới xã hội chủ nghĩa"
+      },
+      {
+        "id": "R185-C3-Q059-O4",
+        "text": "Tiếp thu giá trị tinh hoa của các nền văn hóa trên thế giới"
+      }
+    ],
+    "correctOptionId": "R185-C3-Q059-O2",
+    "explanation": "Đáp án B đúng vì xây dựng Đảng Cộng sản vững mạnh thuộc lĩnh vực chính trị; các nội dung còn lại trực tiếp thuộc tư tưởng và văn hóa.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C3-Q060",
+    "chapter": 3,
+    "number": 60,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 60,
+    "question": "Đâu không phải là nội dung của thời kỳ quá độ lên chủ nghĩa xã hội trong lĩnh vực xã hội:",
+    "options": [
+      {
+        "id": "R185-C3-Q060-O1",
+        "text": "Đấu tranh chống lại các thế lực thù địch chống phá sự nghiệp xây dựng chủ nghĩa xã hội"
+      },
+      {
+        "id": "R185-C3-Q060-O2",
+        "text": "Xây dựng mối quan hệ tốt đẹp giữa người với người"
+      },
+      {
+        "id": "R185-C3-Q060-O3",
+        "text": "Khắc phục những tệ nạn xã hội do xã hội cũ để lại"
+      },
+      {
+        "id": "R185-C3-Q060-O4",
+        "text": "Khắc phục sự chênh lệch phát triển giữa các vùng miền"
+      }
+    ],
+    "correctOptionId": "R185-C3-Q060-O1",
+    "explanation": "Đáp án A đúng vì đấu tranh chống các thế lực thù địch thuộc lĩnh vực chính trị và bảo vệ chế độ; xây dựng quan hệ xã hội tốt đẹp, khắc phục tệ nạn và chênh lệch vùng miền là nội dung xã hội.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C3-Q061",
+    "chapter": 3,
+    "number": 61,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 61,
+    "question": "Thời kỳ quá độ lên chủ nghĩa xã hội ở nước ta có những nhiệm vụ kinh tế cơ bản nào?",
+    "options": [
+      {
+        "id": "R185-C3-Q061-O1",
+        "text": "Phát triển lực lượng sản xuất, thực hiện công nghiệp hóa – hiện đại hóa đất nước"
+      },
+      {
+        "id": "R185-C3-Q061-O2",
+        "text": "Xây dựng quan hệ sản xuất mới theo định hướng xã hội chủ nghĩa"
+      },
+      {
+        "id": "R185-C3-Q061-O3",
+        "text": "Mở rộng và nâng cao hiệu quả kinh tế đối ngoại"
+      },
+      {
+        "id": "R185-C3-Q061-O4",
+        "text": "Cả A, B và C"
+      }
+    ],
+    "correctOptionId": "R185-C3-Q061-O4",
+    "explanation": "Đáp án D đúng vì cả ba nhiệm vụ đều thuộc kinh tế trong thời kỳ quá độ ở Việt Nam: phát triển lực lượng sản xuất và công nghiệp hóa - hiện đại hóa; xây dựng quan hệ sản xuất mới theo định hướng xã hội chủ nghĩa; mở rộng và nâng cao hiệu quả kinh tế đối ngoại.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C3-Q062",
+    "chapter": 3,
+    "number": 62,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 62,
+    "question": "Quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa cần phải kế thừa yếu tố nào của chủ nghĩa tư bản?",
+    "options": [
+      {
+        "id": "R185-C3-Q062-O1",
+        "text": "Những thành tựu khoa học – công nghệ."
+      },
+      {
+        "id": "R185-C3-Q062-O2",
+        "text": "Khoa học quản lý... buôn bán, hạch toán kinh tế, kinh doanh của chủ nghĩa tư bản."
+      },
+      {
+        "id": "R185-C3-Q062-O3",
+        "text": "Thị trường, vốn..."
+      },
+      {
+        "id": "R185-C3-Q062-O4",
+        "text": "Cả A, B và C"
+      }
+    ],
+    "correctOptionId": "R185-C3-Q062-O4",
+    "explanation": "Đáp án D đúng vì 'bỏ qua chế độ tư bản chủ nghĩa' không có nghĩa phủ nhận mọi thành tựu của chủ nghĩa tư bản. Việt Nam vẫn cần kế thừa khoa học - công nghệ, kinh nghiệm quản lý, thị trường, vốn và các thành tựu văn minh phù hợp.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C3-Q063",
+    "chapter": 3,
+    "number": 63,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 63,
+    "question": "Sự thay đổi căn bản, toàn diện và triệt để một hình thái kinh tế – xã hội này bằng một hình thái kinh tế – xã hội khác là:",
+    "options": [
+      {
+        "id": "R185-C3-Q063-O1",
+        "text": "Đột biến xã hội"
+      },
+      {
+        "id": "R185-C3-Q063-O2",
+        "text": "Cách mạng xã hội"
+      },
+      {
+        "id": "R185-C3-Q063-O3",
+        "text": "Cải cách xã hội"
+      },
+      {
+        "id": "R185-C3-Q063-O4",
+        "text": "Tiến bộ xã hội"
+      }
+    ],
+    "correctOptionId": "R185-C3-Q063-O2",
+    "explanation": "Đáp án B đúng vì sự thay đổi căn bản, toàn diện và triệt để từ một hình thái kinh tế - xã hội sang hình thái khác chính là cách mạng xã hội; cải cách chỉ thay đổi từng mặt chứ không thay toàn bộ nền tảng của xã hội.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C3-Q064",
+    "chapter": 3,
+    "number": 64,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 64,
+    "question": "Chỉ ra đặc điểm chính trị của thời kỳ quá độ từ chủ nghĩa tư bản lên chủ nghĩa xã hội:",
+    "options": [
+      {
+        "id": "R185-C3-Q064-O1",
+        "text": "Còn tồn tại nhiều hình thức sở hữu"
+      },
+      {
+        "id": "R185-C3-Q064-O2",
+        "text": "Còn tồn tại nhiều thành phần kinh tế"
+      },
+      {
+        "id": "R185-C3-Q064-O3",
+        "text": "Còn tồn tại giai cấp và còn đấu tranh giai cấp, do đó còn nhà nước"
+      },
+      {
+        "id": "R185-C3-Q064-O4",
+        "text": "Còn những tàn dư tư tưởng và văn hóa của chế độ cũ"
+      }
+    ],
+    "correctOptionId": "R185-C3-Q064-O3",
+    "explanation": "Đáp án C đúng vì về chính trị, thời kỳ quá độ vẫn còn giai cấp và đấu tranh giai cấp nên nhà nước vẫn tồn tại. Nhiều hình thức sở hữu và nhiều thành phần kinh tế thuộc đặc điểm kinh tế.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C3-Q065",
+    "chapter": 3,
+    "number": 65,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 65,
+    "question": "Chỉ ra đặc điểm kinh tế của thời kỳ quá độ từ chủ nghĩa tư bản lên chủ nghĩa xã hội:",
+    "options": [
+      {
+        "id": "R185-C3-Q065-O1",
+        "text": "Nền kinh tế chỉ có hai thành phần: kinh tế nhà nước và kinh tế tập thể"
+      },
+      {
+        "id": "R185-C3-Q065-O2",
+        "text": "Tồn tại một chế độ sở hữu tư liệu sản xuất dưới hai hình thức: toàn dân và tập thể"
+      },
+      {
+        "id": "R185-C3-Q065-O3",
+        "text": "Tồn tại một nền kinh tế nhiều thành phần"
+      },
+      {
+        "id": "R185-C3-Q065-O4",
+        "text": "Tồn tại một nền kinh tế chỉ có các thành phần kinh tế xã hội chủ nghĩa"
+      }
+    ],
+    "correctOptionId": "R185-C3-Q065-O3",
+    "explanation": "Đáp án C đúng vì nền kinh tế thời kỳ quá độ tồn tại nhiều thành phần và nhiều hình thức sở hữu đan xen; không thể ngay lập tức chỉ còn các thành phần kinh tế xã hội chủ nghĩa.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C3-Q066",
+    "chapter": 3,
+    "number": 66,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 66,
+    "question": "Cuộc cách mạng vô sản đầu tiên trên thế giới là cuộc cách mạng nào?",
+    "options": [
+      {
+        "id": "R185-C3-Q066-O1",
+        "text": "Công xã Pari 1871"
+      },
+      {
+        "id": "R185-C3-Q066-O2",
+        "text": "Cách mạng Tháng Mười Nga 1917"
+      },
+      {
+        "id": "R185-C3-Q066-O3",
+        "text": "Cách mạng Tân Hợi 1911"
+      },
+      {
+        "id": "R185-C3-Q066-O4",
+        "text": "Cách mạng Tháng Tám 1945"
+      }
+    ],
+    "correctOptionId": "R185-C3-Q066-O1",
+    "explanation": "Đáp án A đúng theo cách phân loại của bộ đề: Công xã Paris năm 1871 được xem là cuộc cách mạng vô sản đầu tiên và là hình thức nhà nước đầu tiên của giai cấp công nhân, dù chỉ tồn tại trong thời gian ngắn.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C3-Q067",
+    "chapter": 3,
+    "number": 67,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 67,
+    "question": "Tìm ý đúng điền vào chỗ trống trong câu nói của Chủ tịch Hồ Chí Minh: “Giống như mặt trời chói lọi, [.........] chiếu sáng khắp năm châu, thức tỉnh hàng triệu người bị áp bức, bóc lột trên trái đất”",
+    "options": [
+      {
+        "id": "R185-C3-Q067-O1",
+        "text": "Công xã Pari"
+      },
+      {
+        "id": "R185-C3-Q067-O2",
+        "text": "Cách mạng Tháng Mười"
+      },
+      {
+        "id": "R185-C3-Q067-O3",
+        "text": "Cách mạng dân tộc dân chủ nhân dân"
+      },
+      {
+        "id": "R185-C3-Q067-O4",
+        "text": "Cách mạng Tháng Tám"
+      }
+    ],
+    "correctOptionId": "R185-C3-Q067-O2",
+    "explanation": "Đáp án B đúng vì câu nói của Hồ Chí Minh dùng hình ảnh 'mặt trời chói lọi' để nói về Cách mạng Tháng Mười Nga và ảnh hưởng to lớn của nó đối với các dân tộc bị áp bức.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C3-Q068",
+    "chapter": 3,
+    "number": 68,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 68,
+    "question": "Tìm ý đúng điền vào chỗ trống: “Hãy dùng cả hai tay mà lấy những cái tốt của nước ngoài: Chính quyền Xô viết + trật tự ở đường sắt Phổ + [.........] + ngành giáo dục quốc dân Mỹ”",
+    "options": [
+      {
+        "id": "R185-C3-Q068-O1",
+        "text": "Kỹ thuật và cách thức tổ chức các Tơ rớt ở Mỹ"
+      },
+      {
+        "id": "R185-C3-Q068-O2",
+        "text": "Cách mạng công nghiệp ở Anh"
+      },
+      {
+        "id": "R185-C3-Q068-O3",
+        "text": "Khoa học kỹ thuật của Đức"
+      },
+      {
+        "id": "R185-C3-Q068-O4",
+        "text": "Văn học nghệ thuật của Ý"
+      }
+    ],
+    "correctOptionId": "R185-C3-Q068-O1",
+    "explanation": "Đáp án A đúng vì câu của Vladimir Ilyich Vladimir Ilyich Lenin nhấn mạnh phải tiếp thu kỹ thuật và cách tổ chức các Tơ-rớt ở Mỹ cùng các thành tựu tiến bộ khác của thế giới để xây dựng xã hội mới.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C3-Q069",
+    "chapter": 3,
+    "number": 69,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 69,
+    "question": "Bốn nguy cơ đối với sự nghiệp Đổi mới đất nước mà Hội nghị đại biểu toàn quốc giữa nhiệm kỳ (Khóa VII-1994) của Đảng đã xác định là gì?",
+    "options": [
+      {
+        "id": "R185-C3-Q069-O1",
+        "text": "Tụt hậu xa hơn về kinh tế so với các nước, chệch hướng xã hội chủ nghĩa, tham nhũng và “diễn biến hòa bình”"
+      },
+      {
+        "id": "R185-C3-Q069-O2",
+        "text": "Tụt hậu xa hơn về kinh tế so với các nước, chệch hướng xã hội chủ nghĩa, \"tự diễn biến\" và “diễn biến hòa bình”"
+      },
+      {
+        "id": "R185-C3-Q069-O3",
+        "text": "Tụt hậu xa hơn về kinh tế so với các nước, chệch hướng xã hội chủ nghĩa, tham nhũng và “tự chuyển hóa”"
+      },
+      {
+        "id": "R185-C3-Q069-O4",
+        "text": "Tụt hậu xa hơn về kinh tế so với các nước, chệch hướng xã hội chủ nghĩa, lãng phí và “diễn biến hòa bình”"
+      }
+    ],
+    "correctOptionId": "R185-C3-Q069-O1",
+    "explanation": "Đáp án A đúng vì Hội nghị đại biểu toàn quốc giữa nhiệm kỳ khóa VII năm 1994 xác định bốn nguy cơ: tụt hậu xa hơn về kinh tế, chệch hướng xã hội chủ nghĩa, tham nhũng và 'diễn biến hòa bình'.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C4-Q070",
+    "chapter": 4,
+    "number": 70,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 70,
+    "question": "Theo nghĩa chung nhất dân chủ là gì?",
+    "options": [
+      {
+        "id": "R185-C4-Q070-O1",
+        "text": "Là quyền lực cho giai cấp chiếm số đông trong xã hội."
+      },
+      {
+        "id": "R185-C4-Q070-O2",
+        "text": "Là quyền lực thuộc về nhân dân"
+      },
+      {
+        "id": "R185-C4-Q070-O3",
+        "text": "Là quyền tự do của mỗi người"
+      },
+      {
+        "id": "R185-C4-Q070-O4",
+        "text": "Quyền lực cho giai cấp cầm quyền"
+      }
+    ],
+    "correctOptionId": "R185-C4-Q070-O2",
+    "explanation": "Đáp án B đúng vì nghĩa chung nhất của dân chủ là quyền lực thuộc về nhân dân; đây cũng là nghĩa gốc của khái niệm dân chủ.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C4-Q071",
+    "chapter": 4,
+    "number": 71,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 71,
+    "question": "Phạm trù (khái niệm) dân chủ xuất hiện khi nào?",
+    "options": [
+      {
+        "id": "R185-C4-Q071-O1",
+        "text": "Ngay từ khi có xã hội loài người."
+      },
+      {
+        "id": "R185-C4-Q071-O2",
+        "text": "Khi có nhà nước vô sản."
+      },
+      {
+        "id": "R185-C4-Q071-O3",
+        "text": "Khi có chế độ tư hữu, giai cấp và nhà nước"
+      },
+      {
+        "id": "R185-C4-Q071-O4",
+        "text": "Trong xã hội công xã nguyên thủy"
+      }
+    ],
+    "correctOptionId": "R185-C4-Q071-O3",
+    "explanation": "Đáp án C đúng vì dân chủ với tư cách một phạm trù chính trị - nhà nước xuất hiện khi xã hội đã có chế độ tư hữu, phân chia giai cấp và nhà nước; thời công xã nguyên thủy mới chỉ có hình thức dân chủ sơ khai, chưa phải chế độ dân chủ nhà nước.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C4-Q072",
+    "chapter": 4,
+    "number": 72,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 72,
+    "question": "Đặc điểm của nền dân chủ xã hội chủ nghĩa?",
+    "options": [
+      {
+        "id": "R185-C4-Q072-O1",
+        "text": "Phát triển cao nhất so với các nền dân chủ khác trong lịch sử"
+      },
+      {
+        "id": "R185-C4-Q072-O2",
+        "text": "Là nền dân chủ cho mọi giai cấp"
+      },
+      {
+        "id": "R185-C4-Q072-O3",
+        "text": "Tuyệt đối nhất trong lịch sử"
+      },
+      {
+        "id": "R185-C4-Q072-O4",
+        "text": "Không mang tính giai cấp."
+      }
+    ],
+    "correctOptionId": "R185-C4-Q072-O1",
+    "explanation": "Đáp án A đúng theo cách trình bày của giáo trình vì dân chủ xã hội chủ nghĩa được xem là nền dân chủ phát triển cao hơn các nền dân chủ trước đó về phạm vi và bản chất, nhưng vẫn mang tính giai cấp.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C4-Q073",
+    "chapter": 4,
+    "number": 73,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 73,
+    "question": "Dân chủ xã hội chủ nghĩa được thực hiện trên những lĩnh vực nào?",
+    "options": [
+      {
+        "id": "R185-C4-Q073-O1",
+        "text": "Trên lĩnh vực chính trị."
+      },
+      {
+        "id": "R185-C4-Q073-O2",
+        "text": "Trên lĩnh vực, kinh tế, chính trị."
+      },
+      {
+        "id": "R185-C4-Q073-O3",
+        "text": "Trên lĩnh vực kinh tế, chính trị, văn hóa – xã hội."
+      },
+      {
+        "id": "R185-C4-Q073-O4",
+        "text": "Văn hóa, tinh thần."
+      }
+    ],
+    "correctOptionId": "R185-C4-Q073-O3",
+    "explanation": "Đáp án C đúng vì dân chủ xã hội chủ nghĩa được thực hiện toàn diện trên các lĩnh vực kinh tế, chính trị, văn hóa và xã hội, không chỉ giới hạn ở chính trị.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C4-Q074",
+    "chapter": 4,
+    "number": 74,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 74,
+    "question": "Nền dân chủ xã hội chủ nghĩa mang bản chất của giai cấp nào?",
+    "options": [
+      {
+        "id": "R185-C4-Q074-O1",
+        "text": "Giai cấp công nhân và quần chúng nhân dân lao động"
+      },
+      {
+        "id": "R185-C4-Q074-O2",
+        "text": "Giai cấp công nhân"
+      },
+      {
+        "id": "R185-C4-Q074-O3",
+        "text": "Giai cấp chiếm đa số"
+      },
+      {
+        "id": "R185-C4-Q074-O4",
+        "text": "Công nhân và nông dân"
+      }
+    ],
+    "correctOptionId": "R185-C4-Q074-O2",
+    "explanation": "Đáp án B đúng vì nền dân chủ xã hội chủ nghĩa mang bản chất giai cấp công nhân, đồng thời hướng tới quyền làm chủ rộng rãi của nhân dân lao động.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C4-Q075",
+    "chapter": 4,
+    "number": 75,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 75,
+    "question": "Nền dân chủ xã hội chủ nghĩa dựa trên hệ tư tưởng nào?",
+    "options": [
+      {
+        "id": "R185-C4-Q075-O1",
+        "text": "Hệ tư tưởng của giai cấp công nhân, nông dân và tri thức"
+      },
+      {
+        "id": "R185-C4-Q075-O2",
+        "text": "Hệ tư tưởng của chủ nghĩa Mác – Vladimir Ilyich Lenin"
+      },
+      {
+        "id": "R185-C4-Q075-O3",
+        "text": "Hệ tư tưởng của giai cấp tư sản"
+      },
+      {
+        "id": "R185-C4-Q075-O4",
+        "text": "Hệ tư tưởng của trí thức"
+      }
+    ],
+    "correctOptionId": "R185-C4-Q075-O2",
+    "explanation": "Đáp án B đúng vì hệ tư tưởng nền tảng của dân chủ xã hội chủ nghĩa là chủ nghĩa Mác - Vladimir Ilyich Lenin; các lực lượng xã hội là chủ thể tham gia chứ không phải tên của một hệ tư tưởng.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C4-Q076",
+    "chapter": 4,
+    "number": 76,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 76,
+    "question": "Nền dân chủ xã hội chủ nghĩa dựa trên cơ sở kinh tế nào?",
+    "options": [
+      {
+        "id": "R185-C4-Q076-O1",
+        "text": "Kinh tế nhiều thành phần"
+      },
+      {
+        "id": "R185-C4-Q076-O2",
+        "text": "Công hữu về tư liệu sản xuất"
+      },
+      {
+        "id": "R185-C4-Q076-O3",
+        "text": "Tư hữu về tư liệu sản xuất"
+      },
+      {
+        "id": "R185-C4-Q076-O4",
+        "text": "KTXH chủ nghĩa"
+      }
+    ],
+    "correctOptionId": "R185-C4-Q076-O2",
+    "explanation": "Đáp án B đúng vì cơ sở kinh tế của dân chủ xã hội chủ nghĩa là chế độ công hữu đối với tư liệu sản xuất chủ yếu, tạo nền tảng kinh tế cho quyền làm chủ của nhân dân.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C4-Q077",
+    "chapter": 4,
+    "number": 77,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 77,
+    "question": "Trong lịch sử loài người đã từng xuất hiện các chế độ dân chủ nào?",
+    "options": [
+      {
+        "id": "R185-C4-Q077-O1",
+        "text": "Chủ nô, phong kiến, tư sản, vô sản"
+      },
+      {
+        "id": "R185-C4-Q077-O2",
+        "text": "Chủ nô, tư sản, vô sản"
+      },
+      {
+        "id": "R185-C4-Q077-O3",
+        "text": "Công xã nguyên thủy, chủ nô, phong kiến, tư sản, vô sản"
+      },
+      {
+        "id": "R185-C4-Q077-O4",
+        "text": "Chủ nô, phong kiến, tư sản."
+      }
+    ],
+    "correctOptionId": "R185-C4-Q077-O2",
+    "explanation": "Đáp án B đúng vì xét các nền dân chủ gắn với kiểu nhà nước, lịch sử đã có dân chủ chủ nô, dân chủ tư sản và dân chủ vô sản hay xã hội chủ nghĩa. Xã hội phong kiến chủ yếu tổ chức theo chế độ quân chủ.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C4-Q078",
+    "chapter": 4,
+    "number": 78,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 78,
+    "question": "Kiểu nhà nước nào sau đây được Vladimir Ilyich Lenin gọi là nhà nước “Nửa nhà nước”?",
+    "options": [
+      {
+        "id": "R185-C4-Q078-O1",
+        "text": "Nhà nước Chủ nô"
+      },
+      {
+        "id": "R185-C4-Q078-O2",
+        "text": "Nhà nước tư sản"
+      },
+      {
+        "id": "R185-C4-Q078-O3",
+        "text": "Nhà nước phong kiến"
+      },
+      {
+        "id": "R185-C4-Q078-O4",
+        "text": "Nhà nước xã hội chủ nghĩa"
+      }
+    ],
+    "correctOptionId": "R185-C4-Q078-O4",
+    "explanation": "Đáp án D đúng vì Vladimir Ilyich Vladimir Ilyich Lenin gọi nhà nước xã hội chủ nghĩa là 'nửa nhà nước' hay 'nhà nước không còn nguyên nghĩa', do chức năng trấn áp có xu hướng giảm còn chức năng tổ chức, xây dựng tăng lên.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C4-Q079",
+    "chapter": 4,
+    "number": 79,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 79,
+    "question": "Điền từ vào chỗ trống: Nhà nước xã hội chủ nghĩa vừa có bản chất giai cấp công nhân, vừa có tính nhân dân rộng rãi và tính [.........] sâu sắc.",
+    "options": [
+      {
+        "id": "R185-C4-Q079-O1",
+        "text": "Giai cấp."
+      },
+      {
+        "id": "R185-C4-Q079-O2",
+        "text": "Nhân đạo."
+      },
+      {
+        "id": "R185-C4-Q079-O3",
+        "text": "Dân tộc."
+      },
+      {
+        "id": "R185-C4-Q079-O4",
+        "text": "Cộng đồng."
+      }
+    ],
+    "correctOptionId": "R185-C4-Q079-O3",
+    "explanation": "Đáp án C đúng vì công thức của giáo trình là: nhà nước xã hội chủ nghĩa mang bản chất giai cấp công nhân, có tính nhân dân rộng rãi và tính dân tộc sâu sắc.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C4-Q080",
+    "chapter": 4,
+    "number": 80,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 80,
+    "question": "So với các nền dân chủ trước đây, dân chủ xã hội chủ nghĩa có điểm khác biệt cơ bản nào?",
+    "options": [
+      {
+        "id": "R185-C4-Q080-O1",
+        "text": "Không còn mang tính giai cấp."
+      },
+      {
+        "id": "R185-C4-Q080-O2",
+        "text": "Là nền dân chủ mang tính lịch sử."
+      },
+      {
+        "id": "R185-C4-Q080-O3",
+        "text": "Là nền dân chủ tuyệt đối."
+      },
+      {
+        "id": "R185-C4-Q080-O4",
+        "text": "Là nền dân chủ rộng rãi cho giai cấp công nhân và nhân dân lao động"
+      }
+    ],
+    "correctOptionId": "R185-C4-Q080-O4",
+    "explanation": "Đáp án D đúng vì điểm khác biệt cơ bản được nhấn mạnh là dân chủ xã hội chủ nghĩa mở rộng quyền làm chủ cho giai cấp công nhân và đông đảo nhân dân lao động, thay vì dân chủ chủ yếu phục vụ thiểu số sở hữu.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C4-Q081",
+    "chapter": 4,
+    "number": 81,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 81,
+    "question": "Bản chất chính trị của nền dân chủ xã hội chủ nghĩa thể hiện như thế nào?",
+    "options": [
+      {
+        "id": "R185-C4-Q081-O1",
+        "text": "Là sự lãnh đạo của giai cấp công nhân thông qua đảng của nó đối với toàn xã hội, để thực hiện quyền lực và lợi ích của toàn thể nhân dân lao động, trong đó có giai cấp công nhân."
+      },
+      {
+        "id": "R185-C4-Q081-O2",
+        "text": "Là thực hiện quyền lực của giai cấp công nhân và nhân dân lao động đối với toàn xã hội."
+      },
+      {
+        "id": "R185-C4-Q081-O3",
+        "text": "Là sự lãnh đạo của giai cấp công nhân thông qua chính đảng của nó để cải tạo xã hội cũ và xây dựng xã hội mới."
+      },
+      {
+        "id": "R185-C4-Q081-O4",
+        "text": "Cả A, B và C"
+      }
+    ],
+    "correctOptionId": "R185-C4-Q081-O4",
+    "explanation": "Đáp án D đúng vì cả ba ý đều phản ánh bản chất chính trị của dân chủ xã hội chủ nghĩa: giai cấp công nhân lãnh đạo thông qua Đảng Cộng sản, quyền lực thuộc về công nhân và nhân dân lao động, đồng thời hướng tới cải tạo xã hội cũ và xây dựng xã hội mới.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C4-Q082",
+    "chapter": 4,
+    "number": 82,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 82,
+    "question": "Bản chất của nhà nước xã hội chủ nghĩa là gì?",
+    "options": [
+      {
+        "id": "R185-C4-Q082-O1",
+        "text": "Mang bản chất của giai cấp công nhân."
+      },
+      {
+        "id": "R185-C4-Q082-O2",
+        "text": "Mang bản chất của đa số nhân dân lao động."
+      },
+      {
+        "id": "R185-C4-Q082-O3",
+        "text": "Mang bản chất của giai cấp công nhân, tính nhân dân rộng rãi và tính dân tộc sâu sắc."
+      },
+      {
+        "id": "R185-C4-Q082-O4",
+        "text": "Vừa mang bản chất của giai cấp công nhân, vừa mang bản chất của nhân dân lao động và tính dân tộc sâu sắc"
+      }
+    ],
+    "correctOptionId": "R185-C4-Q082-O3",
+    "explanation": "Đáp án C đúng vì bản chất nhà nước xã hội chủ nghĩa được trình bày ở ba mặt gắn bó: bản chất giai cấp công nhân, tính nhân dân rộng rãi và tính dân tộc sâu sắc.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C4-Q083",
+    "chapter": 4,
+    "number": 83,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 83,
+    "question": "Một trong những yếu tố thúc đẩy xây dựng Nhà nước pháp quyền “là đẩy mạnh phòng chống [.........]”. Điền từ còn thiếu vào chỗ trống?",
+    "options": [
+      {
+        "id": "R185-C4-Q083-O1",
+        "text": "Quan liêu"
+      },
+      {
+        "id": "R185-C4-Q083-O2",
+        "text": "Tham nhũng"
+      },
+      {
+        "id": "R185-C4-Q083-O3",
+        "text": "Hủ hóa"
+      },
+      {
+        "id": "R185-C4-Q083-O4",
+        "text": "Suy thoái đạo đức"
+      }
+    ],
+    "correctOptionId": "R185-C4-Q083-O2",
+    "explanation": "Đáp án B đúng vì xây dựng Nhà nước pháp quyền đòi hỏi bộ máy công quyền trong sạch, hoạt động theo pháp luật; do đó phòng, chống tham nhũng là một nhiệm vụ trực tiếp và quan trọng.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C4-Q084",
+    "chapter": 4,
+    "number": 84,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 84,
+    "question": "Tổ chức quyền lực của Nhà nước pháp quyền xã hội chủ nghĩa Việt Nam là thống nhất, có sự phân công và phối hợp giữa các cơ quan nhà nước trong thực hiện các quyền:",
+    "options": [
+      {
+        "id": "R185-C4-Q084-O1",
+        "text": "Tự do dân chủ"
+      },
+      {
+        "id": "R185-C4-Q084-O2",
+        "text": "Lập pháp, hành pháp, tư pháp"
+      },
+      {
+        "id": "R185-C4-Q084-O3",
+        "text": "Tập trung dân chủ"
+      },
+      {
+        "id": "R185-C4-Q084-O4",
+        "text": "Con người"
+      }
+    ],
+    "correctOptionId": "R185-C4-Q084-O2",
+    "explanation": "Đáp án B đúng vì quyền lực nhà nước ở Việt Nam là thống nhất nhưng có phân công và phối hợp giữa các cơ quan trong thực hiện ba quyền: lập pháp, hành pháp và tư pháp. Điều này khác với mô hình tam quyền phân lập tuyệt đối.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C4-Q085",
+    "chapter": 4,
+    "number": 85,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 85,
+    "question": "Dân chủ là một phạm trù nói về:",
+    "options": [
+      {
+        "id": "R185-C4-Q085-O1",
+        "text": "Một chế độ nhà nước"
+      },
+      {
+        "id": "R185-C4-Q085-O2",
+        "text": "Một hệ tư tưởng"
+      },
+      {
+        "id": "R185-C4-Q085-O3",
+        "text": "Một học thuyết"
+      },
+      {
+        "id": "R185-C4-Q085-O4",
+        "text": "Cả A, B và C"
+      }
+    ],
+    "correctOptionId": "R185-C4-Q085-O1",
+    "explanation": "Đáp án A đúng theo cách hỏi của bộ đề vì dân chủ được xem là một phạm trù chính trị gắn với hình thức tổ chức nhà nước. Khi xét dưới góc độ giá trị xã hội, dân chủ còn có nội hàm rộng hơn.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C4-Q086",
+    "chapter": 4,
+    "number": 86,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 86,
+    "question": "Dân chủ với tư cách là một chế độ xã hội, ra đời đầu tiên ở thời kỳ nào?",
+    "options": [
+      {
+        "id": "R185-C4-Q086-O1",
+        "text": "Cộng sản nguyên thủy"
+      },
+      {
+        "id": "R185-C4-Q086-O2",
+        "text": "Chiếm hữu nô lệ"
+      },
+      {
+        "id": "R185-C4-Q086-O3",
+        "text": "Phong kiến"
+      },
+      {
+        "id": "R185-C4-Q086-O4",
+        "text": "tư bản chủ nghĩa"
+      }
+    ],
+    "correctOptionId": "R185-C4-Q086-O2",
+    "explanation": "Đáp án B đúng vì dân chủ với tư cách một chế độ nhà nước xuất hiện đầu tiên trong xã hội chiếm hữu nô lệ; công xã nguyên thủy chỉ có hình thức dân chủ sơ khai chưa gắn với nhà nước.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C4-Q087",
+    "chapter": 4,
+    "number": 87,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 87,
+    "question": "Chế độ dân chủ xã hội chủ nghĩa được hình thành:",
+    "options": [
+      {
+        "id": "R185-C4-Q087-O1",
+        "text": "Thông qua thắng lợi của cuộc cách mạng xã hội chủ nghĩa"
+      },
+      {
+        "id": "R185-C4-Q087-O2",
+        "text": "Thông qua thắng lợi của cuộc cách mạng tư sản"
+      },
+      {
+        "id": "R185-C4-Q087-O3",
+        "text": "Thông qua thắng lợi của cuộc cách mạng dân chủ tư sản"
+      },
+      {
+        "id": "R185-C4-Q087-O4",
+        "text": "Cả A, B và C"
+      }
+    ],
+    "correctOptionId": "R185-C4-Q087-O1",
+    "explanation": "Đáp án A đúng vì nền dân chủ xã hội chủ nghĩa chỉ có thể được thiết lập sau thắng lợi của cách mạng xã hội chủ nghĩa, khi giai cấp công nhân và nhân dân lao động giành được chính quyền.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C4-Q088",
+    "chapter": 4,
+    "number": 88,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 88,
+    "question": "Câu nói: “dân chủ vô sản là nền dân chủ gấp triệu lần hơn dân chủ tư sản” là của:",
+    "options": [
+      {
+        "id": "R185-C4-Q088-O1",
+        "text": "C.Mác"
+      },
+      {
+        "id": "R185-C4-Q088-O2",
+        "text": "Friedrich Engels"
+      },
+      {
+        "id": "R185-C4-Q088-O3",
+        "text": "Vladimir Ilyich Lenin"
+      },
+      {
+        "id": "R185-C4-Q088-O4",
+        "text": "Hồ Chí Minh"
+      }
+    ],
+    "correctOptionId": "R185-C4-Q088-O3",
+    "explanation": "Đáp án C đúng vì câu nói 'dân chủ vô sản gấp triệu lần dân chủ tư sản' là nhận định của Vladimir Ilyich Vladimir Ilyich Lenin khi nhấn mạnh tính rộng rãi của dân chủ vô sản theo quan điểm của ông.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C4-Q089",
+    "chapter": 4,
+    "number": 89,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 89,
+    "question": "Vì sao dân chủ xã hội chủ nghĩa lại là nền dân chủ hoàn thiện nhất?",
+    "options": [
+      {
+        "id": "R185-C4-Q089-O1",
+        "text": "Vì nó mang bản chất của giai cấp công nhân do Đảng Cộng sản lãnh đạo nhằm phát huy quyền làm chủ của nhân dân lao động trên mọi lĩnh vực của đời sống xã hội"
+      },
+      {
+        "id": "R185-C4-Q089-O2",
+        "text": "Vì nó phát triển cao nhất"
+      },
+      {
+        "id": "R185-C4-Q089-O3",
+        "text": "Vì nó là sản phẩm của chủ nghĩa Mác – Vladimir Ilyich Lenin"
+      },
+      {
+        "id": "R185-C4-Q089-O4",
+        "text": "Vì nó phù hợp với thời đại ngày nay"
+      }
+    ],
+    "correctOptionId": "R185-C4-Q089-O1",
+    "explanation": "Đáp án A đúng vì giáo trình lý giải tính ưu việt của dân chủ xã hội chủ nghĩa ở chỗ mang bản chất giai cấp công nhân, do Đảng Cộng sản lãnh đạo và nhằm phát huy quyền làm chủ của nhân dân lao động trên mọi lĩnh vực.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C4-Q090",
+    "chapter": 4,
+    "number": 90,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 90,
+    "question": "Chỉ ra tiêu chí không thuộc bản chất của nền dân chủ xã hội chủ nghĩa:",
+    "options": [
+      {
+        "id": "R185-C4-Q090-O1",
+        "text": "Quyền lực thuộc về nhân dân"
+      },
+      {
+        "id": "R185-C4-Q090-O2",
+        "text": "Do Đảng Cộng sản của giai cấp công nhân lãnh đạo"
+      },
+      {
+        "id": "R185-C4-Q090-O3",
+        "text": "Cơ sở kinh tế là chế độ công hữu về các tư liệu sản xuất chủ yếu"
+      },
+      {
+        "id": "R185-C4-Q090-O4",
+        "text": "Đa nguyên về chính trị"
+      }
+    ],
+    "correctOptionId": "R185-C4-Q090-O4",
+    "explanation": "Đáp án D đúng vì trong khung lý luận của môn học, dân chủ xã hội chủ nghĩa mang bản chất giai cấp công nhân, do Đảng Cộng sản lãnh đạo và dựa trên sở hữu xã hội đối với tư liệu sản xuất chủ yếu; 'đa nguyên về chính trị' không phải tiêu chí bản chất được nêu.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C4-Q091",
+    "chapter": 4,
+    "number": 91,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 91,
+    "question": "Đâu không phải là đặc trưng của nhà nước xã hội chủ nghĩa",
+    "options": [
+      {
+        "id": "R185-C4-Q091-O1",
+        "text": "Đặt dưới sự lãnh đạo của Đảng Cộng sản"
+      },
+      {
+        "id": "R185-C4-Q091-O2",
+        "text": "Là “nhà nước không còn nguyên nghĩa”, là “nửa nhà nước”"
+      },
+      {
+        "id": "R185-C4-Q091-O3",
+        "text": "Mang bản chất của giai cấp công nhân"
+      },
+      {
+        "id": "R185-C4-Q091-O4",
+        "text": "Tổ chức và hoạt động theo nguyên tắc tam quyền phân lập"
+      }
+    ],
+    "correctOptionId": "R185-C4-Q091-O4",
+    "explanation": "Đáp án D đúng vì Nhà nước xã hội chủ nghĩa không được giáo trình mô tả là tổ chức theo nguyên tắc tam quyền phân lập. Quyền lực nhà nước được xem là thống nhất, có phân công, phối hợp và kiểm soát giữa các cơ quan.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C4-Q092",
+    "chapter": 4,
+    "number": 92,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 92,
+    "question": "Nhà nước ra đời do:",
+    "options": [
+      {
+        "id": "R185-C4-Q092-O1",
+        "text": "Mâu thuẫn giai cấp không thể điều hòa"
+      },
+      {
+        "id": "R185-C4-Q092-O2",
+        "text": "Nhu cầu của việc chống giặc ngoại xâm"
+      },
+      {
+        "id": "R185-C4-Q092-O3",
+        "text": "Nhu cầu của việc phát triển trồng trọt và chăn nuôi"
+      },
+      {
+        "id": "R185-C4-Q092-O4",
+        "text": "Cả A, B và C đều đúng"
+      }
+    ],
+    "correctOptionId": "R185-C4-Q092-O1",
+    "explanation": "Đáp án A đúng theo lý luận Mác - Vladimir Ilyich Lenin vì nhà nước xuất hiện khi xã hội phân chia giai cấp và mâu thuẫn giai cấp phát triển đến mức không thể tự điều hòa; nhà nước trở thành bộ máy quyền lực đặc biệt để quản lý và duy trì trật tự giai cấp.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C4-Q093",
+    "chapter": 4,
+    "number": 93,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 93,
+    "question": "Để đàn áp cuộc đấu tranh của giai cấp nô lệ, một cơ quan quyền lực đặc biệt được giai cấp chủ nô thiết lập ra, đó là:",
+    "options": [
+      {
+        "id": "R185-C4-Q093-O1",
+        "text": "Dân tộc"
+      },
+      {
+        "id": "R185-C4-Q093-O2",
+        "text": "Gia đình"
+      },
+      {
+        "id": "R185-C4-Q093-O3",
+        "text": "Nhà nước"
+      },
+      {
+        "id": "R185-C4-Q093-O4",
+        "text": "Đảng cộng sản"
+      }
+    ],
+    "correctOptionId": "R185-C4-Q093-O3",
+    "explanation": "Đáp án C đúng vì nhà nước là cơ quan quyền lực đặc biệt được giai cấp thống trị thiết lập để duy trì trật tự và bảo vệ lợi ích của mình; trong xã hội chủ nô, nó được dùng để đàn áp sự phản kháng của nô lệ.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C4-Q094",
+    "chapter": 4,
+    "number": 94,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 94,
+    "question": "Xây dựng nhà nước pháp quyền xã hội chủ nghĩa của dân, do dân, vì dân ở nước ta hiện nay cần:",
+    "options": [
+      {
+        "id": "R185-C4-Q094-O1",
+        "text": "Tăng cường sự lãnh đạo của Đảng"
+      },
+      {
+        "id": "R185-C4-Q094-O2",
+        "text": "Dân chủ hoá tổ chức và hoạt động của bộ máy nhà nước"
+      },
+      {
+        "id": "R185-C4-Q094-O3",
+        "text": "Xây dựng hệ thống pháp luật hoàn chỉnh"
+      },
+      {
+        "id": "R185-C4-Q094-O4",
+        "text": "Cả A, B và C"
+      }
+    ],
+    "correctOptionId": "R185-C4-Q094-O4",
+    "explanation": "Đáp án D đúng vì xây dựng Nhà nước pháp quyền xã hội chủ nghĩa của dân, do dân, vì dân đòi hỏi đồng thời tăng cường sự lãnh đạo của Đảng, dân chủ hóa hoạt động bộ máy nhà nước và hoàn thiện hệ thống pháp luật.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C4-Q095",
+    "chapter": 4,
+    "number": 95,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 95,
+    "question": "Điền vào chỗ trống: Chủ nghĩa Mác – Vladimir Ilyich Lenin cho rằng, dân chủ là sản phẩm và là thành quả của quá trình [.........] cho những giá trị tiến bộ của nhân loại",
+    "options": [
+      {
+        "id": "R185-C4-Q095-O1",
+        "text": "Đấu tranh giai cấp"
+      },
+      {
+        "id": "R185-C4-Q095-O2",
+        "text": "Giải phóng dân tộc"
+      },
+      {
+        "id": "R185-C4-Q095-O3",
+        "text": "Phát triển con người"
+      },
+      {
+        "id": "R185-C4-Q095-O4",
+        "text": "Giao lưu văn hóa"
+      }
+    ],
+    "correctOptionId": "R185-C4-Q095-O1",
+    "explanation": "Đáp án A đúng theo cách diễn đạt của bộ đề: dân chủ là kết quả của quá trình đấu tranh giai cấp và đấu tranh xã hội lâu dài để giành, mở rộng và bảo vệ những giá trị tiến bộ của nhân loại.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C5-Q096",
+    "chapter": 5,
+    "number": 96,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 96,
+    "question": "Hãy điền vào chỗ trống cho đoạn văn sau đây: “[.........] là hệ thống các giai cấp, tầng lớp xã hội tồn tại khách quan và mối quan hệ giữa chúng về sở hữu, về quản lý, về địa vị chính trị – xã hội trong một hệ thống sản xuất nhất định”",
+    "options": [
+      {
+        "id": "R185-C5-Q096-O1",
+        "text": "Cơ cấu xã hội"
+      },
+      {
+        "id": "R185-C5-Q096-O2",
+        "text": "Cơ cấu xã hội nghề nghiệp"
+      },
+      {
+        "id": "R185-C5-Q096-O3",
+        "text": "Cơ cấu xã hội – giai cấp"
+      },
+      {
+        "id": "R185-C5-Q096-O4",
+        "text": "Cơ cấu dân số"
+      }
+    ],
+    "correctOptionId": "R185-C5-Q096-O3",
+    "explanation": "Đáp án C đúng vì cơ cấu xã hội - giai cấp là hệ thống các giai cấp, tầng lớp cùng các mối quan hệ giữa chúng về sở hữu, quản lý và địa vị chính trị - xã hội trong một hệ thống sản xuất nhất định.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C5-Q097",
+    "chapter": 5,
+    "number": 97,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 97,
+    "question": "Trong cơ cấu xã hội, loại hình nào là cơ bản và có vị trí quyết định, chi phối các loại hình cơ cấu xã hội khác?",
+    "options": [
+      {
+        "id": "R185-C5-Q097-O1",
+        "text": "Cơ cấu xã hội nghề nghiệp"
+      },
+      {
+        "id": "R185-C5-Q097-O2",
+        "text": "Cơ cấu xã hội – giai cấp"
+      },
+      {
+        "id": "R185-C5-Q097-O3",
+        "text": "Cơ cấu xã hội dân cư"
+      },
+      {
+        "id": "R185-C5-Q097-O4",
+        "text": "Cơ cấu xã hội dân tộc"
+      }
+    ],
+    "correctOptionId": "R185-C5-Q097-O2",
+    "explanation": "Đáp án B đúng vì cơ cấu xã hội - giai cấp gắn trực tiếp với quan hệ sở hữu, quản lý và quyền lực xã hội nên giữ vị trí cơ bản, chi phối mạnh các loại cơ cấu xã hội khác.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C5-Q098",
+    "chapter": 5,
+    "number": 98,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 98,
+    "question": "Nội dung của liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội thể hiện ở những nội dung:",
+    "options": [
+      {
+        "id": "R185-C5-Q098-O1",
+        "text": "Kinh tế, chính trị, tư tưởng"
+      },
+      {
+        "id": "R185-C5-Q098-O2",
+        "text": "Kinh tế, chính trị, đạo đức"
+      },
+      {
+        "id": "R185-C5-Q098-O3",
+        "text": "Kinh tế, chính trị, văn hóa"
+      },
+      {
+        "id": "R185-C5-Q098-O4",
+        "text": "Kinh tế, chính trị, pháp luật"
+      }
+    ],
+    "correctOptionId": "R185-C5-Q098-O3",
+    "explanation": "Đáp án C đúng vì nội dung liên minh giai cấp, tầng lớp trong thời kỳ quá độ được triển khai trên ba mặt lớn: kinh tế, chính trị và văn hóa - xã hội.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C5-Q099",
+    "chapter": 5,
+    "number": 99,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 99,
+    "question": "“Xây dựng khối liên minh để các lực lượng dưới sự lãnh đạo của Đảng cùng nhau xây một nền văn hóa tiên tiến, đậm đà bản sắc dân tộc, đồng thời tiếp thu những tinh hoa, giá trị văn hóa của nhân loại và thời đại” đây là nội dung nào của liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội",
+    "options": [
+      {
+        "id": "R185-C5-Q099-O1",
+        "text": "Nội dung kinh tế"
+      },
+      {
+        "id": "R185-C5-Q099-O2",
+        "text": "Nội dung chính trị"
+      },
+      {
+        "id": "R185-C5-Q099-O3",
+        "text": "Nội dung văn hóa"
+      },
+      {
+        "id": "R185-C5-Q099-O4",
+        "text": "Nội dung xã hội"
+      }
+    ],
+    "correctOptionId": "R185-C5-Q099-O3",
+    "explanation": "Đáp án C đúng vì nội dung nêu trực tiếp việc xây dựng nền văn hóa tiên tiến, đậm đà bản sắc dân tộc và tiếp thu tinh hoa nhân loại, nên thuộc nội dung văn hóa của liên minh.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C5-Q100",
+    "chapter": 5,
+    "number": 100,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 100,
+    "question": "Trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam, cơ cấu xã hội – giai cấp gồm có những giai cấp, tầng lớp nào?",
+    "options": [
+      {
+        "id": "R185-C5-Q100-O1",
+        "text": "Giai cấp công nhân, giai cấp nông dân, giai cấp tư sản, tầng lớp trí thức"
+      },
+      {
+        "id": "R185-C5-Q100-O2",
+        "text": "Giai cấp công nhân, giai cấp nông dân, giai cấp địa chủ phong kiến, tầng lớp trí thức"
+      },
+      {
+        "id": "R185-C5-Q100-O3",
+        "text": "Giai cấp công nhân, giai cấp nông dân, giai cấp tư sản, giai cấp địa chủ phong kiến"
+      },
+      {
+        "id": "R185-C5-Q100-O4",
+        "text": "Giai cấp công nhân, giai cấp nông dân, đội ngũ doanh nhân, đội ngũ trí thức"
+      }
+    ],
+    "correctOptionId": "R185-C5-Q100-O4",
+    "explanation": "Theo đáp án gợi ý của file, chọn D: giai cấp công nhân, giai cấp nông dân, đội ngũ doanh nhân và đội ngũ trí thức là những lực lượng chủ yếu được giáo trình nhấn mạnh trong cơ cấu xã hội - giai cấp ở Việt Nam hiện nay. Đây không phải danh sách toàn bộ mọi tầng lớp.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C5-Q101",
+    "chapter": 5,
+    "number": 101,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 101,
+    "question": "Nội dung của liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam về chính trị là:",
+    "options": [
+      {
+        "id": "R185-C5-Q101-O1",
+        "text": "Đẩy mạnh công nghiệp hóa, hiện đại hóa đất nước gắn với phát triển kinh tế tri thức, phát triển bền vững"
+      },
+      {
+        "id": "R185-C5-Q101-O2",
+        "text": "Giữ vững lập trường tư tưởng của giai cấp công nhân, giữ vững vai trò lãnh đạo của Đảng"
+      },
+      {
+        "id": "R185-C5-Q101-O3",
+        "text": "Tăng trưởng kinh tế kết hợp với phát triển văn hóa, tiến bộ, công bằng xã hội"
+      },
+      {
+        "id": "R185-C5-Q101-O4",
+        "text": "Tất cả ý kiến trên đều đúng"
+      }
+    ],
+    "correctOptionId": "R185-C5-Q101-O2",
+    "explanation": "Đáp án B đúng vì nội dung chính trị của liên minh phải bảo đảm lập trường của giai cấp công nhân và vai trò lãnh đạo của Đảng; các phương án khác thiên về kinh tế hoặc văn hóa - xã hội.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C5-Q102",
+    "chapter": 5,
+    "number": 102,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 102,
+    "question": "Nội dung của liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam về kinh tế là:",
+    "options": [
+      {
+        "id": "R185-C5-Q102-O1",
+        "text": "Đẩy mạnh công nghiệp hóa, hiện đại hóa đất nước gắn với phát triển kinh tế tri thức, phát triển bền vững"
+      },
+      {
+        "id": "R185-C5-Q102-O2",
+        "text": "Giữ vững lập trường tư tưởng của giai cấp công nhân, giữ vững vai trò lãnh đạo của Đảng"
+      },
+      {
+        "id": "R185-C5-Q102-O3",
+        "text": "Tăng trưởng kinh tế kết hợp với phát triển văn hóa, tiến bộ, công bằng xã hội"
+      },
+      {
+        "id": "R185-C5-Q102-O4",
+        "text": "Tất cả ý kiến trên đều đúng"
+      }
+    ],
+    "correctOptionId": "R185-C5-Q102-O1",
+    "explanation": "Đáp án A đúng vì công nghiệp hóa, hiện đại hóa gắn với kinh tế tri thức và phát triển bền vững là nội dung trực tiếp của liên minh trên lĩnh vực kinh tế.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C5-Q103",
+    "chapter": 5,
+    "number": 103,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 103,
+    "question": "Nội dung của liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam về văn hóa xã hội là:",
+    "options": [
+      {
+        "id": "R185-C5-Q103-O1",
+        "text": "Đẩy mạnh công nghiệp hóa, hiện đại hóa đất nước gắn với phát triển kinh tế tri thức, phát triển bền vững"
+      },
+      {
+        "id": "R185-C5-Q103-O2",
+        "text": "Giữ vững lập trường tư tưởng của giai cấp công nhân, giữ vững vai trò lãnh đạo của Đảng"
+      },
+      {
+        "id": "R185-C5-Q103-O3",
+        "text": "Tăng trưởng kinh tế kết hợp với phát triển văn hóa, tiến bộ, công bằng xã hội"
+      },
+      {
+        "id": "R185-C5-Q103-O4",
+        "text": "Tất cả ý kiến trên đều đúng."
+      }
+    ],
+    "correctOptionId": "R185-C5-Q103-O3",
+    "explanation": "Đáp án C đúng vì kết hợp tăng trưởng kinh tế với phát triển văn hóa, tiến bộ và công bằng xã hội chính là nội dung văn hóa - xã hội của liên minh.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C5-Q104",
+    "chapter": 5,
+    "number": 104,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 104,
+    "question": "Trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam, giai cấp, tầng lớp nào là lực lượng lao động sáng tạo đặc biệt quan trọng trong tiến trình công nghiệp hóa, hiện đại hóa đất nước:",
+    "options": [
+      {
+        "id": "R185-C5-Q104-O1",
+        "text": "Giai cấp công nhân"
+      },
+      {
+        "id": "R185-C5-Q104-O2",
+        "text": "Đội ngũ doanh nhân"
+      },
+      {
+        "id": "R185-C5-Q104-O3",
+        "text": "Giai cấp nông dân"
+      },
+      {
+        "id": "R185-C5-Q104-O4",
+        "text": "Đội ngũ trí thức"
+      }
+    ],
+    "correctOptionId": "R185-C5-Q104-O4",
+    "explanation": "Đáp án D đúng vì đội ngũ trí thức là lực lượng lao động sáng tạo đặc biệt, trực tiếp đóng góp tri thức, khoa học và công nghệ cho công nghiệp hóa, hiện đại hóa.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C5-Q105",
+    "chapter": 5,
+    "number": 105,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 105,
+    "question": "Trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam, giai cấp, tầng lớp nào là chủ thể của quá trình phát triển, xây dựng nông thôn mới gắn với xây dựng các cơ sở công nghiệp, dịch vụ và phát triển đô thị",
+    "options": [
+      {
+        "id": "R185-C5-Q105-O1",
+        "text": "Giai cấp công nhân"
+      },
+      {
+        "id": "R185-C5-Q105-O2",
+        "text": "Đội ngũ doanh nhân"
+      },
+      {
+        "id": "R185-C5-Q105-O3",
+        "text": "Giai cấp nông dân"
+      },
+      {
+        "id": "R185-C5-Q105-O4",
+        "text": "Đội ngũ trí thức"
+      }
+    ],
+    "correctOptionId": "R185-C5-Q105-O3",
+    "explanation": "Đáp án C đúng vì giai cấp nông dân trực tiếp gắn với nông nghiệp và nông thôn, được xác định là chủ thể của quá trình xây dựng nông thôn mới.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C5-Q106",
+    "chapter": 5,
+    "number": 106,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 106,
+    "question": "Trong thời kỳ quá độ lên chủ nghĩa xã hội ở Việt Nam, giai cấp, tầng lớp nào là rường cột của nước nhà, chủ nhân tương lai của đất nước, là lực lượng xung kích trong xây dựng và bảo vệ Tổ quốc",
+    "options": [
+      {
+        "id": "R185-C5-Q106-O1",
+        "text": "Đội ngũ trí thức"
+      },
+      {
+        "id": "R185-C5-Q106-O2",
+        "text": "Thanh niên"
+      },
+      {
+        "id": "R185-C5-Q106-O3",
+        "text": "Đội ngũ doanh nhân"
+      },
+      {
+        "id": "R185-C5-Q106-O4",
+        "text": "Người Việt Nam ở nước ngoài"
+      }
+    ],
+    "correctOptionId": "R185-C5-Q106-O2",
+    "explanation": "Đáp án B đúng vì thanh niên được xác định là rường cột của nước nhà, chủ nhân tương lai và lực lượng xung kích trong xây dựng, bảo vệ Tổ quốc.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C5-Q107",
+    "chapter": 5,
+    "number": 107,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 107,
+    "question": "Cơ cấu xã hội của xã hội tư bản chủ nghĩa được đặc trưng bởi hai giai cấp cơ bản đối lập nhau về lợi ích là:",
+    "options": [
+      {
+        "id": "R185-C5-Q107-O1",
+        "text": "Giai cấp nông dân và giai cấp tư sản"
+      },
+      {
+        "id": "R185-C5-Q107-O2",
+        "text": "Giai cấp tư sản và tầng lớp trí thức"
+      },
+      {
+        "id": "R185-C5-Q107-O3",
+        "text": "Giai cấp tư sản và giai cấp địa chủ"
+      },
+      {
+        "id": "R185-C5-Q107-O4",
+        "text": "Giai cấp tư sản và giai cấp vô sản"
+      }
+    ],
+    "correctOptionId": "R185-C5-Q107-O4",
+    "explanation": "Đáp án D đúng vì hai giai cấp cơ bản có lợi ích đối lập trong xã hội tư bản chủ nghĩa là giai cấp tư sản sở hữu tư liệu sản xuất và giai cấp vô sản phải bán sức lao động.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C5-Q108",
+    "chapter": 5,
+    "number": 108,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 108,
+    "question": "Đâu không phải là cơ sở khách quan của việc xây dựng khối liên minh giữa giai cấp công nhân với giai cấp nông dân và các tầng lớp lao động khác trong cách mạng xã hội chủ nghĩa?",
+    "options": [
+      {
+        "id": "R185-C5-Q108-O1",
+        "text": "Giai cấp công nhân, giai cấp nông dân và các tầng lớp lao động khác đều bị áp bức, bóc lột"
+      },
+      {
+        "id": "R185-C5-Q108-O2",
+        "text": "Cần gắn kết chặt chẽ giữa công nghiệp với nông nghiệp trong nền kinh tế quốc dân"
+      },
+      {
+        "id": "R185-C5-Q108-O3",
+        "text": "Cần tập hợp lực lượng để xây dựng chủ nghĩa xã hội vì lợi ích của giai cấp công nhân, giai cấp nông dân và các tầng lớp lao động khác"
+      },
+      {
+        "id": "R185-C5-Q108-O4",
+        "text": "Giai cấp công nhân, giai cấp nông dân chiếm số lượng đông đảo trong dân cư"
+      }
+    ],
+    "correctOptionId": "R185-C5-Q108-O4",
+    "explanation": "Đáp án D đúng vì việc hai giai cấp công nhân và nông dân đông về số lượng không phải là cơ sở khách quan bản chất của liên minh. Cơ sở quan trọng nằm ở lợi ích chung, cùng bị áp bức và yêu cầu gắn kết công nghiệp với nông nghiệp.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C5-Q109",
+    "chapter": 5,
+    "number": 109,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 109,
+    "question": "Nội dung kinh tế của liên minh giữa giai cấp công nhân với giai cấp nông dân và các tầng lớp lao động khác trong cách mạng xã hội chủ nghĩa dựa trên nguyên tắc nào?",
+    "options": [
+      {
+        "id": "R185-C5-Q109-O1",
+        "text": "Giải quyết lợi ích nhu cầu kinh tế của giai cấp nông dân"
+      },
+      {
+        "id": "R185-C5-Q109-O2",
+        "text": "Giải quyết lợi ích nhu cầu kinh tế của giai cấp công nhân"
+      },
+      {
+        "id": "R185-C5-Q109-O3",
+        "text": "Giải quyết lợi ích nhu cầu kinh tế của tầng lớp trí thức"
+      },
+      {
+        "id": "R185-C5-Q109-O4",
+        "text": "Kết hợp đúng đắn lợi ích kinh tế của công nhân, nông dân và trí thức"
+      }
+    ],
+    "correctOptionId": "R185-C5-Q109-O4",
+    "explanation": "Đáp án D đúng vì liên minh kinh tế phải kết hợp hài hòa lợi ích của công nhân, nông dân và trí thức; chỉ ưu tiên riêng một lực lượng sẽ không tạo được sự bền vững của liên minh.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C5-Q110",
+    "chapter": 5,
+    "number": 110,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 110,
+    "question": "Đâu không phải là nội dung kinh tế của liên minh giữa giai cấp công nhân với giai cấp nông dân và các tầng lớp lao động khác trong cách mạng xã hội chủ nghĩa?",
+    "options": [
+      {
+        "id": "R185-C5-Q110-O1",
+        "text": "Xây dựng hệ thống chính sách phát triển nông nghiệp, nông dân, nông thôn"
+      },
+      {
+        "id": "R185-C5-Q110-O2",
+        "text": "Ứng dụng khoa học kỹ thuật vào sản xuất nông nghiệp"
+      },
+      {
+        "id": "R185-C5-Q110-O3",
+        "text": "Xây dựng hệ thống chính sách an sinh xã hội"
+      },
+      {
+        "id": "R185-C5-Q110-O4",
+        "text": "Thực hiện hợp đồng kinh tế giữa doanh nghiệp nhà nước và nông dân"
+      }
+    ],
+    "correctOptionId": "R185-C5-Q110-O3",
+    "explanation": "Đáp án C đúng vì chính sách an sinh xã hội thuộc nội dung xã hội; các phương án còn lại trực tiếp liên quan tổ chức sản xuất, nông nghiệp và quan hệ kinh tế.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C5-Q111",
+    "chapter": 5,
+    "number": 111,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 111,
+    "question": "Nội dung chính trị của liên minh giữa giai cấp công nhân với giai cấp nông dân và các tầng lớp lao động khác trong cách mạng xã hội chủ nghĩa dựa trên nguyên tắc nào?",
+    "options": [
+      {
+        "id": "R185-C5-Q111-O1",
+        "text": "Trên lập trường chính trị – tư tưởng của giai cấp nông dân"
+      },
+      {
+        "id": "R185-C5-Q111-O2",
+        "text": "Trên lập trường chính trị – tư tưởng của giai cấp công nhân"
+      },
+      {
+        "id": "R185-C5-Q111-O3",
+        "text": "Trên lập trường chính trị – tư tưởng của tầng lớp trí thức"
+      },
+      {
+        "id": "R185-C5-Q111-O4",
+        "text": "Kết hợp về chính trị – tư tưởng của giai cấp công nhân, giai cấp nông dân và tầng lớp trí thức"
+      }
+    ],
+    "correctOptionId": "R185-C5-Q111-O2",
+    "explanation": "Đáp án B đúng vì liên minh chính trị phải được xây dựng trên lập trường chính trị - tư tưởng của giai cấp công nhân, gắn với vai trò lãnh đạo của Đảng Cộng sản.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C5-Q112",
+    "chapter": 5,
+    "number": 112,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 112,
+    "question": "Đâu không phải là nội dung chính trị của liên minh giữa giai cấp công nhân với giai cấp nông dân và các tầng lớp lao động khác trong cách mạng xã hội chủ nghĩa?",
+    "options": [
+      {
+        "id": "R185-C5-Q112-O1",
+        "text": "Xây dựng hệ thống chính trị xã hội chủ nghĩa"
+      },
+      {
+        "id": "R185-C5-Q112-O2",
+        "text": "Giữ gìn an ninh trật tự"
+      },
+      {
+        "id": "R185-C5-Q112-O3",
+        "text": "Xây dựng nền quốc phòng toàn dân"
+      },
+      {
+        "id": "R185-C5-Q112-O4",
+        "text": "Xây dựng con người mới xã hội chủ nghĩa"
+      }
+    ],
+    "correctOptionId": "R185-C5-Q112-O4",
+    "explanation": "Đáp án D đúng vì xây dựng con người mới xã hội chủ nghĩa thuộc nội dung văn hóa - xã hội, không phải nội dung chính trị. Các phương án còn lại liên quan hệ thống chính trị, an ninh và quốc phòng.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C5-Q113",
+    "chapter": 5,
+    "number": 113,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 113,
+    "question": "Đâu không phải là nội dung văn hóa, xã hội của liên minh giữa giai cấp công nhân với giai cấp nông dân và các tầng lớp lao động khác trong cách mạng xã hội chủ nghĩa?",
+    "options": [
+      {
+        "id": "R185-C5-Q113-O1",
+        "text": "Xây dựng nền văn hóa phát triển của nhân dân"
+      },
+      {
+        "id": "R185-C5-Q113-O2",
+        "text": "Nâng cao trình độ văn hóa cho nhân dân"
+      },
+      {
+        "id": "R185-C5-Q113-O3",
+        "text": "Xây dựng nền quốc phòng toàn dân"
+      },
+      {
+        "id": "R185-C5-Q113-O4",
+        "text": "Xây dựng con người mới xã hội chủ nghĩa"
+      }
+    ],
+    "correctOptionId": "R185-C5-Q113-O3",
+    "explanation": "Đáp án C đúng vì xây dựng nền quốc phòng toàn dân thuộc nội dung chính trị - quốc phòng, không phải nội dung văn hóa - xã hội. Các nội dung còn lại đều trực tiếp liên quan nâng cao đời sống văn hóa và xây dựng con người.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C5-Q114",
+    "chapter": 5,
+    "number": 114,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 114,
+    "question": "Nội dung nào là quan trọng nhất trong các nội dung của liên minh giữa giai cấp công nhân với giai cấp nông dân và các tầng lớp lao động khác khi tiến hành xây dựng chủ nghĩa xã hội",
+    "options": [
+      {
+        "id": "R185-C5-Q114-O1",
+        "text": "Nội dung kinh tế"
+      },
+      {
+        "id": "R185-C5-Q114-O2",
+        "text": "Nội dung chính trị"
+      },
+      {
+        "id": "R185-C5-Q114-O3",
+        "text": "Nội dung văn hóa – xã hội"
+      },
+      {
+        "id": "R185-C5-Q114-O4",
+        "text": "Nội dung tư tưởng"
+      }
+    ],
+    "correctOptionId": "R185-C5-Q114-O1",
+    "explanation": "Đáp án A đúng vì trong giai đoạn xây dựng chủ nghĩa xã hội, nội dung kinh tế được xem là cơ bản và có ý nghĩa quyết định nhất đối với sự bền vững của liên minh.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C5-Q115",
+    "chapter": 5,
+    "number": 115,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 115,
+    "question": "Xã hội có giai cấp, xét về mặt kết cấu thì:",
+    "options": [
+      {
+        "id": "R185-C5-Q115-O1",
+        "text": "Bao giờ cũng có những giai cấp cơ bản và giai cấp không cơ bản."
+      },
+      {
+        "id": "R185-C5-Q115-O2",
+        "text": "Chỉ có những giai cấp cơ bản"
+      },
+      {
+        "id": "R185-C5-Q115-O3",
+        "text": "Chỉ có những giai cấp không cơ bản."
+      },
+      {
+        "id": "R185-C5-Q115-O4",
+        "text": "Các giai cấp đối kháng nhau"
+      }
+    ],
+    "correctOptionId": "R185-C5-Q115-O1",
+    "explanation": "Đáp án A đúng vì trong xã hội có giai cấp luôn tồn tại giai cấp cơ bản gắn với phương thức sản xuất thống trị và các giai cấp, tầng lớp không cơ bản; cơ cấu xã hội không chỉ gồm một loại giai cấp.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C5-Q116",
+    "chapter": 5,
+    "number": 116,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 116,
+    "question": "Trong thời kỳ quá độ lên chủ nghĩa xã hội ở nước ta, mâu thuẫn về lợi ích giữa những người lao động làm thuê với tầng lớp tư sản là:",
+    "options": [
+      {
+        "id": "R185-C5-Q116-O1",
+        "text": "Mâu thuẫn đối kháng"
+      },
+      {
+        "id": "R185-C5-Q116-O2",
+        "text": "Mâu thuẫn không đối kháng"
+      },
+      {
+        "id": "R185-C5-Q116-O3",
+        "text": "Mâu thuẫn không cơ bản"
+      },
+      {
+        "id": "R185-C5-Q116-O4",
+        "text": "Mâu thuẫn thứ yếu."
+      }
+    ],
+    "correctOptionId": "R185-C5-Q116-O2",
+    "explanation": "Đáp án B đúng theo tài liệu môn học về thời kỳ quá độ ở Việt Nam: mâu thuẫn lợi ích giữa người lao động làm thuê và tầng lớp tư sản tồn tại nhưng không được xem là mâu thuẫn đối kháng tuyệt đối như trong xã hội tư bản điển hình.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C5-Q117",
+    "chapter": 5,
+    "number": 117,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 117,
+    "question": "Quan hệ giữa giai cấp công nhân, nhân dân lao động với tầng lớp tư sản là:",
+    "options": [
+      {
+        "id": "R185-C5-Q117-O1",
+        "text": "Quan hệ hợp tác"
+      },
+      {
+        "id": "R185-C5-Q117-O2",
+        "text": "Quan hệ đấu tranh"
+      },
+      {
+        "id": "R185-C5-Q117-O3",
+        "text": "Quan hệ song trùng"
+      },
+      {
+        "id": "R185-C5-Q117-O4",
+        "text": "Quan hệ vừa hợp tác vừa đấu tranh"
+      }
+    ],
+    "correctOptionId": "R185-C5-Q117-O4",
+    "explanation": "Đáp án D đúng vì trong thời kỳ quá độ, quan hệ với tầng lớp tư sản vừa có mặt hợp tác trong phát triển sản xuất, kinh doanh và đất nước, vừa có mặt đấu tranh để điều hòa lợi ích và hạn chế những biểu hiện trái với mục tiêu xã hội chủ nghĩa.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C5-Q118",
+    "chapter": 5,
+    "number": 118,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 118,
+    "question": "Vì sao giai cấp nông dân không phải là lực lượng lãnh đạo cách mạng xã hội chủ nghĩa?",
+    "options": [
+      {
+        "id": "R185-C5-Q118-O1",
+        "text": "Họ không có tư tưởng chính thống"
+      },
+      {
+        "id": "R185-C5-Q118-O2",
+        "text": "Họ không có chính đảng"
+      },
+      {
+        "id": "R185-C5-Q118-O3",
+        "text": "Họ không đại diện cho phương thức sản xuất tiên tiến"
+      },
+      {
+        "id": "R185-C5-Q118-O4",
+        "text": "Họ không có tính kỷ luật và sự đoàn kết"
+      }
+    ],
+    "correctOptionId": "R185-C5-Q118-O3",
+    "explanation": "Đáp án C đúng vì giai cấp nông dân không đại diện cho phương thức sản xuất tiên tiến và hiện đại; do đó theo lý luận của môn học, họ không giữ vai trò lãnh đạo cách mạng xã hội chủ nghĩa dù là lực lượng đồng minh rất quan trọng.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C5-Q119",
+    "chapter": 5,
+    "number": 119,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 119,
+    "question": "Theo Karl Marx, những người vô sản có thể hành động với tư cách là một giai cấp khi nào?",
+    "options": [
+      {
+        "id": "R185-C5-Q119-O1",
+        "text": "Khi giành lấy toàn bộ tư liệu sản xuất của giai cấp hữu sản"
+      },
+      {
+        "id": "R185-C5-Q119-O2",
+        "text": "Khi thiết lập chính quyền chuyên chính vô sản"
+      },
+      {
+        "id": "R185-C5-Q119-O3",
+        "text": "Khi tự mình tổ chức được một đảng độc lập"
+      },
+      {
+        "id": "R185-C5-Q119-O4",
+        "text": "Khi đạt tới sự giác ngộ về địa vị lịch sử của khả năng hành động chính trị để từng bước đạt mục tiêu cách mạng"
+      }
+    ],
+    "correctOptionId": "R185-C5-Q119-O3",
+    "explanation": "Đáp án C đúng vì theo Karl Marx, giai cấp vô sản chỉ có thể hành động thật sự với tư cách một giai cấp độc lập khi tổ chức được chính đảng riêng, qua đó thống nhất ý chí, mục tiêu và hành động chính trị.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C5-Q120",
+    "chapter": 5,
+    "number": 120,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 120,
+    "question": "Nhận thức như thế nào về mối tương quan giữa cơ cấu xã hội – giai cấp với các loại hình cơ cấu xã hội khác?",
+    "options": [
+      {
+        "id": "R185-C5-Q120-O1",
+        "text": "Tuyệt đối hóa cơ cấu xã hội – giai cấp"
+      },
+      {
+        "id": "R185-C5-Q120-O2",
+        "text": "Xem nhẹ các loại hình cơ cấu xã hội khác"
+      },
+      {
+        "id": "R185-C5-Q120-O3",
+        "text": "Tuyệt đối hóa các loại hình cơ cấu xã hội khác"
+      },
+      {
+        "id": "R185-C5-Q120-O4",
+        "text": "Không tuyệt đối hóa cơ cấu xã hội – giai cấp và không được xem nhẹ các loại hình cơ cấu xã hội khác"
+      }
+    ],
+    "correctOptionId": "R185-C5-Q120-O4",
+    "explanation": "Đáp án D đúng vì tuy cơ cấu xã hội - giai cấp giữ vị trí quan trọng, không được tuyệt đối hóa nó hay xem nhẹ các cơ cấu nghề nghiệp, dân cư, dân tộc và các loại cơ cấu xã hội khác.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C5-Q121",
+    "chapter": 5,
+    "number": 121,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 121,
+    "question": "Trong thời kỳ quá độ lên chủ nghĩa xã hội, cơ cấu xã hội – giai cấp biến đổi gắn liền và bị quy định bởi:",
+    "options": [
+      {
+        "id": "R185-C5-Q121-O1",
+        "text": "Cơ cấu kinh tế"
+      },
+      {
+        "id": "R185-C5-Q121-O2",
+        "text": "Cơ cấu nhân sự"
+      },
+      {
+        "id": "R185-C5-Q121-O3",
+        "text": "Cơ cấu văn hóa xã hội"
+      },
+      {
+        "id": "R185-C5-Q121-O4",
+        "text": "Cơ cấu chính trị"
+      }
+    ],
+    "correctOptionId": "R185-C5-Q121-O1",
+    "explanation": "Đáp án A đúng vì biến đổi cơ cấu xã hội - giai cấp trước hết bị quy định bởi biến đổi cơ cấu kinh tế; khi ngành nghề, sở hữu và phương thức sản xuất thay đổi thì vị trí các giai cấp, tầng lớp cũng thay đổi.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C5-Q122",
+    "chapter": 5,
+    "number": 122,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 122,
+    "question": "Điền vào chỗ trống: Trong thời kỳ quá độ lên chủ nghĩa xã hội, cơ cấu xã hội – giai cấp biến đổi phức tạp, đa dạng, làm xuất hiện các [.........] mới",
+    "options": [
+      {
+        "id": "R185-C5-Q122-O1",
+        "text": "Tầng lớp xã hội"
+      },
+      {
+        "id": "R185-C5-Q122-O2",
+        "text": "Dân tộc"
+      },
+      {
+        "id": "R185-C5-Q122-O3",
+        "text": "Giai cấp"
+      },
+      {
+        "id": "R185-C5-Q122-O4",
+        "text": "Tổ chức kinh tế"
+      }
+    ],
+    "correctOptionId": "R185-C5-Q122-O1",
+    "explanation": "Đáp án A đúng vì quá trình biến đổi kinh tế - xã hội trong thời kỳ quá độ làm xuất hiện nhiều tầng lớp xã hội mới, khiến cơ cấu xã hội - giai cấp trở nên đa dạng và phức tạp hơn.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C5-Q123",
+    "chapter": 5,
+    "number": 123,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 123,
+    "question": "Xu hướng tất yếu và là biện chứng của sự vận động, phát triển cơ cấu xã hội – giai cấp trong thời kỳ quá độ lên chủ nghĩa xã hội là:",
+    "options": [
+      {
+        "id": "R185-C5-Q123-O1",
+        "text": "Cơ cấu xã hội – giai cấp biến đổi trong mối quan hệ vừa đấu tranh, vừa liên minh dẫn đến sự xích lại gần nhau giữa các giai cấp, tầng lớp cơ bản trong xã hội"
+      },
+      {
+        "id": "R185-C5-Q123-O2",
+        "text": "Cơ cấu xã hội – giai cấp biến đổi trong mối quan hệ đấu tranh dẫn đến sự tách biệt tuyệt đối giữa các giai cấp, tầng lớp cơ bản trong xã hội"
+      },
+      {
+        "id": "R185-C5-Q123-O3",
+        "text": "Cơ cấu xã hội – giai cấp biến đổi trong mối quan hệ liên minh dẫn đến sự xích lại gần nhau giữa các giai cấp, tầng lớp cơ bản trong xã hội"
+      },
+      {
+        "id": "R185-C5-Q123-O4",
+        "text": "Cơ cấu xã hội – giai cấp biến đổi trong mối quan hệ đấu tranh dẫn đến sự chuyển hóa lẫn giữa các giai cấp, tầng lớp cơ bản trong xã hội"
+      }
+    ],
+    "correctOptionId": "R185-C5-Q123-O1",
+    "explanation": "Đáp án A đúng vì cơ cấu xã hội - giai cấp trong thời kỳ quá độ vận động theo cả hai mặt: vừa đấu tranh do khác biệt lợi ích, vừa liên minh vì những lợi ích chung; quá trình đó làm các giai cấp, tầng lớp cơ bản có xu hướng xích lại gần nhau.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C5-Q124",
+    "chapter": 5,
+    "number": 124,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 124,
+    "question": "Trong cách mạng xã hội chủ nghĩa, giai cấp, tầng lớp nào được xác định là “người bạn đồng minh tự nhiên” của giai cấp công nhân?",
+    "options": [
+      {
+        "id": "R185-C5-Q124-O1",
+        "text": "Nông dân"
+      },
+      {
+        "id": "R185-C5-Q124-O2",
+        "text": "Tư sản"
+      },
+      {
+        "id": "R185-C5-Q124-O3",
+        "text": "Trí thức"
+      },
+      {
+        "id": "R185-C5-Q124-O4",
+        "text": "Doanh nhân"
+      }
+    ],
+    "correctOptionId": "R185-C5-Q124-O1",
+    "explanation": "Đáp án A đúng vì giai cấp nông dân được xác định là 'người bạn đồng minh tự nhiên' của giai cấp công nhân do có nhiều lợi ích cơ bản gần gũi trong đấu tranh chống áp bức và xây dựng xã hội mới.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C5-Q125",
+    "chapter": 5,
+    "number": 125,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 125,
+    "question": "Điền vào chỗ trống nhận định của Vladimir Ilyich Lenin: “Nguyên tắc cao nhất của [.........] là duy trì khối liên minh giữa giai cấp vô sản và nông dân để giai cấp vô sản có thể giữ được vai trò lãnh đạo và chính quyền nhà nước”",
+    "options": [
+      {
+        "id": "R185-C5-Q125-O1",
+        "text": "Chuyên chính"
+      },
+      {
+        "id": "R185-C5-Q125-O2",
+        "text": "Nhà nước"
+      },
+      {
+        "id": "R185-C5-Q125-O3",
+        "text": "Dân chủ"
+      },
+      {
+        "id": "R185-C5-Q125-O4",
+        "text": "Kinh tế"
+      }
+    ],
+    "correctOptionId": "R185-C5-Q125-O1",
+    "explanation": "Đáp án A đúng vì nhận định của Vladimir Ilyich Vladimir Ilyich Lenin nói về 'nguyên tắc cao nhất của chuyên chính', nhấn mạnh việc duy trì liên minh giữa giai cấp vô sản và nông dân để giữ vai trò lãnh đạo và chính quyền.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C6-Q126",
+    "chapter": 6,
+    "number": 126,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 126,
+    "question": "Điền từ còn thiếu vào chỗ trống: Quyền dân tộc tự quyết là quyền làm chủ của mỗi dân tộc đối với vận mệnh dân tộc mình, quyền tự quyết định chế độ chính trị – xã hội và [.........] phát triển của dân tộc mình.",
+    "options": [
+      {
+        "id": "R185-C6-Q126-O1",
+        "text": "Con đường"
+      },
+      {
+        "id": "R185-C6-Q126-O2",
+        "text": "Cách thức"
+      },
+      {
+        "id": "R185-C6-Q126-O3",
+        "text": "Mục tiêu"
+      },
+      {
+        "id": "R185-C6-Q126-O4",
+        "text": "Hình thức"
+      }
+    ],
+    "correctOptionId": "R185-C6-Q126-O1",
+    "explanation": "Đáp án A đúng vì quyền dân tộc tự quyết bao gồm quyền tự quyết định chế độ chính trị - xã hội và con đường phát triển của dân tộc mình.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C6-Q127",
+    "chapter": 6,
+    "number": 127,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 127,
+    "question": "Trong các nội dung của quyền dân tộc tự quyết thì nội dung nào được coi là cơ bản nhất, tiên quyết nhất?",
+    "options": [
+      {
+        "id": "R185-C6-Q127-O1",
+        "text": "Tự quyết về chính trị"
+      },
+      {
+        "id": "R185-C6-Q127-O2",
+        "text": "Tự quyết về kinh tế"
+      },
+      {
+        "id": "R185-C6-Q127-O3",
+        "text": "Tự quyết về văn hóa"
+      },
+      {
+        "id": "R185-C6-Q127-O4",
+        "text": "Tự quyết về lãnh thổ"
+      }
+    ],
+    "correctOptionId": "R185-C6-Q127-O1",
+    "explanation": "Đáp án A đúng vì quyền tự quyết trước hết phải thể hiện ở quyền tự quyết về chính trị: dân tộc có quyền quyết định chế độ chính trị - xã hội và vận mệnh của mình; các mặt kinh tế, văn hóa, lãnh thổ gắn với nền tảng chính trị đó.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C6-Q128",
+    "chapter": 6,
+    "number": 128,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 128,
+    "question": "Dân tộc hiểu theo nghĩa hẹp là:",
+    "options": [
+      {
+        "id": "R185-C6-Q128-O1",
+        "text": "Tộc người"
+      },
+      {
+        "id": "R185-C6-Q128-O2",
+        "text": "Quốc gia dân tộc"
+      },
+      {
+        "id": "R185-C6-Q128-O3",
+        "text": "Bộ lạc"
+      },
+      {
+        "id": "R185-C6-Q128-O4",
+        "text": "Bộ tộc"
+      }
+    ],
+    "correctOptionId": "R185-C6-Q128-O1",
+    "explanation": "Đáp án A đúng vì dân tộc theo nghĩa hẹp là dân tộc - tộc người, tức một cộng đồng người có ngôn ngữ, văn hóa và ý thức tự giác tộc người tương đối bền vững.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C6-Q129",
+    "chapter": 6,
+    "number": 129,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 129,
+    "question": "Theo nghĩa rộng, dân tộc là:",
+    "options": [
+      {
+        "id": "R185-C6-Q129-O1",
+        "text": "Quốc gia"
+      },
+      {
+        "id": "R185-C6-Q129-O2",
+        "text": "Tộc người"
+      },
+      {
+        "id": "R185-C6-Q129-O3",
+        "text": "Thị tộc"
+      },
+      {
+        "id": "R185-C6-Q129-O4",
+        "text": "Bộ tộc"
+      }
+    ],
+    "correctOptionId": "R185-C6-Q129-O1",
+    "explanation": "Đáp án A đúng vì theo nghĩa rộng, dân tộc là quốc gia - dân tộc, tức cộng đồng dân cư ổn định làm thành nhân dân của một quốc gia.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C6-Q130",
+    "chapter": 6,
+    "number": 130,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 130,
+    "question": "Nguyên nhân nào dẫn đến các cộng đồng dân cư muốn tách ra để hình thành cộng đồng dân tộc độc lập?",
+    "options": [
+      {
+        "id": "R185-C6-Q130-O1",
+        "text": "Do sự thức tỉnh, trưởng thành về ý thức dân tộc, ý thức về quyền sống của mình."
+      },
+      {
+        "id": "R185-C6-Q130-O2",
+        "text": "Do xu hướng này nổi lên trong giai đoạn chủ nghĩa tư bản đã phát triển thành chủ nghĩa đế quốc."
+      },
+      {
+        "id": "R185-C6-Q130-O3",
+        "text": "Do các quốc gia bị áp bức."
+      },
+      {
+        "id": "R185-C6-Q130-O4",
+        "text": "Do các quốc gia muốn độc lập."
+      }
+    ],
+    "correctOptionId": "R185-C6-Q130-O1",
+    "explanation": "Đáp án A đúng vì xu hướng tách ra thành cộng đồng dân tộc độc lập xuất hiện khi ý thức dân tộc, ý thức về quyền sống và quyền tự quyết phát triển, làm nảy sinh nhu cầu có quốc gia độc lập.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C6-Q131",
+    "chapter": 6,
+    "number": 131,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 131,
+    "question": "Xu hướng các dân tộc xích lại xuất hiện trong giai đoạn nào?",
+    "options": [
+      {
+        "id": "R185-C6-Q131-O1",
+        "text": "Chủ nghĩa đế quốc."
+      },
+      {
+        "id": "R185-C6-Q131-O2",
+        "text": "chủ nghĩa tư bản tự do cạnh tranh."
+      },
+      {
+        "id": "R185-C6-Q131-O3",
+        "text": "chủ nghĩa tư bản độc quyền."
+      },
+      {
+        "id": "R185-C6-Q131-O4",
+        "text": "chủ nghĩa xã hội."
+      }
+    ],
+    "correctOptionId": "R185-C6-Q131-O1",
+    "explanation": "Theo đáp án gợi ý của file, chọn A - chủ nghĩa đế quốc. Tuy nhiên chính file cũng lưu ý phương án C 'chủ nghĩa tư bản độc quyền' rất gần nghĩa với giai đoạn chủ nghĩa đế quốc nên câu hỏi chưa phân biệt thật rõ; không nên học thuộc máy móc nếu chưa có đáp án chính thức của giảng viên.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C6-Q132",
+    "chapter": 6,
+    "number": 132,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 132,
+    "question": "Quyền thiêng liêng của các dân tộc, không phân biệt dân tộc lớn hay nhỏ, ở trình độ phát triển cao hay thấp theo Cương lĩnh dân tộc của Chủ nghĩa Mác – Vladimir Ilyich Lenin là:",
+    "options": [
+      {
+        "id": "R185-C6-Q132-O1",
+        "text": "Các dân tộc hoàn toàn bình đẳng."
+      },
+      {
+        "id": "R185-C6-Q132-O2",
+        "text": "Các dân tộc được quyền tự quyết."
+      },
+      {
+        "id": "R185-C6-Q132-O3",
+        "text": "Liên hiệp công nhân các dân tộc."
+      },
+      {
+        "id": "R185-C6-Q132-O4",
+        "text": "Cả cương lĩnh dân tộc."
+      }
+    ],
+    "correctOptionId": "R185-C6-Q132-O1",
+    "explanation": "Đáp án A đúng vì nguyên tắc các dân tộc hoàn toàn bình đẳng khẳng định mọi dân tộc, dù lớn hay nhỏ, phát triển cao hay thấp, đều có quyền và nghĩa vụ ngang nhau.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C6-Q133",
+    "chapter": 6,
+    "number": 133,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 133,
+    "question": "Điền từ thích hợp vào chỗ trống: Các dân tộc đều có [.........] và quyền lợi ngang nhau trên tất cả các lĩnh vực của đời sống xã hội, không một dân tộc nào được giữ [.........], đặc lợi về kinh tế, chính trị, văn hóa.",
+    "options": [
+      {
+        "id": "R185-C6-Q133-O1",
+        "text": "Nghĩa vụ/ đặc quyền"
+      },
+      {
+        "id": "R185-C6-Q133-O2",
+        "text": "Nghĩa vụ/ quyền lợi"
+      },
+      {
+        "id": "R185-C6-Q133-O3",
+        "text": "Lợi ích/ quyền lợi"
+      },
+      {
+        "id": "R185-C6-Q133-O4",
+        "text": "Lợi ích/ đặc quyền"
+      }
+    ],
+    "correctOptionId": "R185-C6-Q133-O1",
+    "explanation": "Đáp án A đúng vì bình đẳng dân tộc nghĩa là các dân tộc có nghĩa vụ và quyền lợi ngang nhau, không dân tộc nào được hưởng đặc quyền hay đặc lợi về kinh tế, chính trị hoặc văn hóa.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C6-Q134",
+    "chapter": 6,
+    "number": 134,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 134,
+    "question": "Nội dung chủ yếu và giải pháp quan trọng để liên kết các nội dung của Cương lĩnh dân tộc thành một chỉnh thể là:",
+    "options": [
+      {
+        "id": "R185-C6-Q134-O1",
+        "text": "Liên hiệp công nhân tất cả các dân tộc."
+      },
+      {
+        "id": "R185-C6-Q134-O2",
+        "text": "Các dân tộc có quyền bình đẳng."
+      },
+      {
+        "id": "R185-C6-Q134-O3",
+        "text": "Các dân tộc có quyền tự quyết."
+      },
+      {
+        "id": "R185-C6-Q134-O4",
+        "text": "Các dân tộc có quyền lợi riêng."
+      }
+    ],
+    "correctOptionId": "R185-C6-Q134-O1",
+    "explanation": "Đáp án A đúng vì liên hiệp công nhân tất cả các dân tộc là lực lượng và phương thức liên kết các nội dung bình đẳng, tự quyết thành một chỉnh thể trong Cương lĩnh dân tộc của Vladimir Ilyich Vladimir Ilyich Lenin.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C6-Q135",
+    "chapter": 6,
+    "number": 135,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 135,
+    "question": "Điền vào chỗ trống: Khái niệm dân tộc “dùng để chỉ một cộng đồng người có liên hệ chặt chẽ và bền vững, [.........], xuất hiện sau bộ lạc, bộ tộc, kế thừa và phát triển cao hơn những nhân tố tộc người ở bộ lạc, bộ tộc và thể hiện thành ý thức tự giác tộc người của dân cư cộng đồng đó.”",
+    "options": [
+      {
+        "id": "R185-C6-Q135-O1",
+        "text": "Có chung sinh hoạt kinh tế, có ngôn ngữ riêng, văn hóa có những đặc thù"
+      },
+      {
+        "id": "R185-C6-Q135-O2",
+        "text": "Sinh sống trên cùng một lãnh thổ, có gần huyết thống"
+      },
+      {
+        "id": "R185-C6-Q135-O3",
+        "text": "Có cùng nguồn gốc tổ tiên, cùng chung ngôn ngữ"
+      },
+      {
+        "id": "R185-C6-Q135-O4",
+        "text": "Có ý thức về sự thống nhất của mình"
+      }
+    ],
+    "correctOptionId": "R185-C6-Q135-O1",
+    "explanation": "Đáp án A đúng vì dân tộc theo nghĩa hẹp là một cộng đồng người bền vững có chung đời sống kinh tế, ngôn ngữ riêng, những đặc trưng văn hóa và ý thức tự giác tộc người.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C6-Q136",
+    "chapter": 6,
+    "number": 136,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 136,
+    "question": "Điền vào chỗ trống: Khái niệm dân tộc “dùng để chỉ một cộng đồng người ổn định làm thành nhân dân một nước, [.........], có nền kinh tế thống nhất, có ngôn ngữ chung và có ý thức về sự thống nhất của mình, gắn bó với nhau bởi quyền lợi chính trị, kinh tế, truyền thống văn hóa và truyền thống đấu tranh chung trong suốt quá trình lịch sử lâu dài.”",
+    "options": [
+      {
+        "id": "R185-C6-Q136-O1",
+        "text": "Có lãnh thổ quốc gia"
+      },
+      {
+        "id": "R185-C6-Q136-O2",
+        "text": "Có cùng nguồn gốc tổ tiên"
+      },
+      {
+        "id": "R185-C6-Q136-O3",
+        "text": "Có cùng đặc điểm sinh học"
+      },
+      {
+        "id": "R185-C6-Q136-O4",
+        "text": "Có cùng đặc điểm sinh hoạt"
+      }
+    ],
+    "correctOptionId": "R185-C6-Q136-O1",
+    "explanation": "Đáp án A đúng vì dân tộc theo nghĩa rộng, tức quốc gia - dân tộc, phải gắn với một lãnh thổ quốc gia xác định cùng nền kinh tế thống nhất, ngôn ngữ chung và ý thức về sự thống nhất cộng đồng.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C6-Q137",
+    "chapter": 6,
+    "number": 137,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 137,
+    "question": "Chính sách tôn giáo cơ bản của Đảng ta hiện nay là:",
+    "options": [
+      {
+        "id": "R185-C6-Q137-O1",
+        "text": "Đảm bảo tự do tín ngưỡng, mọi tôn giáo hoạt động theo khuôn khổ và bình đẳng trước pháp luật."
+      },
+      {
+        "id": "R185-C6-Q137-O2",
+        "text": "Cho phép mọi tôn giáo hoạt động."
+      },
+      {
+        "id": "R185-C6-Q137-O3",
+        "text": "Các tôn giáo được tự do truyền đạo và hành đạo."
+      },
+      {
+        "id": "R185-C6-Q137-O4",
+        "text": "Cho phép thành lập các tôn giáo mới."
+      }
+    ],
+    "correctOptionId": "R185-C6-Q137-O1",
+    "explanation": "Đáp án A đúng vì chính sách tôn giáo của Đảng và Nhà nước nhấn mạnh tôn trọng, bảo đảm quyền tự do tín ngưỡng và không tín ngưỡng; các tôn giáo bình đẳng trước pháp luật và hoạt động trong khuôn khổ pháp luật.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C6-Q138",
+    "chapter": 6,
+    "number": 138,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 138,
+    "question": "Nguồn gốc hình thành nên tôn giáo là gì?",
+    "options": [
+      {
+        "id": "R185-C6-Q138-O1",
+        "text": "Tự nhiên, kinh tế – xã hội; nhận thức; tâm lý."
+      },
+      {
+        "id": "R185-C6-Q138-O2",
+        "text": "Do lực lượng siêu nhiên."
+      },
+      {
+        "id": "R185-C6-Q138-O3",
+        "text": "Mối quan hệ giữa thần thánh và con người."
+      },
+      {
+        "id": "R185-C6-Q138-O4",
+        "text": "Do niềm tin vào cái siêu nhiên."
+      }
+    ],
+    "correctOptionId": "R185-C6-Q138-O1",
+    "explanation": "Đáp án A đúng vì giáo trình nêu ba nhóm nguồn gốc chủ yếu của tôn giáo: nguồn gốc tự nhiên và kinh tế - xã hội; nguồn gốc nhận thức; nguồn gốc tâm lý.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C6-Q139",
+    "chapter": 6,
+    "number": 139,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 139,
+    "question": "Đặc trưng nổi bật trong quan hệ giữa các dân tộc ở nước ta là:",
+    "options": [
+      {
+        "id": "R185-C6-Q139-O1",
+        "text": "Là sự cố kết dân tộc, hoà hợp dân tộc trong một cộng đồng thống nhất."
+      },
+      {
+        "id": "R185-C6-Q139-O2",
+        "text": "Là sự phân bố đan xen nhau, không một dân tộc nào có lãnh thổ riêng."
+      },
+      {
+        "id": "R185-C6-Q139-O3",
+        "text": "Là có sự chênh lệch về trình độ phát triển kinh tế – xã hội giữa các dân tộc."
+      },
+      {
+        "id": "R185-C6-Q139-O4",
+        "text": "Là các dân tộc có bản sắc văn hoá riêng, đa dạng, phong phú."
+      }
+    ],
+    "correctOptionId": "R185-C6-Q139-O1",
+    "explanation": "Đáp án A đúng vì đặc trưng nổi bật trong quan hệ các dân tộc ở Việt Nam là truyền thống đoàn kết, cố kết và hòa hợp trong một cộng đồng quốc gia thống nhất, được hình thành qua lịch sử dựng nước và giữ nước.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C6-Q140",
+    "chapter": 6,
+    "number": 140,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 140,
+    "question": "Chọn đáp án đúng:",
+    "options": [
+      {
+        "id": "R185-C6-Q140-O1",
+        "text": "Dân tộc là một bộ phận của quốc gia. Dân tộc là toàn bộ nhân dân của quốc gia đó."
+      },
+      {
+        "id": "R185-C6-Q140-O2",
+        "text": "Dân tộc và quốc gia là hai khái niệm đồng nhất."
+      },
+      {
+        "id": "R185-C6-Q140-O3",
+        "text": "Dân tộc là toàn bộ nhân dân của quốc gia đó."
+      },
+      {
+        "id": "R185-C6-Q140-O4",
+        "text": "Dân tộc là một bộ phận của quốc gia."
+      }
+    ],
+    "correctOptionId": null,
+    "explanation": "File không đủ cơ sở để chốt một chữ cái duy nhất. Kiến thức cần nhớ là: 'dân tộc' theo nghĩa rộng là quốc gia - dân tộc, tức toàn bộ nhân dân của một quốc gia; theo nghĩa hẹp là dân tộc - tộc người, có thể là một bộ phận trong quốc gia đa dân tộc. Vì câu hỏi không nói đang dùng nghĩa nào nên các phương án C và D đều có thể đúng tùy ngữ cảnh, còn A ghép hai nghĩa khác nhau.",
+    "reviewOnly": true
+  },
+  {
+    "id": "R185-C6-Q141",
+    "chapter": 6,
+    "number": 141,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 141,
+    "question": "Yếu tố nào sau đây là cơ sở để liên kết các bộ phận, các thành viên của dân tộc. Nó tạo nên nền tảng cho sự vững chắc của cộng đồng dân tộc.",
+    "options": [
+      {
+        "id": "R185-C6-Q141-O1",
+        "text": "Có chung sinh hoạt về kinh tế."
+      },
+      {
+        "id": "R185-C6-Q141-O2",
+        "text": "Có chung ngôn ngữ."
+      },
+      {
+        "id": "R185-C6-Q141-O3",
+        "text": "Có chung văn hóa, tâm lý, lãnh thổ."
+      },
+      {
+        "id": "R185-C6-Q141-O4",
+        "text": "Có chung lãnh thổ."
+      }
+    ],
+    "correctOptionId": "R185-C6-Q141-O1",
+    "explanation": "Đáp án A đúng vì đời sống kinh tế chung tạo ra những mối liên hệ vật chất thường xuyên giữa các thành viên, từ đó làm nền tảng cho sự ổn định và bền vững của cộng đồng dân tộc.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C6-Q142",
+    "chapter": 6,
+    "number": 142,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 142,
+    "question": "Tôn giáo có mấy tính chất? là những tính chất nào?",
+    "options": [
+      {
+        "id": "R185-C6-Q142-O1",
+        "text": "3 tính chất, gồm: tính lịch sử, tính quần chúng và tính chính trị"
+      },
+      {
+        "id": "R185-C6-Q142-O2",
+        "text": "4 tính chất, gồm: tính lịch sử, tính quần chúng, tính chính trị và tính triết lý"
+      },
+      {
+        "id": "R185-C6-Q142-O3",
+        "text": "5 tính chất, gồm: đền bù hư ảo, thế giới quan, điều chỉnh hành vi, giao tiếp, liên kết cộng đồng."
+      },
+      {
+        "id": "R185-C6-Q142-O4",
+        "text": "6 tính chất, gồm: triết lý, đền bù hư ảo, thế giới quan, điều chỉnh hành vi, giao tiếp, liên kết cộng đồng."
+      }
+    ],
+    "correctOptionId": "R185-C6-Q142-O1",
+    "explanation": "Đáp án A đúng vì tài liệu nêu ba tính chất cơ bản của tôn giáo: tính lịch sử, tính quần chúng và tính chính trị. Không được nhầm ba tính chất này với các chức năng của tôn giáo.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C6-Q143",
+    "chapter": 6,
+    "number": 143,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 143,
+    "question": "Tôn giáo có bao nhiêu chức năng, là những chức năng nào?",
+    "options": [
+      {
+        "id": "R185-C6-Q143-O1",
+        "text": "5 chức năng, gồm: đền bù hư ảo, thế giới quan, điều chỉnh hành vi, giao tiếp, liên kết cộng đồng."
+      },
+      {
+        "id": "R185-C6-Q143-O2",
+        "text": "4 chức năng, gồm: đền bù hư ảo, thế giới quan, điều chỉnh hành vi, giao tiếp."
+      },
+      {
+        "id": "R185-C6-Q143-O3",
+        "text": "3 chức năng, gồm: đền bù hư ảo, thế giới quan, điều chỉnh hành vi."
+      },
+      {
+        "id": "R185-C6-Q143-O4",
+        "text": "6 chức năng, gồm: đền bù hư ảo, thế giới quan, điều chỉnh hành vi, giao tiếp, liên kết cộng đồng, giáo dục."
+      }
+    ],
+    "correctOptionId": "R185-C6-Q143-O1",
+    "explanation": "Đáp án A đúng vì tài liệu liệt kê năm chức năng của tôn giáo: đền bù hư ảo, thế giới quan, điều chỉnh hành vi, giao tiếp và liên kết cộng đồng.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C6-Q144",
+    "chapter": 6,
+    "number": 144,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 144,
+    "question": "Nội dung cốt lõi của công tác tôn giáo ở nước ta trong giai đoạn hiện nay là?",
+    "options": [
+      {
+        "id": "R185-C6-Q144-O1",
+        "text": "Là công tác vận động quần chúng"
+      },
+      {
+        "id": "R185-C6-Q144-O2",
+        "text": "Là phát huy vai trò của các cơ quan quản lý tôn giáo"
+      },
+      {
+        "id": "R185-C6-Q144-O3",
+        "text": "Là phát huy vai trò của chức sắc tôn giáo"
+      },
+      {
+        "id": "R185-C6-Q144-O4",
+        "text": "Cả A, B và C."
+      }
+    ],
+    "correctOptionId": "R185-C6-Q144-O1",
+    "explanation": "Đáp án A đúng vì công tác tôn giáo trước hết là công tác vận động quần chúng, nhằm đoàn kết, tuyên truyền, bảo đảm quyền chính đáng và hướng hoạt động tôn giáo theo pháp luật.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C6-Q145",
+    "chapter": 6,
+    "number": 145,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 145,
+    "question": "Tôn giáo có chức năng liên kết cộng đồng vì:",
+    "options": [
+      {
+        "id": "R185-C6-Q145-O1",
+        "text": "Góp phần hình thành những cộng đồng xã hội – gắn kết với nhau dựa trên những giá trị, chuẩn mực tôn giáo."
+      },
+      {
+        "id": "R185-C6-Q145-O2",
+        "text": "Là một bộ phận của kiến trúc thượng tầng, đóng vai trò quan trọng trong sự liên kết, giữ gìn ổn định trật tự xã hội dựa trên hệ thống giá trị và chuẩn mực chung"
+      },
+      {
+        "id": "R185-C6-Q145-O3",
+        "text": "Trong những trường hợp cụ thể, tôn giáo là ngọn cờ tập hợp các lực lượng đấu tranh chống áp bức, bóc lột, chống lại các thế lực chính trị – xã hội phản tiến bộ đương thời."
+      },
+      {
+        "id": "R185-C6-Q145-O4",
+        "text": "Cả A, B và C."
+      }
+    ],
+    "correctOptionId": "R185-C6-Q145-O4",
+    "explanation": "Đáp án D đúng vì chức năng liên kết cộng đồng của tôn giáo được hình thành từ nhiều yếu tố đồng thời như niềm tin chung, nghi lễ chung và sinh hoạt cộng đồng; vì vậy cả A, B và C đều góp phần tạo sự gắn kết.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C6-Q146",
+    "chapter": 6,
+    "number": 146,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 146,
+    "question": "Chính sách nhất quán của nhà nước xã hội chủ nghĩa đối với tôn giáo là gì?",
+    "options": [
+      {
+        "id": "R185-C6-Q146-O1",
+        "text": "Tôn trọng và bảo đảm quyền tự do tín ngưỡng và không tín ngưỡng của mọi công dân"
+      },
+      {
+        "id": "R185-C6-Q146-O2",
+        "text": "Tôn trọng và bảo đảm quyền tự do tín ngưỡng của mọi công dân"
+      },
+      {
+        "id": "R185-C6-Q146-O3",
+        "text": "Tôn trọng và bảo đảm quyền tự do không tín ngưỡng của mọi công dân"
+      },
+      {
+        "id": "R185-C6-Q146-O4",
+        "text": "Tôn trọng và cho phép mọi tôn giáo hoạt động."
+      }
+    ],
+    "correctOptionId": "R185-C6-Q146-O1",
+    "explanation": "Đáp án A đúng vì chính sách nhất quán là tôn trọng và bảo đảm quyền tự do tín ngưỡng cũng như quyền không tín ngưỡng của mọi công dân; đây là nguyên tắc cơ bản khi giải quyết vấn đề tôn giáo.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C6-Q147",
+    "chapter": 6,
+    "number": 147,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 147,
+    "question": "Thực hiện đại đoàn kết dân tộc Đảng và nhà nước bảo đảm lợi ích chính đáng của:",
+    "options": [
+      {
+        "id": "R185-C6-Q147-O1",
+        "text": "Mọi tầng lớp dân cư"
+      },
+      {
+        "id": "R185-C6-Q147-O2",
+        "text": "Giai cấp công nhân"
+      },
+      {
+        "id": "R185-C6-Q147-O3",
+        "text": "Giai cấp tư sản"
+      },
+      {
+        "id": "R185-C6-Q147-O4",
+        "text": "Nhân dân lao động"
+      }
+    ],
+    "correctOptionId": "R185-C6-Q147-O1",
+    "explanation": "Đáp án A đúng vì đại đoàn kết dân tộc hướng tới bảo đảm lợi ích chính đáng của mọi tầng lớp dân cư, không chỉ một giai cấp hay một nhóm xã hội riêng biệt.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C6-Q148",
+    "chapter": 6,
+    "number": 148,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 148,
+    "question": "Điền từ còn thiếu vào chỗ trống: Một trong những nội dung của chính sách tôn giáo ở nước ta hiện nay là tôn trọng, bảo đảm quyền tự do [.........] và không [.........] của nhân dân.",
+    "options": [
+      {
+        "id": "R185-C6-Q148-O1",
+        "text": "Tín ngưỡng/tín ngưỡng"
+      },
+      {
+        "id": "R185-C6-Q148-O2",
+        "text": "Tôn giáo/tôn giáo"
+      },
+      {
+        "id": "R185-C6-Q148-O3",
+        "text": "Tôn giáo/tín ngưỡng"
+      },
+      {
+        "id": "R185-C6-Q148-O4",
+        "text": "Tín ngưỡng/tôn giáo"
+      }
+    ],
+    "correctOptionId": "R185-C6-Q148-O1",
+    "explanation": "Đáp án A đúng vì chính sách tôn giáo phải bảo đảm đồng thời quyền tự do tín ngưỡng và quyền không tín ngưỡng; hai quyền này là hai mặt của tự do tư tưởng và lương tâm.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C6-Q149",
+    "chapter": 6,
+    "number": 149,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 149,
+    "question": "Điền vào chỗ trống: “Tất cả mọi tôn giáo chẳng qua chỉ là [.........] – vào trong đầu óc của con người – của những lực lượng bên ngoài chi phối cuộc sống của họ, chỉ là sự phản ánh trong đó những lực lượng trần thế đã mang hình thức những lực lượng siêu trần thế.”",
+    "options": [
+      {
+        "id": "R185-C6-Q149-O1",
+        "text": "Phản ánh hiện thực."
+      },
+      {
+        "id": "R185-C6-Q149-O2",
+        "text": "Phản ánh khách quan."
+      },
+      {
+        "id": "R185-C6-Q149-O3",
+        "text": "Sự phản ánh hư ảo."
+      },
+      {
+        "id": "R185-C6-Q149-O4",
+        "text": "Sự phản ánh chọn lọc."
+      }
+    ],
+    "correctOptionId": "R185-C6-Q149-O3",
+    "explanation": "Đáp án C đúng vì theo quan điểm của Friedrich Engels, tôn giáo là sự phản ánh hư ảo những lực lượng bên ngoài đang chi phối đời sống con người, khiến các lực lượng trần thế được hình dung dưới dạng siêu nhiên.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C6-Q150",
+    "chapter": 6,
+    "number": 150,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 150,
+    "question": "Chọn đáp án sai:",
+    "options": [
+      {
+        "id": "R185-C6-Q150-O1",
+        "text": "Lãnh thổ dân tộc chính là lãnh thổ của bộ tộc được hình thành do quá trình xâm lấn và cư trú lâu dài của bộ tộc đó."
+      },
+      {
+        "id": "R185-C6-Q150-O2",
+        "text": "Lãnh thổ bao gồm cả vùng đất, vùng biển, hải đảo, vùng trời thuộc chủ quyền của quốc gia dân tộc."
+      },
+      {
+        "id": "R185-C6-Q150-O3",
+        "text": "Lãnh thổ là địa bàn sinh tồn và phát triển của dân tộc"
+      },
+      {
+        "id": "R185-C6-Q150-O4",
+        "text": "Chủ quyền quốc gia dân tộc thường được thể chế hóa thành luật pháp quốc gia và luật pháp quốc tế."
+      }
+    ],
+    "correctOptionId": "R185-C6-Q150-O1",
+    "explanation": "Đáp án A là phương án sai vì lãnh thổ của một dân tộc - quốc gia không đơn giản là lãnh thổ của một bộ tộc được hình thành chỉ do xâm lấn và cư trú lâu dài; lãnh thổ quốc gia là kết quả của cả một quá trình lịch sử, chính trị và pháp lý phức tạp.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C6-Q151",
+    "chapter": 6,
+    "number": 151,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 151,
+    "question": "Đâu là nhân tố cơ bản dẫn tới việc chuyển từ hình thức cộng đồng trước dân tộc sang dân tộc?",
+    "options": [
+      {
+        "id": "R185-C6-Q151-O1",
+        "text": "Tác nhân kinh tế"
+      },
+      {
+        "id": "R185-C6-Q151-O2",
+        "text": "Tác nhân văn hóa"
+      },
+      {
+        "id": "R185-C6-Q151-O3",
+        "text": "Tác nhân ngôn ngữ"
+      },
+      {
+        "id": "R185-C6-Q151-O4",
+        "text": "Tác nhân huyết thống"
+      }
+    ],
+    "correctOptionId": "R185-C6-Q151-O1",
+    "explanation": "Đáp án A đúng vì sự biến đổi của phương thức sản xuất và đời sống kinh tế là nhân tố cơ bản làm thay đổi cách cộng đồng người tổ chức, liên kết và phát triển từ các hình thức tiền dân tộc lên dân tộc.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C6-Q152",
+    "chapter": 6,
+    "number": 152,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 152,
+    "question": "Chọn đáp án sai",
+    "options": [
+      {
+        "id": "R185-C6-Q152-O1",
+        "text": "Các cá nhân có quyền chọn lựa việc tiếp nhận hoặc không tiếp nhận những giá trị văn hóa của dân tộc mình."
+      },
+      {
+        "id": "R185-C6-Q152-O2",
+        "text": "Văn hóa dân tộc không thể phát triển nếu không giao lưu với văn hóa các dân tộc khác."
+      },
+      {
+        "id": "R185-C6-Q152-O3",
+        "text": "Văn hóa dân tộc mang nhiều sắc thái, song vẫn là một nền văn hóa thống nhất không bị chia cắt."
+      },
+      {
+        "id": "R185-C6-Q152-O4",
+        "text": "Văn hóa dân tộc tạo ra sắc thái riêng cho từng dân tộc."
+      }
+    ],
+    "correctOptionId": null,
+    "explanation": "File không đủ cơ sở để xác định duy nhất một phương án sai. Kiến thức chắc chắn là văn hóa dân tộc vừa có bản sắc riêng, vừa thống nhất trong đa dạng và không thể phát triển biệt lập hoàn toàn với giao lưu văn hóa. Phương án A có cách diễn đạt dễ gây tranh luận nên cần đối chiếu đáp án chính thức của giảng viên.",
+    "reviewOnly": true
+  },
+  {
+    "id": "R185-C6-Q153",
+    "chapter": 6,
+    "number": 153,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 153,
+    "question": "Chọn đáp án đúng:",
+    "options": [
+      {
+        "id": "R185-C6-Q153-O1",
+        "text": "Đoàn kết dân tộc là một nguyên tắc nhất quán xuyên suốt quá trình hoạch định chính sách dân tộc của Đảng."
+      },
+      {
+        "id": "R185-C6-Q153-O2",
+        "text": "Đoàn kết dân tộc là nguồn sức mạnh, động lực chủ yếu và là nhân tố có ý nghĩa quyết định bảo đảm thắng lợi bền vững của sự nghiệp xây dựng và bảo vệ Tổ quốc."
+      },
+      {
+        "id": "R185-C6-Q153-O3",
+        "text": "Đoàn kết dân tộc là sự đoàn kết giữa những người có cùng chung một mục đích giải phóng giai cấp, giải phóng dân tộc và giải phóng xã hội."
+      },
+      {
+        "id": "R185-C6-Q153-O4",
+        "text": "Cả A, B và C đều đúng"
+      }
+    ],
+    "correctOptionId": "R185-C6-Q153-O4",
+    "explanation": "Đáp án D đúng theo bộ đề vì cả ba ý A, B và C đều phản ánh các nội dung đúng của vấn đề được hỏi; do đó phương án tổng hợp 'Cả A, B và C đều đúng' là lựa chọn đầy đủ nhất.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C6-Q154",
+    "chapter": 6,
+    "number": 154,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 154,
+    "question": "Chọn đáp án sai",
+    "options": [
+      {
+        "id": "R185-C6-Q154-O1",
+        "text": "Các cá nhân có quyền chọn lựa việc tiếp nhận hoặc không tiếp nhận những giá trị văn hóa của dân tộc mình."
+      },
+      {
+        "id": "R185-C6-Q154-O2",
+        "text": "Văn hóa dân tộc không thể phát triển nếu không giao lưu với văn hóa các dân tộc khác."
+      },
+      {
+        "id": "R185-C6-Q154-O3",
+        "text": "Văn hóa dân tộc mang nhiều sắc thái, song vẫn là một nền văn hóa thống nhất không bị chia cắt."
+      },
+      {
+        "id": "R185-C6-Q154-O4",
+        "text": "Văn hóa dân tộc tạo ra sắc thái riêng cho từng dân tộc."
+      }
+    ],
+    "correctOptionId": null,
+    "explanation": "Câu này trùng nội dung câu 152 và cũng không đủ cơ sở trong tài liệu để chốt duy nhất một phương án sai. Không nên học thuộc một chữ cái; cần nắm nguyên tắc: tôn trọng bản sắc riêng, thống nhất trong đa dạng và phát triển thông qua giao lưu văn hóa.",
+    "reviewOnly": true
+  },
+  {
+    "id": "R185-C6-Q155",
+    "chapter": 6,
+    "number": 155,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 155,
+    "question": "Điền vào chỗ trống: Bình đẳng giữa các dân tộc, trước hết là xoá bỏ tình trạng dân tộc này đặt ách nô dịch lên dân tộc khác trên cơ sở thủ tiêu tình trạng [.........] này áp bức [.........] khác",
+    "options": [
+      {
+        "id": "R185-C6-Q155-O1",
+        "text": "Giai cấp"
+      },
+      {
+        "id": "R185-C6-Q155-O2",
+        "text": "Dân tộc"
+      },
+      {
+        "id": "R185-C6-Q155-O3",
+        "text": "Tầng lớp"
+      },
+      {
+        "id": "R185-C6-Q155-O4",
+        "text": "Lực lượng"
+      }
+    ],
+    "correctOptionId": "R185-C6-Q155-O1",
+    "explanation": "Đáp án A đúng. Ý cần điền là 'giai cấp': muốn xóa bỏ tình trạng dân tộc này áp bức dân tộc khác phải khắc phục cơ sở giai cấp của sự áp bức, tức tình trạng giai cấp này áp bức giai cấp khác.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C6-Q156",
+    "chapter": 6,
+    "number": 156,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 156,
+    "question": "Trong những cộng đồng người sau đây, cộng đồng người nào được hình thành một cách tự nhiên?",
+    "options": [
+      {
+        "id": "R185-C6-Q156-O1",
+        "text": "Các nhóm xã hội"
+      },
+      {
+        "id": "R185-C6-Q156-O2",
+        "text": "Các tổ chức đoàn thể"
+      },
+      {
+        "id": "R185-C6-Q156-O3",
+        "text": "Các hiệp hội"
+      },
+      {
+        "id": "R185-C6-Q156-O4",
+        "text": "Dân tộc"
+      }
+    ],
+    "correctOptionId": "R185-C6-Q156-O4",
+    "explanation": "Đáp án D đúng vì dân tộc hình thành và phát triển một cách tự nhiên - lịch sử trong quá trình lâu dài của cộng đồng người, không phải do một quyết định hành chính hay một tổ chức tạo ra trong thời gian ngắn.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C6-Q157",
+    "chapter": 6,
+    "number": 157,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 157,
+    "question": "Theo Vladimir Ilyich Lenin, khi giải quyết quyền dân tộc tự quyết phải lưu ý vấn đề gì?",
+    "options": [
+      {
+        "id": "R185-C6-Q157-O1",
+        "text": "Phải cụ thể, rõ ràng"
+      },
+      {
+        "id": "R185-C6-Q157-O2",
+        "text": "Phải có quan điểm lịch sử cụ thể"
+      },
+      {
+        "id": "R185-C6-Q157-O3",
+        "text": "Phải bình đẳng"
+      },
+      {
+        "id": "R185-C6-Q157-O4",
+        "text": "Phải chú ý sự đoàn kết"
+      }
+    ],
+    "correctOptionId": "R185-C6-Q157-O2",
+    "explanation": "Đáp án B đúng vì quyền dân tộc tự quyết phải được xem xét trong hoàn cảnh lịch sử cụ thể; không thể áp dụng máy móc quyền tách ra hoặc liên hiệp mà bỏ qua điều kiện, lợi ích của nhân dân lao động và bối cảnh từng dân tộc.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C6-Q158",
+    "chapter": 6,
+    "number": 158,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 158,
+    "question": "Tên gọi của cộng đồng người có mối liên hệ chặt chẽ và bền vững, có sinh hoạt kinh tế, có ngôn ngữ và nét văn hóa đặc thù là gì?",
+    "options": [
+      {
+        "id": "R185-C6-Q158-O1",
+        "text": "Bộ lạc"
+      },
+      {
+        "id": "R185-C6-Q158-O2",
+        "text": "Quốc gia"
+      },
+      {
+        "id": "R185-C6-Q158-O3",
+        "text": "Dân tộc"
+      },
+      {
+        "id": "R185-C6-Q158-O4",
+        "text": "Bộ tộc"
+      }
+    ],
+    "correctOptionId": "R185-C6-Q158-O3",
+    "explanation": "Đáp án C đúng vì mô tả 'có mối liên hệ chặt chẽ và bền vững, có sinh hoạt kinh tế, ngôn ngữ và nét văn hóa đặc thù' chính là đặc trưng của cộng đồng dân tộc theo nghĩa tộc người.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C6-Q159",
+    "chapter": 6,
+    "number": 159,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 159,
+    "question": "Tại sao khi giải quyết vấn đề tôn giáo phải có quan điểm lịch sử?",
+    "options": [
+      {
+        "id": "R185-C6-Q159-O1",
+        "text": "Vì mỗi thời kỳ lịch sử khác nhau, vai trò, tác động của từng tôn giáo đối với đời sống xã hội không giống nhau"
+      },
+      {
+        "id": "R185-C6-Q159-O2",
+        "text": "Vì tôn giáo ra đời, tồn tại và biến đổi trong một giai đoạn lịch sử nhất định"
+      },
+      {
+        "id": "R185-C6-Q159-O3",
+        "text": "Vì mỗi tôn giáo có triết lý riêng của mình"
+      },
+      {
+        "id": "R185-C6-Q159-O4",
+        "text": "Cả A, B đều đúng"
+      }
+    ],
+    "correctOptionId": "R185-C6-Q159-O4",
+    "explanation": "Đáp án D đúng vì vai trò, hình thức và tác động của tôn giáo thay đổi theo từng thời kỳ lịch sử và hoàn cảnh xã hội cụ thể; do đó khi giải quyết vấn đề tôn giáo phải xét cả điều kiện lịch sử và bối cảnh thực tế.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C6-Q160",
+    "chapter": 6,
+    "number": 160,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 160,
+    "question": "Vì sao tôn giáo có tính lịch sử?",
+    "options": [
+      {
+        "id": "R185-C6-Q160-O1",
+        "text": "Vì tôn giáo là sản phẩm của con người"
+      },
+      {
+        "id": "R185-C6-Q160-O2",
+        "text": "Vì tôn giáo là một hiện tượng xã hội"
+      },
+      {
+        "id": "R185-C6-Q160-O3",
+        "text": "Vì tôn giáo ra đời, tồn tại và biến đổi trong một giai đoạn lịch sử nhất định của loài người"
+      },
+      {
+        "id": "R185-C6-Q160-O4",
+        "text": "Cả A, B và C đều đúng"
+      }
+    ],
+    "correctOptionId": "R185-C6-Q160-O4",
+    "explanation": "Đáp án D đúng vì tôn giáo ra đời, tồn tại và biến đổi trong những điều kiện lịch sử nhất định; hình thức, vị trí và tác động xã hội của nó cũng thay đổi theo sự vận động của đời sống kinh tế - xã hội, nên cả các ý đã nêu đều đúng.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C6-Q161",
+    "chapter": 6,
+    "number": 161,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 161,
+    "question": "Tôn giáo mang tính chính trị khi nào?",
+    "options": [
+      {
+        "id": "R185-C6-Q161-O1",
+        "text": "Khi tôn giáo ra đời"
+      },
+      {
+        "id": "R185-C6-Q161-O2",
+        "text": "Khi các cuộc chiến tranh tôn giáo nổ ra"
+      },
+      {
+        "id": "R185-C6-Q161-O3",
+        "text": "Khi xã hội đã có giai cấp, các giai cấp thống trị đã lợi dụng và sử dụng tôn giáo để phục vụ lợi ích của mình"
+      },
+      {
+        "id": "R185-C6-Q161-O4",
+        "text": "Cả A, B và C"
+      }
+    ],
+    "correctOptionId": "R185-C6-Q161-O3",
+    "explanation": "Đáp án C đúng vì tôn giáo mang tính chính trị rõ khi xã hội đã phân chia giai cấp và các lực lượng, đặc biệt giai cấp thống trị, sử dụng tôn giáo để phục vụ lợi ích và mục tiêu chính trị.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C6-Q162",
+    "chapter": 6,
+    "number": 162,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 162,
+    "question": "Đâu là sự giống nhau giữa tôn giáo và tín ngưỡng?",
+    "options": [
+      {
+        "id": "R185-C6-Q162-O1",
+        "text": "Đều có giáo chủ"
+      },
+      {
+        "id": "R185-C6-Q162-O2",
+        "text": "Đều có hệ thống kinh điển"
+      },
+      {
+        "id": "R185-C6-Q162-O3",
+        "text": "Đều có các giáo sĩ"
+      },
+      {
+        "id": "R185-C6-Q162-O4",
+        "text": "Đều có niềm tin vào đấng siêu nhiên"
+      }
+    ],
+    "correctOptionId": "R185-C6-Q162-O4",
+    "explanation": "Đáp án D đúng vì điểm chung cơ bản giữa tôn giáo và tín ngưỡng là đều có niềm tin vào những lực lượng hay đấng siêu nhiên, dù mức độ tổ chức và hệ thống giáo lý có thể khác nhau.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C6-Q163",
+    "chapter": 6,
+    "number": 163,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 163,
+    "question": "Lịch sử hình thành các dân tộc (từ cộng đồng thị tộc đến dân tộc) đã khẳng định rằng mỗi một cộng đồng dân tộc vừa mang tính tộc người vừa mang tính:",
+    "options": [
+      {
+        "id": "R185-C6-Q163-O1",
+        "text": "Chính trị – xã hội"
+      },
+      {
+        "id": "R185-C6-Q163-O2",
+        "text": "Văn hóa"
+      },
+      {
+        "id": "R185-C6-Q163-O3",
+        "text": "Tập quán"
+      },
+      {
+        "id": "R185-C6-Q163-O4",
+        "text": "Cộng đồng"
+      }
+    ],
+    "correctOptionId": "R185-C6-Q163-O1",
+    "explanation": "Đáp án A đúng vì một cộng đồng dân tộc không chỉ có đặc điểm tộc người như ngôn ngữ và văn hóa mà còn mang tính chính trị - xã hội, nhất là khi phát triển thành cộng đồng quốc gia - dân tộc.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C6-Q164",
+    "chapter": 6,
+    "number": 164,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 164,
+    "question": "“Ở một giai đoạn lịch sử nhất định, sự nhận thức của con người về tự nhiên, xã hội và chính bản thân mình là có giới hạn, khi những điều mà khoa học chưa giải thích được, thì điều đó thường được giải thích thông qua lăng kính các tôn giáo”. Nhận định này đang nói về nguồn gốc nào của tôn giáo?",
+    "options": [
+      {
+        "id": "R185-C6-Q164-O1",
+        "text": "Kinh tế – xã hội"
+      },
+      {
+        "id": "R185-C6-Q164-O2",
+        "text": "Nhận thức"
+      },
+      {
+        "id": "R185-C6-Q164-O3",
+        "text": "Tâm lý"
+      },
+      {
+        "id": "R185-C6-Q164-O4",
+        "text": "Chính trị"
+      }
+    ],
+    "correctOptionId": "R185-C6-Q164-O2",
+    "explanation": "Đáp án B đúng vì nhận định nói đến giới hạn nhận thức của con người trước những hiện tượng chưa giải thích được và việc dùng tôn giáo để lý giải, nên thuộc nguồn gốc nhận thức của tôn giáo.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C6-Q165",
+    "chapter": 6,
+    "number": 165,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 165,
+    "question": "Điểm khác nhau cơ bản giữa chủ nghĩa Mác – Vladimir Ilyich Lenin và tôn giáo?",
+    "options": [
+      {
+        "id": "R185-C6-Q165-O1",
+        "text": "Thế giới quan"
+      },
+      {
+        "id": "R185-C6-Q165-O2",
+        "text": "Tư tưởng"
+      },
+      {
+        "id": "R185-C6-Q165-O3",
+        "text": "Cả A, B đều đúng"
+      },
+      {
+        "id": "R185-C6-Q165-O4",
+        "text": "Cả A, B đều sai"
+      }
+    ],
+    "correctOptionId": "R185-C6-Q165-O1",
+    "explanation": "Đáp án A đúng vì điểm khác nhau nền tảng nằm ở thế giới quan: chủ nghĩa Mác - Vladimir Ilyich Lenin dựa trên thế giới quan duy vật biện chứng, còn tôn giáo dựa trên niềm tin vào lực lượng siêu nhiên.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C6-Q166",
+    "chapter": 6,
+    "number": 166,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 166,
+    "question": "Các tôn giáo có số lượng tín đồ rất lớn (gần ¾ dân số thế giới), đồng thời còn là nơi sinh hoạt văn hóa, tinh thần của một bộ phận quần chúng nhân dân lao động. Do vậy, tôn giáo có tính chất:",
+    "options": [
+      {
+        "id": "R185-C6-Q166-O1",
+        "text": "Quần chúng"
+      },
+      {
+        "id": "R185-C6-Q166-O2",
+        "text": "Ưu tú"
+      },
+      {
+        "id": "R185-C6-Q166-O3",
+        "text": "Siêu nhiên"
+      },
+      {
+        "id": "R185-C6-Q166-O4",
+        "text": "Khép kín"
+      }
+    ],
+    "correctOptionId": "R185-C6-Q166-O1",
+    "explanation": "Đáp án A đúng vì số lượng tín đồ đông và việc tôn giáo trở thành một hình thức sinh hoạt tinh thần của đông đảo quần chúng thể hiện tính quần chúng của tôn giáo.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C7-Q167",
+    "chapter": 7,
+    "number": 167,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 167,
+    "question": "Điền vào chỗ trống: “Hằng ngày tái tạo ra đời sống của bản thân mình, con người bắt đầu tạo ra những người khác, sinh sôi nảy nở – đó là quan hệ giữa [.........], đó là gia đình”",
+    "options": [
+      {
+        "id": "R185-C7-Q167-O1",
+        "text": "Chồng và vợ, cha mẹ và con cái,"
+      },
+      {
+        "id": "R185-C7-Q167-O2",
+        "text": "Các thành viên sống cùng trong một không gian,"
+      },
+      {
+        "id": "R185-C7-Q167-O3",
+        "text": "Con người với con người có quan hệ hôn nhân và huyết thống,"
+      },
+      {
+        "id": "R185-C7-Q167-O4",
+        "text": "Cả A, B và C đều đúng"
+      }
+    ],
+    "correctOptionId": "R185-C7-Q167-O1",
+    "explanation": "Đáp án A đúng vì câu của Karl Marx và Friedrich Engels nói đến hai quan hệ nền tảng hình thành gia đình: quan hệ giữa chồng và vợ, giữa cha mẹ và con cái.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C7-Q168",
+    "chapter": 7,
+    "number": 168,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 168,
+    "question": "Như thế nào là chế độ hôn nhân tiến bộ?",
+    "options": [
+      {
+        "id": "R185-C7-Q168-O1",
+        "text": "Hôn nhân tự nguyện"
+      },
+      {
+        "id": "R185-C7-Q168-O2",
+        "text": "Một vợ một chồng, bình đẳng"
+      },
+      {
+        "id": "R185-C7-Q168-O3",
+        "text": "Được đảm bảo về pháp lý"
+      },
+      {
+        "id": "R185-C7-Q168-O4",
+        "text": "Cả A, B và C."
+      }
+    ],
+    "correctOptionId": "R185-C7-Q168-O4",
+    "explanation": "Đáp án D đúng vì hôn nhân tiến bộ phải đồng thời bảo đảm các yêu cầu của A, B và C: tự nguyện, một vợ một chồng, vợ chồng bình đẳng và được pháp luật bảo đảm quyền kết hôn cũng như ly hôn.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C7-Q169",
+    "chapter": 7,
+    "number": 169,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 169,
+    "question": "Có bao nhiêu mối quan hệ cơ bản được xem là cơ sở hình thành gia đình? Đó là những mối quan hệ nào?",
+    "options": [
+      {
+        "id": "R185-C7-Q169-O1",
+        "text": "2, là quan hệ hôn nhân và quan hệ huyết thống."
+      },
+      {
+        "id": "R185-C7-Q169-O2",
+        "text": "4, là quan hệ hôn nhân, quan hệ huyết thống, quan hệ kinh tế, quan hệ hôn thú."
+      },
+      {
+        "id": "R185-C7-Q169-O3",
+        "text": "1, là quan hệ hôn thú."
+      },
+      {
+        "id": "R185-C7-Q169-O4",
+        "text": "3, là quan hệ hôn nhân, quan hệ huyết thống, quan hệ kinh tế."
+      }
+    ],
+    "correctOptionId": "R185-C7-Q169-O1",
+    "explanation": "Đáp án A đúng theo cách hỏi của bộ đề vì hai quan hệ cơ bản trực tiếp làm nền tảng hình thành gia đình là quan hệ hôn nhân và quan hệ huyết thống; ngoài ra trong thực tế còn có quan hệ nuôi dưỡng.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C7-Q170",
+    "chapter": 7,
+    "number": 170,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 170,
+    "question": "Mối quan hệ giữa gia đình và xã hội biểu hiện như thế nào?",
+    "options": [
+      {
+        "id": "R185-C7-Q170-O1",
+        "text": "Gia đình là tế bào của xã hội"
+      },
+      {
+        "id": "R185-C7-Q170-O2",
+        "text": "Gia đình là cầu nối giữa cá nhân với xã hội"
+      },
+      {
+        "id": "R185-C7-Q170-O3",
+        "text": "Xã hội là môi trường tồn tại và phát triển của gia đình"
+      },
+      {
+        "id": "R185-C7-Q170-O4",
+        "text": "Cả A, B và C."
+      }
+    ],
+    "correctOptionId": "R185-C7-Q170-O4",
+    "explanation": "Đáp án D đúng vì quan hệ gia đình và xã hội có tính hai chiều: gia đình là tế bào của xã hội, là cầu nối cá nhân với xã hội, đồng thời xã hội là môi trường tồn tại và phát triển của gia đình.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C7-Q171",
+    "chapter": 7,
+    "number": 171,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 171,
+    "question": "Chức năng nào sau đây đảm bảo tái sản xuất nguồn lao động và sức lao động cho xã hội?",
+    "options": [
+      {
+        "id": "R185-C7-Q171-O1",
+        "text": "Chức năng tái sản xuất ra con người"
+      },
+      {
+        "id": "R185-C7-Q171-O2",
+        "text": "Chức năng kinh tế"
+      },
+      {
+        "id": "R185-C7-Q171-O3",
+        "text": "Chức năng nuôi dưỡng, giáo dục"
+      },
+      {
+        "id": "R185-C7-Q171-O4",
+        "text": "Chức năng thỏa mãn các nhu cầu tâm sinh lý, duy trì tình cảm"
+      }
+    ],
+    "correctOptionId": "R185-C7-Q171-O1",
+    "explanation": "Đáp án A đúng vì chức năng tái sản xuất con người tạo ra các thế hệ mới, qua đó duy trì dân số, tái tạo nguồn nhân lực và sức lao động cho xã hội.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C7-Q172",
+    "chapter": 7,
+    "number": 172,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 172,
+    "question": "Khi đề cập đến nội dung tái sản xuất, duy trì nòi giống, nuôi dưỡng nâng cao thể lực, trí lực là muốn đề cập đến chức năng nào của gia đình?",
+    "options": [
+      {
+        "id": "R185-C7-Q172-O1",
+        "text": "Chức năng tái sản xuất ra con người"
+      },
+      {
+        "id": "R185-C7-Q172-O2",
+        "text": "Chức năng duy trì quyền thừa kế"
+      },
+      {
+        "id": "R185-C7-Q172-O3",
+        "text": "Chức năng kinh tế và tổ chức đời sống gia đình"
+      },
+      {
+        "id": "R185-C7-Q172-O4",
+        "text": "Chức năng giáo dục"
+      }
+    ],
+    "correctOptionId": "R185-C7-Q172-O1",
+    "explanation": "Đáp án A đúng vì tái sản xuất, duy trì nòi giống và góp phần nâng cao thể lực, trí lực của thế hệ mới gắn với chức năng tái sản xuất con người của gia đình.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C7-Q173",
+    "chapter": 7,
+    "number": 173,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 173,
+    "question": "Quan hệ nào sau đây không phải là quan hệ huyết thống trong gia đình?",
+    "options": [
+      {
+        "id": "R185-C7-Q173-O1",
+        "text": "Quan hệ giữa vợ và chồng"
+      },
+      {
+        "id": "R185-C7-Q173-O2",
+        "text": "Quan hệ giữa ông bà và cháu"
+      },
+      {
+        "id": "R185-C7-Q173-O3",
+        "text": "Quan hệ giữa anh chị em trong gia đình"
+      },
+      {
+        "id": "R185-C7-Q173-O4",
+        "text": "Quan hệ giữa cha mẹ và con cái"
+      }
+    ],
+    "correctOptionId": "R185-C7-Q173-O1",
+    "explanation": "Đáp án A đúng vì quan hệ giữa vợ và chồng là quan hệ hôn nhân, không phải quan hệ huyết thống; quan hệ ông bà - cháu, anh chị em, cha mẹ - con cái đều có nền tảng huyết thống.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C7-Q174",
+    "chapter": 7,
+    "number": 174,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 174,
+    "question": "Gia đình phải thực hiện chức năng nào để đảm bảo nguồn sinh sống, đáp ứng nhu cầu vật chất, tinh thần của các thành viên trong gia đình?",
+    "options": [
+      {
+        "id": "R185-C7-Q174-O1",
+        "text": "Chức năng kinh tế, tổ chức tiêu dùng"
+      },
+      {
+        "id": "R185-C7-Q174-O2",
+        "text": "Chức năng tái sản xuất con người"
+      },
+      {
+        "id": "R185-C7-Q174-O3",
+        "text": "Chức năng nuôi dưỡng, giáo dục"
+      },
+      {
+        "id": "R185-C7-Q174-O4",
+        "text": "Chức năng thỏa mãn các nhu cầu tâm sinh lý, duy trì tình cảm"
+      }
+    ],
+    "correctOptionId": "R185-C7-Q174-O1",
+    "explanation": "Đáp án A đúng vì chức năng kinh tế và tổ chức tiêu dùng giúp gia đình tạo ra hoặc bảo đảm nguồn thu, phân phối và sử dụng nguồn lực để đáp ứng các nhu cầu vật chất, tinh thần.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C7-Q175",
+    "chapter": 7,
+    "number": 175,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 175,
+    "question": "Chức năng nào sau đây của gia đình ảnh hưởng lâu dài và toàn diện đối với mỗi cá nhân trong cuộc đời, từ lúc còn bé cho đến khi trưởng thành và tuổi già?",
+    "options": [
+      {
+        "id": "R185-C7-Q175-O1",
+        "text": "Chức năng nuôi dưỡng, giáo dục"
+      },
+      {
+        "id": "R185-C7-Q175-O2",
+        "text": "Chức năng cầu nối giữa cá nhân với xã hội"
+      },
+      {
+        "id": "R185-C7-Q175-O3",
+        "text": "Chức năng tái sản xuất con người"
+      },
+      {
+        "id": "R185-C7-Q175-O4",
+        "text": "Chức năng thỏa mãn các nhu cầu tâm sinh lý, duy trì tình cảm"
+      }
+    ],
+    "correctOptionId": "R185-C7-Q175-O1",
+    "explanation": "Đáp án A đúng vì chức năng nuôi dưỡng và giáo dục tác động từ khi con người còn nhỏ đến lúc trưởng thành, hình thành thể chất, tri thức, đạo đức, tác phong và nhân cách nên có ảnh hưởng lâu dài và toàn diện.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C7-Q176",
+    "chapter": 7,
+    "number": 176,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 176,
+    "question": "Trong chiến lược phát triển gia đình Việt Nam đến năm 2020 tầm nhìn 2030, mục tiêu chung trong xây dựng và phát triển gia đình Việt Nam là:",
+    "options": [
+      {
+        "id": "R185-C7-Q176-O1",
+        "text": "Xây dựng gia đình no ấm, tiến bộ, thực sự là tổ ấm của mỗi người, là tế bào lành mạnh của xã hội."
+      },
+      {
+        "id": "R185-C7-Q176-O2",
+        "text": "Xây dựng gia đình sung túc, hoàn thiện chức năng nuôi dưỡng, giáo dục đáp ứng tốt nhu cầu công nghiệp hóa, hiện đại hóa đất nước."
+      },
+      {
+        "id": "R185-C7-Q176-O3",
+        "text": "Xây dựng gia đình hạnh phúc, một vợ một chồng, đảm bảo những giá trị tốt đẹp của gia đình truyền thống."
+      },
+      {
+        "id": "R185-C7-Q176-O4",
+        "text": "Xây dựng gia đình hiện đại, trong đó nâng cao vai trò của người phụ nữ trong gia đình"
+      }
+    ],
+    "correctOptionId": "R185-C7-Q176-O1",
+    "explanation": "Theo đáp án gợi ý của file, chọn A vì phương án này gần nhất với mục tiêu xây dựng gia đình no ấm, tiến bộ, hạnh phúc, là tổ ấm của mỗi người và tế bào lành mạnh của xã hội. File cũng lưu ý cách diễn đạt của phương án chưa bao quát hết mọi giá trị trong chiến lược.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C7-Q177",
+    "chapter": 7,
+    "number": 177,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 177,
+    "question": "Có bao nhiêu điều kiện xây dựng gia đình trong quá trình xây dựng chủ nghĩa xã hội",
+    "options": [
+      {
+        "id": "R185-C7-Q177-O1",
+        "text": "3, gồm: điều kiện kinh tế – xã hội, chính trị và văn hóa – xã hội."
+      },
+      {
+        "id": "R185-C7-Q177-O2",
+        "text": "2, gồm: điều kiện chính trị và văn hóa – xã hội."
+      },
+      {
+        "id": "R185-C7-Q177-O3",
+        "text": "5, gồm: điều kiện pháp lý, kinh tế, chính trị, văn hóa, xã hội."
+      },
+      {
+        "id": "R185-C7-Q177-O4",
+        "text": "4, gồm: điều kiện kinh tế, chính trị, văn hóa, xã hội."
+      }
+    ],
+    "correctOptionId": null,
+    "explanation": "Không có phương án nào khớp hoàn toàn với slide. Tài liệu Chương 7 nêu bốn cơ sở xây dựng gia đình trong thời kỳ quá độ: kinh tế - xã hội; chính trị - xã hội; văn hóa; chế độ hôn nhân tiến bộ. Vì các phương án A-D chia nhóm khác với slide, file để dấu hỏi và chưa chốt đáp án.",
+    "reviewOnly": true
+  },
+  {
+    "id": "R185-C7-Q178",
+    "chapter": 7,
+    "number": 178,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 178,
+    "question": "Nội dung cơ bản, trực tiếp của xây dựng gia đình ở Việt Nam hiện nay là:",
+    "options": [
+      {
+        "id": "R185-C7-Q178-O1",
+        "text": "Xây dựng gia đình no ấm"
+      },
+      {
+        "id": "R185-C7-Q178-O2",
+        "text": "Xây dựng gia đình bình đẳng"
+      },
+      {
+        "id": "R185-C7-Q178-O3",
+        "text": "Xây dựng gia đình tiến bộ và hạnh phúc"
+      },
+      {
+        "id": "R185-C7-Q178-O4",
+        "text": "Cả A, B và C."
+      }
+    ],
+    "correctOptionId": "R185-C7-Q178-O4",
+    "explanation": "Đáp án D đúng vì xây dựng gia đình Việt Nam hiện nay phải đồng thời hướng tới no ấm, bình đẳng, tiến bộ và hạnh phúc; ba phương án A, B, C là các mặt gắn bó với nhau.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C7-Q179",
+    "chapter": 7,
+    "number": 179,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 179,
+    "question": "Tồn tại bao nhiêu kiểu quan hệ vợ chồng trong gia đình Việt Nam hiện nay như thế nào?",
+    "options": [
+      {
+        "id": "R185-C7-Q179-O1",
+        "text": "Người chồng là trụ cột, mọi quyền lực thuộc về người đàn ông"
+      },
+      {
+        "id": "R185-C7-Q179-O2",
+        "text": "Người vợ là trụ cột, mọi quyền lực thuộc về tay người vợ"
+      },
+      {
+        "id": "R185-C7-Q179-O3",
+        "text": "Cả vợ và chồng cùng làm chủ gia đình"
+      },
+      {
+        "id": "R185-C7-Q179-O4",
+        "text": "Tồn tại cả 3 mô hình trên"
+      }
+    ],
+    "correctOptionId": "R185-C7-Q179-O4",
+    "explanation": "Đáp án D đúng vì trong thực tế hiện nay có thể tồn tại cả ba mô hình: chồng giữ vai trò trụ cột, vợ giữ vai trò trụ cột, hoặc vợ chồng cùng làm chủ gia đình; xu hướng tiến bộ là bình đẳng và cùng chia sẻ trách nhiệm.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C7-Q180",
+    "chapter": 7,
+    "number": 180,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 180,
+    "question": "Gia đình là một hình thức cộng đồng đặc biệt, ở đó con người chung sống với nhau bởi hai mối quan hệ cơ bản là:",
+    "options": [
+      {
+        "id": "R185-C7-Q180-O1",
+        "text": "Quan hệ hôn nhân và quan hệ huyết thống"
+      },
+      {
+        "id": "R185-C7-Q180-O2",
+        "text": "Quan hệ hôn nhân và quan hệ nuôi dưỡng"
+      },
+      {
+        "id": "R185-C7-Q180-O3",
+        "text": "Quan hệ nuôi dưỡng và quan hệ huyết thống"
+      },
+      {
+        "id": "R185-C7-Q180-O4",
+        "text": "Quan hệ huyết thống và giáo dục con cái"
+      }
+    ],
+    "correctOptionId": "R185-C7-Q180-O1",
+    "explanation": "Đáp án A đúng vì gia đình là cộng đồng đặc biệt hình thành trước hết trên cơ sở quan hệ hôn nhân và quan hệ huyết thống; đây là hai mối quan hệ cơ bản mà bộ đề nhấn mạnh.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C7-Q181",
+    "chapter": 7,
+    "number": 181,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 181,
+    "question": "Câu nào sau đây sai?",
+    "options": [
+      {
+        "id": "R185-C7-Q181-O1",
+        "text": "Quan hệ huyết thống là cơ sở cho sự hình thành và tồn tại của một gia đình."
+      },
+      {
+        "id": "R185-C7-Q181-O2",
+        "text": "Quan hệ huyết thống nảy sinh từ quan hệ hôn nhân."
+      },
+      {
+        "id": "R185-C7-Q181-O3",
+        "text": "Quan hệ huyết thống là cơ sở để duy trì hôn nhân, quan hệ hôn nhân và gia đình."
+      },
+      {
+        "id": "R185-C7-Q181-O4",
+        "text": "Tất cả đều sai"
+      }
+    ],
+    "correctOptionId": null,
+    "explanation": "File không đủ cơ sở để chốt duy nhất một phương án sai. Kiến thức chắc chắn cần nhớ: hôn nhân là cơ sở pháp lý; huyết thống là cơ sở tự nhiên; ngoài ra còn có quan hệ nuôi dưỡng. Câu hỏi diễn đạt A và C chưa đủ rõ nên không nên ép chọn một chữ cái khi chưa có đáp án chính thức.",
+    "reviewOnly": true
+  },
+  {
+    "id": "R185-C7-Q182",
+    "chapter": 7,
+    "number": 182,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 182,
+    "question": "Gia đình Việt Nam hiện nay có sự biến đổi về quy mô như thế nào?",
+    "options": [
+      {
+        "id": "R185-C7-Q182-O1",
+        "text": "Có xu hướng thu nhỏ lại"
+      },
+      {
+        "id": "R185-C7-Q182-O2",
+        "text": "Có xu hướng phình to ra"
+      },
+      {
+        "id": "R185-C7-Q182-O3",
+        "text": "Có xu hướng ổn định không thay đổi so với trước đây"
+      },
+      {
+        "id": "R185-C7-Q182-O4",
+        "text": "Tồn tại cả 3 xu hướng trên"
+      }
+    ],
+    "correctOptionId": "R185-C7-Q182-O1",
+    "explanation": "Đáp án A đúng vì quy mô gia đình Việt Nam hiện nay có xu hướng thu nhỏ, gia đình hạt nhân phổ biến hơn do con cái lập gia đình sống độc lập, nhu cầu riêng tư tăng và lối sống giữa các thế hệ khác nhau.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C7-Q183",
+    "chapter": 7,
+    "number": 183,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 183,
+    "question": "Quan hệ nào là cơ sở pháp lý cho sự tồn tại của mỗi gia đình?",
+    "options": [
+      {
+        "id": "R185-C7-Q183-O1",
+        "text": "Hôn nhân"
+      },
+      {
+        "id": "R185-C7-Q183-O2",
+        "text": "Huyết thống"
+      },
+      {
+        "id": "R185-C7-Q183-O3",
+        "text": "Nuôi dưỡng"
+      },
+      {
+        "id": "R185-C7-Q183-O4",
+        "text": "Cả A và C"
+      }
+    ],
+    "correctOptionId": "R185-C7-Q183-O1",
+    "explanation": "Đáp án A đúng vì hôn nhân được pháp luật xác lập và công nhận, nên là cơ sở pháp lý trực tiếp cho sự tồn tại của gia đình; huyết thống là cơ sở tự nhiên.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C7-Q184",
+    "chapter": 7,
+    "number": 184,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 184,
+    "question": "Quan hệ nào nảy sinh từ quan hệ hôn nhân và là mối quan hệ tự nhiên, là yếu tố mạnh mẽ nhất gắn kết các thành viên trong gia đình với nhau?",
+    "options": [
+      {
+        "id": "R185-C7-Q184-O1",
+        "text": "Hôn nhân"
+      },
+      {
+        "id": "R185-C7-Q184-O2",
+        "text": "Huyết thống"
+      },
+      {
+        "id": "R185-C7-Q184-O3",
+        "text": "Nuôi dưỡng"
+      },
+      {
+        "id": "R185-C7-Q184-O4",
+        "text": "Cả B và C"
+      }
+    ],
+    "correctOptionId": "R185-C7-Q184-O2",
+    "explanation": "Đáp án B đúng vì huyết thống là quan hệ tự nhiên nảy sinh từ quan hệ hôn nhân và sinh con, tạo mối gắn kết mạnh giữa cha mẹ, con cái và các thế hệ.",
+    "reviewOnly": false
+  },
+  {
+    "id": "R185-C7-Q185",
+    "chapter": 7,
+    "number": 185,
+    "source": "Bộ 185 câu ôn tập",
+    "sourceNumber": 185,
+    "question": "Chỉ ra các hình thức phát triển của gia đình:",
+    "options": [
+      {
+        "id": "R185-C7-Q185-O1",
+        "text": "Đối ngẫu → Huyết tộc → Một vợ một chồng"
+      },
+      {
+        "id": "R185-C7-Q185-O2",
+        "text": "Một vợ một chồng → Đối ngẫu → Huyết tộc"
+      },
+      {
+        "id": "R185-C7-Q185-O3",
+        "text": "Huyết tộc → Đối ngẫu → Một vợ một chồng"
+      },
+      {
+        "id": "R185-C7-Q185-O4",
+        "text": "Huyết tộc → Một vợ một chồng → Đối ngẫu"
+      }
+    ],
+    "correctOptionId": "R185-C7-Q185-O3",
+    "explanation": "Đáp án C đúng vì trình tự phát triển khái quát trong bộ đề là: gia đình huyết tộc, sau đó gia đình đối ngẫu, cuối cùng phát triển thành gia đình một vợ một chồng.",
+    "reviewOnly": false
   }
 ]
