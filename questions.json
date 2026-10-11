@@ -1,0 +1,1000 @@
+[
+  {
+    "id": "C1-Q001",
+    "chapter": 1,
+    "number": 1,
+    "question": "Chủ nghĩa xã hội khoa học theo nghĩa rộng được hiểu đầy đủ là:",
+    "options": [
+      {
+        "id": "C1-Q001-O1",
+        "text": "Chủ nghĩa Mác - Lênin, luận giải từ các góc độ triết học và chính trị - xã hội về sự chuyển biến từ chủ nghĩa tư bản lên chủ nghĩa xã hội"
+      },
+      {
+        "id": "C1-Q001-O2",
+        "text": "Chủ nghĩa Mác - Lênin, luận giải từ các góc độ triết học, kinh tế chính trị và chính trị - xã hội về sự chuyển biến tất yếu của xã hội loài người từ chủ nghĩa tư bản lên chủ nghĩa xã hội và chủ nghĩa cộng sản"
+      },
+      {
+        "id": "C1-Q001-O3",
+        "text": "Chủ nghĩa Mác - Lênin, luận giải từ các góc độ triết học và kinh tế chính trị về sự chuyển biến tất yếu của xã hội loài người từ chủ nghĩa tư bản lên chủ nghĩa xã hội và chủ nghĩa cộng sản"
+      },
+      {
+        "id": "C1-Q001-O4",
+        "text": "Chủ nghĩa Mác - Lênin, luận giải từ các góc độ kinh tế chính trị và chính trị - xã hội về sự chuyển biến từ chủ nghĩa xã hội lên chủ nghĩa cộng sản"
+      }
+    ],
+    "correctOptionId": "C1-Q001-O2",
+    "explanation": "Chủ nghĩa xã hội khoa học theo nghĩa rộng bao quát cả triết học, kinh tế chính trị và chính trị - xã hội để giải thích quá trình từ chủ nghĩa tư bản lên chủ nghĩa xã hội và chủ nghĩa cộng sản; các phương án khác đều thiếu một phương diện hoặc xác định sai quá trình."
+  },
+  {
+    "id": "C1-Q002",
+    "chapter": 1,
+    "number": 2,
+    "question": "Theo quan điểm của Friedrich Engels, chủ nghĩa Mác bao gồm các bộ phận lý luận nào?",
+    "options": [
+      {
+        "id": "C1-Q002-O1",
+        "text": "Triết học, Kinh tế chính trị học, Chủ nghĩa xã hội khoa học"
+      },
+      {
+        "id": "C1-Q002-O2",
+        "text": "Kinh tế học, Chính trị học, Chủ nghĩa xã hội khoa học"
+      },
+      {
+        "id": "C1-Q002-O3",
+        "text": "Triết học, Luật học, Chính trị học"
+      },
+      {
+        "id": "C1-Q002-O4",
+        "text": "Triết học, Chính trị học, Chủ nghĩa xã hội khoa học"
+      }
+    ],
+    "correctOptionId": "C1-Q002-O1",
+    "explanation": "Ba bộ phận cấu thành chủ nghĩa Mác - Lênin là Triết học Mác - Lênin, Kinh tế chính trị Mác - Lênin và Chủ nghĩa xã hội khoa học; các phương án khác thay bằng những ngành không phải bộ phận cấu thành."
+  },
+  {
+    "id": "C1-Q003",
+    "chapter": 1,
+    "number": 3,
+    "question": "Trước khi có học thuyết Mác, phong trào đấu tranh của giai cấp vô sản chống giai cấp tư sản mang tính chất:",
+    "options": [
+      {
+        "id": "C1-Q003-O1",
+        "text": "Chính trị"
+      },
+      {
+        "id": "C1-Q003-O2",
+        "text": "Tự giác"
+      },
+      {
+        "id": "C1-Q003-O3",
+        "text": "Triệt để"
+      },
+      {
+        "id": "C1-Q003-O4",
+        "text": "Tự phát"
+      }
+    ],
+    "correctOptionId": "C1-Q003-O4",
+    "explanation": "Trước khi lý luận Mác thâm nhập, phong trào công nhân chủ yếu nảy sinh trực tiếp từ bất mãn và quyền lợi trước mắt nên mang tính tự phát; chưa thể gọi là tự giác đầy đủ."
+  },
+  {
+    "id": "C1-Q004",
+    "chapter": 1,
+    "number": 4,
+    "question": "Với phát kiến vĩ đại nào, Karl Marx và Friedrich Engels đã luận giải khoa học về sứ mệnh lịch sử của giai cấp công nhân?",
+    "options": [
+      {
+        "id": "C1-Q004-O1",
+        "text": "Tính hai mặt của lao động và Thuyết vạn vật hấp dẫn"
+      },
+      {
+        "id": "C1-Q004-O2",
+        "text": "Thuyết tiến hóa các loài và Thuyết vạn vật hấp dẫn"
+      },
+      {
+        "id": "C1-Q004-O3",
+        "text": "Chủ nghĩa duy vật lịch sử và Học thuyết giá trị thặng dư"
+      },
+      {
+        "id": "C1-Q004-O4",
+        "text": "Phép biện chứng và Thuyết di truyền"
+      }
+    ],
+    "correctOptionId": "C1-Q004-O3",
+    "explanation": "Chủ nghĩa duy vật lịch sử và học thuyết giá trị thặng dư tạo cơ sở triết học và kinh tế để luận chứng sứ mệnh lịch sử của giai cấp công nhân; các phương án khác trộn với phát kiến khoa học tự nhiên."
+  },
+  {
+    "id": "C1-Q005",
+    "chapter": 1,
+    "number": 5,
+    "question": "Tiền đề kinh tế cho sự hình thành tư tưởng xã hội chủ nghĩa là:",
+    "options": [
+      {
+        "id": "C1-Q005-O1",
+        "text": "Sự xuất hiện chế độ tư hữu"
+      },
+      {
+        "id": "C1-Q005-O2",
+        "text": "Sự xuất hiện nhà nước"
+      },
+      {
+        "id": "C1-Q005-O3",
+        "text": "Sự xuất hiện giai cấp thống trị"
+      },
+      {
+        "id": "C1-Q005-O4",
+        "text": "Sự xuất hiện tình trạng người bóc lột người"
+      }
+    ],
+    "correctOptionId": "C1-Q005-O1",
+    "explanation": "Chế độ tư hữu là tiền đề kinh tế làm nảy sinh phân hóa sở hữu và quan hệ bóc lột; Nhà nước và giai cấp thống trị là những biểu hiện chính trị - xã hội phát triển sau đó."
+  },
+  {
+    "id": "C1-Q006",
+    "chapter": 1,
+    "number": 6,
+    "question": "Tư tưởng xã hội chủ nghĩa bắt đầu xuất hiện ở hình thái kinh tế - xã hội nào?",
+    "options": [
+      {
+        "id": "C1-Q006-O1",
+        "text": "Tư bản chủ nghĩa"
+      },
+      {
+        "id": "C1-Q006-O2",
+        "text": "Công xã nguyên thủy"
+      },
+      {
+        "id": "C1-Q006-O3",
+        "text": "Phong kiến"
+      },
+      {
+        "id": "C1-Q006-O4",
+        "text": "Chiếm hữu nô lệ"
+      }
+    ],
+    "correctOptionId": "C1-Q006-O4",
+    "explanation": "Tư tưởng xã hội chủ nghĩa xuất hiện khi xã hội đã phân chia giai cấp, rõ từ xã hội chiếm hữu nô lệ; công xã nguyên thủy chưa có đối kháng giai cấp, còn phong kiến và tư bản xuất hiện sau."
+  },
+  {
+    "id": "C1-Q007",
+    "chapter": 1,
+    "number": 7,
+    "question": "Hạn chế của các nhà tư tưởng chủ nghĩa xã hội không tưởng phê phán là:",
+    "options": [
+      {
+        "id": "C1-Q007-O1",
+        "text": "Yêu cầu xóa bỏ sự đối lập giữa lao động chân tay và lao động trí óc"
+      },
+      {
+        "id": "C1-Q007-O2",
+        "text": "Không phát hiện ra lực lượng xã hội tiên phong thực hiện cách mạng xã hội"
+      },
+      {
+        "id": "C1-Q007-O3",
+        "text": "Không phê phán, lên án chế độ quân chủ chuyên chế và chế độ tư bản chủ nghĩa"
+      },
+      {
+        "id": "C1-Q007-O4",
+        "text": "Mong muốn thực hiện chế độ bình quân trong phân phối"
+      }
+    ],
+    "correctOptionId": "C1-Q007-O2",
+    "explanation": "Hạn chế căn bản của chủ nghĩa xã hội không tưởng là chưa tìm ra lực lượng xã hội có khả năng thực hiện cuộc cải biến, tức chưa xác định vai trò lịch sử của giai cấp công nhân; họ vẫn có giá trị phê phán xã hội cũ."
+  },
+  {
+    "id": "C1-Q008",
+    "chapter": 1,
+    "number": 8,
+    "question": "Công lao của Lênin trong việc vận dụng và phát triển chủ nghĩa xã hội khoa học trong điều kiện mới là:",
+    "options": [
+      {
+        "id": "C1-Q008-O1",
+        "text": "Đề xuất tư tưởng về đập tan bộ máy nhà nước tư sản, thiết lập chuyên chính vô sản"
+      },
+      {
+        "id": "C1-Q008-O2",
+        "text": "Phát triển chủ nghĩa xã hội không tưởng thành chủ nghĩa xã hội khoa học"
+      },
+      {
+        "id": "C1-Q008-O3",
+        "text": "Xây dựng chủ nghĩa xã hội hiện thực"
+      },
+      {
+        "id": "C1-Q008-O4",
+        "text": "Thừa nhận Công xã Pari là một hình thái nhà nước của giai cấp công nhân"
+      }
+    ],
+    "correctOptionId": "C1-Q008-O3",
+    "explanation": "Theo giáo trình, công lao nổi bật của Lenin là đưa lý luận chủ nghĩa xã hội khoa học vào thực tiễn cách mạng và xây dựng chủ nghĩa xã hội hiện thực; các phương án khác thuộc đóng góp của Marx và Engels."
+  },
+  {
+    "id": "C1-Q009",
+    "chapter": 1,
+    "number": 9,
+    "question": "Luận điểm: “giai cấp vô sản không thể hoàn thành sứ mệnh lịch sử nếu không tổ chức ra chính đảng của giai cấp” được trình bày trong tác phẩm nào?",
+    "options": [
+      {
+        "id": "C1-Q009-O1",
+        "text": "Tuyên ngôn Đảng Cộng sản"
+      },
+      {
+        "id": "C1-Q009-O2",
+        "text": "Hệ tư tưởng Đức"
+      },
+      {
+        "id": "C1-Q009-O3",
+        "text": "Gia đình thần thánh"
+      },
+      {
+        "id": "C1-Q009-O4",
+        "text": "Tình cảnh giai cấp lao động ở Anh"
+      }
+    ],
+    "correctOptionId": "C1-Q009-O1",
+    "explanation": "Tuyên ngôn Đảng Cộng sản trình bày tập trung vai trò lịch sử của giai cấp vô sản và vai trò của chính đảng; các tác phẩm còn lại không phải đáp án trực tiếp cho luận điểm này."
+  },
+  {
+    "id": "C1-Q010",
+    "chapter": 1,
+    "number": 10,
+    "question": "Phát kiến nào của C. Mác và Ăngghen là sự khẳng định về mặt kinh tế sự diệt vong không tránh khỏi của chủ nghĩa tư bản và sự ra đời tất yếu của chủ nghĩa xã hội?",
+    "options": [
+      {
+        "id": "C1-Q010-O1",
+        "text": "Học thuyết về giá trị thặng dư"
+      },
+      {
+        "id": "C1-Q010-O2",
+        "text": "Chủ nghĩa duy vật lịch sử"
+      },
+      {
+        "id": "C1-Q010-O3",
+        "text": "Học thuyết về sứ mệnh lịch sử toàn thế giới của giai cấp công nhân"
+      },
+      {
+        "id": "C1-Q010-O4",
+        "text": "Tính hai mặt của lao động sản xuất hàng hóa"
+      }
+    ],
+    "correctOptionId": "C1-Q010-O1",
+    "explanation": "Học thuyết giá trị thặng dư làm rõ cơ chế kinh tế của sự bóc lột tư bản chủ nghĩa và mâu thuẫn nội tại của phương thức sản xuất này; các phương án khác không phải sự khẳng định chủ yếu về mặt kinh tế."
+  },
+  {
+    "id": "C1-Q011",
+    "chapter": 1,
+    "number": 11,
+    "question": "Tác phẩm nào đã nêu và phân tích một cách có hệ thống lịch sử và logic hoàn chỉnh về những vấn đề cơ bản nhất, đầy đủ, súc tích và chặt chẽ nhất những luận điểm của chủ nghĩa xã hội khoa học?",
+    "options": [
+      {
+        "id": "C1-Q011-O1",
+        "text": "Tư bản"
+      },
+      {
+        "id": "C1-Q011-O2",
+        "text": "Tuyên ngôn Đảng cộng sản"
+      },
+      {
+        "id": "C1-Q011-O3",
+        "text": "Ba nguồn gốc và ba bộ phận hợp thành chủ nghĩa Mác"
+      },
+      {
+        "id": "C1-Q011-O4",
+        "text": "Nguồn gốc gia đình, chế độ tư hữu và Nhà nước"
+      }
+    ],
+    "correctOptionId": "C1-Q011-O2",
+    "explanation": "Tuyên ngôn Đảng Cộng sản trình bày súc tích và có hệ thống các luận điểm nền tảng của chủ nghĩa xã hội khoa học; các tác phẩm khác có phạm vi nghiên cứu khác."
+  },
+  {
+    "id": "C1-Q012",
+    "chapter": 1,
+    "number": 12,
+    "question": "Bộ phận nào thể hiện tập trung nhất tính chính trị - thực tiễn sinh động của chủ nghĩa Mác – Lênin?",
+    "options": [
+      {
+        "id": "C1-Q012-O1",
+        "text": "Chủ nghĩa xã hội khoa học"
+      },
+      {
+        "id": "C1-Q012-O2",
+        "text": "Triết học"
+      },
+      {
+        "id": "C1-Q012-O3",
+        "text": "Kinh tế chính trị"
+      },
+      {
+        "id": "C1-Q012-O4",
+        "text": "Triết học và Kinh tế chính trị"
+      }
+    ],
+    "correctOptionId": "C1-Q012-O1",
+    "explanation": "Chủ nghĩa xã hội khoa học nghiên cứu trực tiếp lực lượng, con đường và phương pháp cải biến chính trị - xã hội nên thể hiện tập trung nhất tính chính trị - thực tiễn của chủ nghĩa Mác - Lênin."
+  },
+  {
+    "id": "C1-Q013",
+    "chapter": 1,
+    "number": 13,
+    "question": "Chọn ý đúng điền vào chỗ trống: “[.........] có thể thắng lợi ở một số nước hay thậm chí ở một nước riêng lẻ, nơi chủ nghĩa tư bản chưa phải là phát triển nhất, nhưng là khâu yếu nhất trong sợi dây chuyền tư bản chủ nghĩa” (Lênin)",
+    "options": [
+      {
+        "id": "C1-Q013-O1",
+        "text": "Cách mạng vô sản"
+      },
+      {
+        "id": "C1-Q013-O2",
+        "text": "Cách mạng tư sản"
+      },
+      {
+        "id": "C1-Q013-O3",
+        "text": "Cách mạng khoa học - kỹ thuật"
+      },
+      {
+        "id": "C1-Q013-O4",
+        "text": "Cách mạng nông nghiệp"
+      }
+    ],
+    "correctOptionId": "C1-Q013-O1",
+    "explanation": "Đây là luận điểm của Lenin về khả năng cách mạng vô sản thắng lợi trước ở một hoặc một số nước, kể cả nơi chủ nghĩa tư bản chưa phát triển nhất nhưng là khâu yếu của hệ thống."
+  },
+  {
+    "id": "C1-Q014",
+    "chapter": 1,
+    "number": 14,
+    "question": "Chủ nghĩa xã hội khoa học có nhiệm vụ cơ bản là:",
+    "options": [
+      {
+        "id": "C1-Q014-O1",
+        "text": "Luận chứng một cách khoa học tính tất yếu về mặt lịch sử sự thay thế của chủ nghĩa xã hội bằng chủ nghĩa cộng sản với sứ mệnh lịch sử của giai cấp tư sản"
+      },
+      {
+        "id": "C1-Q014-O2",
+        "text": "Luận chứng một cách khoa học tính tất yếu về mặt lịch sử sự thay thế của chủ nghĩa tư bản bằng chủ nghĩa cộng sản với sứ mệnh lịch sử của giai cấp tư sản"
+      },
+      {
+        "id": "C1-Q014-O3",
+        "text": "Luận chứng một cách khoa học tính tất yếu về mặt lịch sử sự thay thế của chủ nghĩa tư bản bằng chủ nghĩa xã hội với sứ mệnh lịch sử của giai cấp tư sản"
+      },
+      {
+        "id": "C1-Q014-O4",
+        "text": "Luận chứng một cách khoa học tính tất yếu về mặt lịch sử sự thay thế của chủ nghĩa tư bản bằng chủ nghĩa xã hội với sứ mệnh lịch sử của giai cấp công nhân"
+      }
+    ],
+    "correctOptionId": "C1-Q014-O4",
+    "explanation": "Nhiệm vụ cơ bản là luận chứng khoa học sự thay thế chủ nghĩa tư bản bằng chủ nghĩa xã hội gắn với sứ mệnh lịch sử của giai cấp công nhân; các phương án khác gán sai vai trò cho giai cấp tư sản."
+  },
+  {
+    "id": "C1-Q015",
+    "chapter": 1,
+    "number": 15,
+    "question": "Trong chủ nghĩa tư bản, mâu thuẫn về mặt kinh tế đã biểu hiện ra thành mâu thuẫn chính trị giữa:",
+    "options": [
+      {
+        "id": "C1-Q015-O1",
+        "text": "Giai cấp tư sản với giai cấp nông dân"
+      },
+      {
+        "id": "C1-Q015-O2",
+        "text": "Giai cấp tư sản với giai cấp tiểu tư sản"
+      },
+      {
+        "id": "C1-Q015-O3",
+        "text": "Giai cấp tư sản với giai cấp công nhân"
+      },
+      {
+        "id": "C1-Q015-O4",
+        "text": "Giai cấp tư sản với giai cấp địa chủ"
+      }
+    ],
+    "correctOptionId": "C1-Q015-O3",
+    "explanation": "Mâu thuẫn kinh tế cơ bản của chủ nghĩa tư bản biểu hiện xã hội thành mâu thuẫn giữa tư bản và lao động, tức giữa giai cấp tư sản và giai cấp công nhân."
+  },
+  {
+    "id": "C1-Q016",
+    "chapter": 1,
+    "number": 16,
+    "question": "Đối tượng nghiên cứu của chủ nghĩa xã hội khoa học là:",
+    "options": [
+      {
+        "id": "C1-Q016-O1",
+        "text": "Là những quy luật hình thành và phát triển của các hình thái kinh tế - xã hội"
+      },
+      {
+        "id": "C1-Q016-O2",
+        "text": "Là những quy luật và tính quy luật chính trị - xã hội của quá trình phát sinh, hình thành và phát triển hình thái kinh tế - xã hội cộng sản chủ nghĩa"
+      },
+      {
+        "id": "C1-Q016-O3",
+        "text": "Là những quy luật và tính quy luật chính trị- xã hội của quá trình phát sinh, hình thành và phát triển hình thái kinh tế - xã hội xã hội chủ nghĩa"
+      },
+      {
+        "id": "C1-Q016-O4",
+        "text": "Là những quy luật và tính quy luật của tự nhiên và tư duy"
+      }
+    ],
+    "correctOptionId": "C1-Q016-O2",
+    "explanation": "Đối tượng của chủ nghĩa xã hội khoa học là các quy luật và tính quy luật chính trị - xã hội của quá trình hình thành, phát triển hình thái kinh tế - xã hội cộng sản chủ nghĩa; các phương án khác quá rộng hoặc quá hẹp."
+  },
+  {
+    "id": "C1-Q017",
+    "chapter": 1,
+    "number": 17,
+    "question": "Phạm trù cơ bản nhất của chủ nghĩa xã hội khoa học là:",
+    "options": [
+      {
+        "id": "C1-Q017-O1",
+        "text": "Chuyên chính vô sản"
+      },
+      {
+        "id": "C1-Q017-O2",
+        "text": "Chủ nghĩa quốc tế vô sản"
+      },
+      {
+        "id": "C1-Q017-O3",
+        "text": "Sứ mệnh lịch sử của giai cấp công nhân"
+      },
+      {
+        "id": "C1-Q017-O4",
+        "text": "Dân tộc và Cương lĩnh Dân tộc"
+      }
+    ],
+    "correctOptionId": "C1-Q017-O3",
+    "explanation": "Sứ mệnh lịch sử của giai cấp công nhân là phạm trù trung tâm vì xác định lực lượng xã hội thực hiện sự chuyển biến sang xã hội mới; những phạm trù khác là các nội dung cụ thể hơn."
+  },
+  {
+    "id": "C1-Q018",
+    "chapter": 1,
+    "number": 18,
+    "question": "Tác phẩm nào đánh dấu sự ra đời của chủ nghĩa xã hội khoa học?",
+    "options": [
+      {
+        "id": "C1-Q018-O1",
+        "text": "Tuyên ngôn Đảng Cộng sản"
+      },
+      {
+        "id": "C1-Q018-O2",
+        "text": "Hệ tư tưởng Đức"
+      },
+      {
+        "id": "C1-Q018-O3",
+        "text": "Gia đình thần thánh"
+      },
+      {
+        "id": "C1-Q018-O4",
+        "text": "Tình cảnh giai cấp lao động ở Anh"
+      }
+    ],
+    "correctOptionId": "C1-Q018-O1",
+    "explanation": "Tuyên ngôn Đảng Cộng sản năm 1848 được tài liệu xác định là mốc đánh dấu sự ra đời của chủ nghĩa xã hội khoa học."
+  },
+  {
+    "id": "C1-Q019",
+    "chapter": 1,
+    "number": 19,
+    "question": "Phát kiến nào của C. Mác và Ăngghen là sự khẳng định về mặt triết học sự sụp đổ của chủ nghĩa tư bản và sự thắng lợi của chủ nghĩa xã hội đều tất yếu như nhau?",
+    "options": [
+      {
+        "id": "C1-Q019-O1",
+        "text": "Tính hai mặt của lao động sản xuất hàng hóa"
+      },
+      {
+        "id": "C1-Q019-O2",
+        "text": "Học thuyết về giá trị thặng dư"
+      },
+      {
+        "id": "C1-Q019-O3",
+        "text": "Học thuyết về sứ mệnh lịch sử toàn thế giới của giai cấp công nhân"
+      },
+      {
+        "id": "C1-Q019-O4",
+        "text": "Chủ nghĩa duy vật lịch sử"
+      }
+    ],
+    "correctOptionId": "C1-Q019-O4",
+    "explanation": "Chủ nghĩa duy vật lịch sử giải thích về mặt triết học quy luật vận động và thay thế các hình thái kinh tế - xã hội; giá trị thặng dư là cơ sở kinh tế, còn sứ mệnh lịch sử xác định lực lượng thực hiện."
+  },
+  {
+    "id": "C1-Q020",
+    "chapter": 1,
+    "number": 20,
+    "question": "Chủ nghĩa xã hội khoa học đã làm sáng tỏ vai trò lịch sử toàn thế giới của giai cấp nào?",
+    "options": [
+      {
+        "id": "C1-Q020-O1",
+        "text": "Giai cấp nông dân"
+      },
+      {
+        "id": "C1-Q020-O2",
+        "text": "Giai cấp công nhân"
+      },
+      {
+        "id": "C1-Q020-O3",
+        "text": "Giai cấp tư sản"
+      },
+      {
+        "id": "C1-Q020-O4",
+        "text": "Giai cấp chủ nô"
+      }
+    ],
+    "correctOptionId": "C1-Q020-O2",
+    "explanation": "Chủ nghĩa xã hội khoa học làm sáng tỏ vai trò lịch sử toàn thế giới của giai cấp công nhân; các giai cấp còn lại không được xác định giữ sứ mệnh này."
+  },
+  {
+    "id": "C1-Q021",
+    "chapter": 1,
+    "number": 21,
+    "question": "Theo tài liệu, chủ nghĩa xã hội trước hết phản ánh điều gì?",
+    "options": [
+      {
+        "id": "C1-Q021-O1",
+        "text": "Lợi ích riêng của giai cấp chủ nô"
+      },
+      {
+        "id": "C1-Q021-O2",
+        "text": "Mục tiêu duy trì chế độ phong kiến"
+      },
+      {
+        "id": "C1-Q021-O3",
+        "text": "Mong muốn củng cố chế độ tư hữu tư bản chủ nghĩa"
+      },
+      {
+        "id": "C1-Q021-O4",
+        "text": "Nhu cầu và nguyện vọng của các giai cấp, tầng lớp lao động bị áp bức"
+      }
+    ],
+    "correctOptionId": "C1-Q021-O4",
+    "explanation": "Tài liệu xác định chủ nghĩa xã hội phản ánh nhu cầu giải phóng của những người lao động bị áp bức."
+  },
+  {
+    "id": "C1-Q022",
+    "chapter": 1,
+    "number": 22,
+    "question": "Tư tưởng xã hội chủ nghĩa thời cổ đại thường biểu hiện chủ yếu qua hình thức nào?",
+    "options": [
+      {
+        "id": "C1-Q022-O1",
+        "text": "Các đảng cộng sản hiện đại"
+      },
+      {
+        "id": "C1-Q022-O2",
+        "text": "Các công trình kinh tế chính trị hoàn chỉnh"
+      },
+      {
+        "id": "C1-Q022-O3",
+        "text": "Các phong trào đấu tranh chống áp bức, bất công"
+      },
+      {
+        "id": "C1-Q022-O4",
+        "text": "Các mô hình nhà nước pháp quyền xã hội chủ nghĩa"
+      }
+    ],
+    "correctOptionId": "C1-Q022-O3",
+    "explanation": "Ở thời cổ đại, tư tưởng xã hội chủ nghĩa mới thể hiện qua các phong trào phản kháng và khát vọng công bằng."
+  },
+  {
+    "id": "C1-Q023",
+    "chapter": 1,
+    "number": 23,
+    "question": "Tư tưởng xã hội chủ nghĩa thời trung đại thường được phản ánh qua:",
+    "options": [
+      {
+        "id": "C1-Q023-O1",
+        "text": "Truyền thuyết và câu chuyện tôn giáo về một xã hội tốt đẹp"
+      },
+      {
+        "id": "C1-Q023-O2",
+        "text": "Các nhà máy công nghiệp hiện đại"
+      },
+      {
+        "id": "C1-Q023-O3",
+        "text": "Học thuyết giá trị thặng dư"
+      },
+      {
+        "id": "C1-Q023-O4",
+        "text": "Cương lĩnh của Đảng Cộng sản"
+      }
+    ],
+    "correctOptionId": "C1-Q023-O1",
+    "explanation": "Tài liệu nêu thời trung đại tư tưởng xã hội chủ nghĩa chủ yếu tồn tại trong truyện kể và truyền thuyết tôn giáo."
+  },
+  {
+    "id": "C1-Q024",
+    "chapter": 1,
+    "number": 24,
+    "question": "Tác phẩm 'Utopia' gắn với nhà tư tưởng nào?",
+    "options": [
+      {
+        "id": "C1-Q024-O1",
+        "text": "Robert Owen"
+      },
+      {
+        "id": "C1-Q024-O2",
+        "text": "Charles Fourier"
+      },
+      {
+        "id": "C1-Q024-O3",
+        "text": "Thomas More"
+      },
+      {
+        "id": "C1-Q024-O4",
+        "text": "Saint-Simon"
+      }
+    ],
+    "correctOptionId": "C1-Q024-O3",
+    "explanation": "Thomas More là tác giả của 'Utopia', một tác phẩm tiêu biểu cho tư tưởng xã hội chủ nghĩa không tưởng thời cận đại."
+  },
+  {
+    "id": "C1-Q025",
+    "chapter": 1,
+    "number": 25,
+    "question": "Tác phẩm 'Thành phố Mặt trời' gắn với nhà tư tưởng nào?",
+    "options": [
+      {
+        "id": "C1-Q025-O1",
+        "text": "Tommaso Campanella"
+      },
+      {
+        "id": "C1-Q025-O2",
+        "text": "Karl Marx"
+      },
+      {
+        "id": "C1-Q025-O3",
+        "text": "Thomas More"
+      },
+      {
+        "id": "C1-Q025-O4",
+        "text": "Vladimir Ilyich Lenin"
+      }
+    ],
+    "correctOptionId": "C1-Q025-O1",
+    "explanation": "Tommaso Campanella là tác giả của 'Thành phố Mặt trời'."
+  },
+  {
+    "id": "C1-Q026",
+    "chapter": 1,
+    "number": 26,
+    "question": "Ba đại biểu tiêu biểu của chủ nghĩa xã hội không tưởng phê phán đầu thế kỷ XIX là:",
+    "options": [
+      {
+        "id": "C1-Q026-O1",
+        "text": "Karl Marx, Friedrich Engels và Vladimir Ilyich Lenin"
+      },
+      {
+        "id": "C1-Q026-O2",
+        "text": "Hegel, Adam Smith và Charles Fourier"
+      },
+      {
+        "id": "C1-Q026-O3",
+        "text": "Saint-Simon, Charles Fourier và Robert Owen"
+      },
+      {
+        "id": "C1-Q026-O4",
+        "text": "Thomas More, Karl Marx và Robert Owen"
+      }
+    ],
+    "correctOptionId": "C1-Q026-O3",
+    "explanation": "Tài liệu xác định Saint-Simon, Charles Fourier và Robert Owen là ba đại biểu tiêu biểu."
+  },
+  {
+    "id": "C1-Q027",
+    "chapter": 1,
+    "number": 27,
+    "question": "Giá trị quan trọng của chủ nghĩa xã hội không tưởng đối với sự ra đời của chủ nghĩa xã hội khoa học là:",
+    "options": [
+      {
+        "id": "C1-Q027-O1",
+        "text": "Đã hoàn chỉnh học thuyết giá trị thặng dư"
+      },
+      {
+        "id": "C1-Q027-O2",
+        "text": "Đã tìm ra đầy đủ sứ mệnh lịch sử của giai cấp công nhân"
+      },
+      {
+        "id": "C1-Q027-O3",
+        "text": "Đã xây dựng thành công nhà nước xã hội chủ nghĩa"
+      },
+      {
+        "id": "C1-Q027-O4",
+        "text": "Tạo tiền đề lý luận trực tiếp để Marx phát triển tư tưởng xã hội chủ nghĩa thành khoa học"
+      }
+    ],
+    "correctOptionId": "C1-Q027-O4",
+    "explanation": "Chủ nghĩa xã hội không tưởng có giá trị phê phán và nhân đạo, đồng thời là tiền đề lý luận trực tiếp cho Marx."
+  },
+  {
+    "id": "C1-Q028",
+    "chapter": 1,
+    "number": 28,
+    "question": "Hạn chế nào sau đây thuộc chủ nghĩa xã hội không tưởng?",
+    "options": [
+      {
+        "id": "C1-Q028-O1",
+        "text": "Không quan tâm đến công bằng xã hội"
+      },
+      {
+        "id": "C1-Q028-O2",
+        "text": "Chưa tìm ra bản chất bóc lột và con đường khoa học để xóa bỏ bóc lột"
+      },
+      {
+        "id": "C1-Q028-O3",
+        "text": "Không hề phê phán xã hội tư bản"
+      },
+      {
+        "id": "C1-Q028-O4",
+        "text": "Đã xác định đầy đủ vai trò của giai cấp công nhân"
+      }
+    ],
+    "correctOptionId": "C1-Q028-O2",
+    "explanation": "Tài liệu nêu họ chưa giải thích khoa học bản chất bóc lột và chưa tìm được con đường, lực lượng thực hiện."
+  },
+  {
+    "id": "C1-Q029",
+    "chapter": 1,
+    "number": 29,
+    "question": "Điều kiện kinh tế nổi bật dẫn tới sự ra đời của chủ nghĩa xã hội khoa học là:",
+    "options": [
+      {
+        "id": "C1-Q029-O1",
+        "text": "Sự chấm dứt mọi cuộc khủng hoảng kinh tế"
+      },
+      {
+        "id": "C1-Q029-O2",
+        "text": "Sự xóa bỏ giai cấp công nhân"
+      },
+      {
+        "id": "C1-Q029-O3",
+        "text": "Mâu thuẫn giữa lực lượng sản xuất phát triển với quan hệ sản xuất tư bản chủ nghĩa"
+      },
+      {
+        "id": "C1-Q029-O4",
+        "text": "Sự biến mất hoàn toàn của công nghiệp"
+      }
+    ],
+    "correctOptionId": "C1-Q029-O3",
+    "explanation": "Sự phát triển của lực lượng sản xuất làm mâu thuẫn với quan hệ sản xuất tư bản chủ nghĩa ngày càng rõ."
+  },
+  {
+    "id": "C1-Q030",
+    "chapter": 1,
+    "number": 30,
+    "question": "Điều kiện chính trị - xã hội trực tiếp thúc đẩy sự ra đời của chủ nghĩa xã hội khoa học là:",
+    "options": [
+      {
+        "id": "C1-Q030-O1",
+        "text": "Phong trào công nhân hoàn toàn chấm dứt"
+      },
+      {
+        "id": "C1-Q030-O2",
+        "text": "Giai cấp công nhân phát triển và phong trào đấu tranh công nhân ngày càng mạnh"
+      },
+      {
+        "id": "C1-Q030-O3",
+        "text": "Không còn xung đột giữa công nhân và tư sản"
+      },
+      {
+        "id": "C1-Q030-O4",
+        "text": "Giai cấp công nhân biến mất"
+      }
+    ],
+    "correctOptionId": "C1-Q030-O2",
+    "explanation": "Sự lớn mạnh của giai cấp công nhân và phong trào đấu tranh đặt ra nhu cầu về một lý luận khoa học dẫn đường."
+  },
+  {
+    "id": "C1-Q031",
+    "chapter": 1,
+    "number": 31,
+    "question": "Ba thành tựu khoa học tự nhiên được xem là tiền đề cho sự ra đời của chủ nghĩa xã hội khoa học gồm:",
+    "options": [
+      {
+        "id": "C1-Q031-O1",
+        "text": "Di truyền học, công nghệ gen, trí tuệ nhân tạo"
+      },
+      {
+        "id": "C1-Q031-O2",
+        "text": "Thuyết tế bào, thuyết tiến hóa, định luật bảo toàn và chuyển hóa năng lượng"
+      },
+      {
+        "id": "C1-Q031-O3",
+        "text": "Thuyết tương đối, cơ học lượng tử, thuyết Big Bang"
+      },
+      {
+        "id": "C1-Q031-O4",
+        "text": "Định luật vạn vật hấp dẫn, hình học Euclid, thuyết nguyên tử"
+      }
+    ],
+    "correctOptionId": "C1-Q031-O2",
+    "explanation": "Đây là ba thành tựu khoa học tự nhiên thế kỷ XIX được tài liệu nêu trực tiếp."
+  },
+  {
+    "id": "C1-Q032",
+    "chapter": 1,
+    "number": 32,
+    "question": "Vai trò phương pháp luận của các thành tựu khoa học tự nhiên thế kỷ XIX đối với chủ nghĩa xã hội khoa học là:",
+    "options": [
+      {
+        "id": "C1-Q032-O1",
+        "text": "Chứng minh mọi cuộc cách mạng chắc chắn thắng ngay"
+      },
+      {
+        "id": "C1-Q032-O2",
+        "text": "Phủ nhận vai trò của lịch sử"
+      },
+      {
+        "id": "C1-Q032-O3",
+        "text": "Củng cố cách nhìn duy vật và biện chứng về thế giới"
+      },
+      {
+        "id": "C1-Q032-O4",
+        "text": "Thay thế hoàn toàn khoa học xã hội"
+      }
+    ],
+    "correctOptionId": "C1-Q032-O3",
+    "explanation": "Các thành tựu này củng cố thế giới quan duy vật biện chứng chứ không trực tiếp dự đoán kết quả chính trị."
+  },
+  {
+    "id": "C1-Q033",
+    "chapter": 1,
+    "number": 33,
+    "question": "Ba nguồn gốc lý luận trực tiếp của chủ nghĩa Mác - Lênin gồm:",
+    "options": [
+      {
+        "id": "C1-Q033-O1",
+        "text": "Triết học Hy Lạp, khoa học máy tính và xã hội học Mỹ"
+      },
+      {
+        "id": "C1-Q033-O2",
+        "text": "Triết học cổ điển Đức, kinh tế chính trị cổ điển Anh và chủ nghĩa xã hội không tưởng phê phán Pháp - Anh"
+      },
+      {
+        "id": "C1-Q033-O3",
+        "text": "Luật học La Mã, thần học trung cổ và kinh tế học hiện đại"
+      },
+      {
+        "id": "C1-Q033-O4",
+        "text": "Kinh tế học trọng thương, sinh học tiến hóa và luật quốc tế"
+      }
+    ],
+    "correctOptionId": "C1-Q033-O2",
+    "explanation": "Đây là ba nguồn gốc lý luận được tài liệu xác định."
+  },
+  {
+    "id": "C1-Q034",
+    "chapter": 1,
+    "number": 34,
+    "question": "Từ năm 1843 - 1844, Marx và Engels có sự chuyển biến nào về lập trường?",
+    "options": [
+      {
+        "id": "C1-Q034-O1",
+        "text": "Từ chủ nghĩa xã hội sang chủ nghĩa tư bản"
+      },
+      {
+        "id": "C1-Q034-O2",
+        "text": "Từ duy vật sang duy tâm và từ cộng sản sang phong kiến"
+      },
+      {
+        "id": "C1-Q034-O3",
+        "text": "Từ kinh tế chính trị sang thần học"
+      },
+      {
+        "id": "C1-Q034-O4",
+        "text": "Từ duy tâm sang duy vật và từ dân chủ cách mạng sang cộng sản chủ nghĩa"
+      }
+    ],
+    "correctOptionId": "C1-Q034-O4",
+    "explanation": "Tài liệu nêu rõ hai sự chuyển biến về tư duy triết học và lập trường chính trị của Marx và Engels."
+  },
+  {
+    "id": "C1-Q035",
+    "chapter": 1,
+    "number": 35,
+    "question": "Ba phát kiến vĩ đại của Marx và Engels không bao gồm nội dung nào sau đây?",
+    "options": [
+      {
+        "id": "C1-Q035-O1",
+        "text": "Học thuyết sứ mệnh lịch sử thế giới của giai cấp công nhân"
+      },
+      {
+        "id": "C1-Q035-O2",
+        "text": "Học thuyết giá trị thặng dư"
+      },
+      {
+        "id": "C1-Q035-O3",
+        "text": "Chủ nghĩa duy vật lịch sử"
+      },
+      {
+        "id": "C1-Q035-O4",
+        "text": "Thuyết tiến hóa sinh học"
+      }
+    ],
+    "correctOptionId": "C1-Q035-O4",
+    "explanation": "Thuyết tiến hóa là thành tựu khoa học tự nhiên, không phải một trong ba phát kiến của Marx và Engels."
+  },
+  {
+    "id": "C1-Q036",
+    "chapter": 1,
+    "number": 36,
+    "question": "Chủ nghĩa duy vật lịch sử giúp trả lời trực tiếp câu hỏi nào?",
+    "options": [
+      {
+        "id": "C1-Q036-O1",
+        "text": "Vì sao các hình thái kinh tế - xã hội vận động và thay thế nhau"
+      },
+      {
+        "id": "C1-Q036-O2",
+        "text": "Cách tính giá trị hàng hóa bằng tiền"
+      },
+      {
+        "id": "C1-Q036-O3",
+        "text": "Cách giải thích cấu trúc tế bào"
+      },
+      {
+        "id": "C1-Q036-O4",
+        "text": "Cách tổ chức một doanh nghiệp tư nhân"
+      }
+    ],
+    "correctOptionId": "C1-Q036-O1",
+    "explanation": "Cốt lõi của phát kiến này là lý giải quy luật vận động của lịch sử xã hội và các hình thái kinh tế - xã hội."
+  },
+  {
+    "id": "C1-Q037",
+    "chapter": 1,
+    "number": 37,
+    "question": "Học thuyết giá trị thặng dư tập trung làm rõ:",
+    "options": [
+      {
+        "id": "C1-Q037-O1",
+        "text": "Bí quyết của phương thức sản xuất tư bản chủ nghĩa và cơ chế bóc lột lao động làm thuê"
+      },
+      {
+        "id": "C1-Q037-O2",
+        "text": "Nguồn gốc sinh học của con người"
+      },
+      {
+        "id": "C1-Q037-O3",
+        "text": "Cấu trúc của nhà nước phong kiến"
+      },
+      {
+        "id": "C1-Q037-O4",
+        "text": "Quy luật di truyền"
+      }
+    ],
+    "correctOptionId": "C1-Q037-O1",
+    "explanation": "Giá trị thặng dư là phát kiến kinh tế giải thích cơ chế bóc lột trong chủ nghĩa tư bản."
+  },
+  {
+    "id": "C1-Q038",
+    "chapter": 1,
+    "number": 38,
+    "question": "Học thuyết sứ mệnh lịch sử của giai cấp công nhân trả lời câu hỏi chủ yếu nào?",
+    "options": [
+      {
+        "id": "C1-Q038-O1",
+        "text": "Lực lượng xã hội nào có khả năng thực hiện sự chuyển biến sang xã hội mới"
+      },
+      {
+        "id": "C1-Q038-O2",
+        "text": "Vì sao tế bào phân chia"
+      },
+      {
+        "id": "C1-Q038-O3",
+        "text": "Cách xác định giá hàng hóa trên thị trường"
+      },
+      {
+        "id": "C1-Q038-O4",
+        "text": "Cách tổ chức bộ máy phong kiến"
+      }
+    ],
+    "correctOptionId": "C1-Q038-O1",
+    "explanation": "Phát kiến này xác định chủ thể xã hội của cuộc cải biến cách mạng."
+  },
+  {
+    "id": "C1-Q039",
+    "chapter": 1,
+    "number": 39,
+    "question": "Tuyên ngôn Đảng Cộng sản được công bố vào năm nào?",
+    "options": [
+      {
+        "id": "C1-Q039-O1",
+        "text": "1917"
+      },
+      {
