@@ -114,8 +114,8 @@ function languageControls(){
   +'</div><small>'+(single?'Chỉ hiển thị câu hỏi, đáp án và lời giải bằng '+(l==='en'?'tiếng Anh.':'tiếng Việt.'):'Hiển thị tiếng Anh phía trên, tiếng Việt phía dưới.')+'</small></div>';
 }
 function refreshLanguage(){
- if(session && page==='quiz') renderQuiz();
- else if(page==='settings' || page==='practice' || page==='bank' || page==='wrong' || page==='bookmarks' || page==='dashboard') render();
+ // A live quiz may be started from any page without changing the page variable.
+ if(session && document.querySelector('.quiz-card')) renderQuiz();
  else render();
 }
 function setLanguageMode(mode){if(mode!=='single'&&mode!=='bi')return;state.langMode=mode;saveState();refreshLanguage()}
