@@ -17163,5 +17163,1165 @@
     "correctOptionId": "D3-S2-C4-Q040-O1",
     "explanation": "Trong nền dân chủ chủ nô, khái niệm “nhân dân” theo quy định của giai cấp cầm quyền chỉ bao gồm những người tự do như chủ nô, tăng lữ, thương gia và một số trí thức, không bao gồm nô lệ; A phù hợp nhất.",
     "reviewOnly": false
+  },
+  {
+    "id": "N40-C1-Q001",
+    "chapter": 1,
+    "number": 1,
+    "source": "Bộ 40 câu trắc nghiệm CNXHKH đã kiểm tra",
+    "sourceQuestionNumber": 1,
+    "question": "Bộ phận nào thể hiện tập trung nhất tính chính trị - thực tiễn sinh động của chủ nghĩa Mác – Lênin?",
+    "options": [
+      {
+        "id": "N40-C1-Q001-O1",
+        "text": "Triết học và Kinh tế chính trị"
+      },
+      {
+        "id": "N40-C1-Q001-O2",
+        "text": "Kinh tế chính trị"
+      },
+      {
+        "id": "N40-C1-Q001-O3",
+        "text": "Triết học"
+      },
+      {
+        "id": "N40-C1-Q001-O4",
+        "text": "Chủ nghĩa xã hội khoa học"
+      }
+    ],
+    "correctOptionId": "N40-C1-Q001-O4",
+    "explanation": "Chủ nghĩa xã hội khoa học nghiên cứu trực tiếp các quy luật, lực lượng và con đường cải biến chính trị - xã hội nên thể hiện tập trung nhất tính chính trị - thực tiễn của chủ nghĩa Mác - Lênin.",
+    "reviewOnly": false
+  },
+  {
+    "id": "N40-C1-Q002",
+    "chapter": 1,
+    "number": 2,
+    "source": "Bộ 40 câu trắc nghiệm CNXHKH đã kiểm tra",
+    "sourceQuestionNumber": 2,
+    "question": "Tác phẩm nào đã phân tích hoàn chỉnh, có hệ thống lịch sử, logic những luận điểm của chủ nghĩa xã hội khoa học một cách cơ bản, đầy đủ, súc tích và chặt chẽ nhất?",
+    "options": [
+      {
+        "id": "N40-C1-Q002-O1",
+        "text": "Nguồn gốc gia đình, chế độ tư hữu và Nhà nước"
+      },
+      {
+        "id": "N40-C1-Q002-O2",
+        "text": "Tư bản"
+      },
+      {
+        "id": "N40-C1-Q002-O3",
+        "text": "Ba nguồn gốc và ba bộ phận hợp thành chủ nghĩa Mác"
+      },
+      {
+        "id": "N40-C1-Q002-O4",
+        "text": "Tuyên ngôn Đảng cộng sản"
+      }
+    ],
+    "correctOptionId": "N40-C1-Q002-O4",
+    "explanation": "Tuyên ngôn Đảng Cộng sản trình bày súc tích, có hệ thống các luận điểm nền tảng của chủ nghĩa xã hội khoa học.",
+    "reviewOnly": false
+  },
+  {
+    "id": "N40-C1-Q003",
+    "chapter": 1,
+    "number": 3,
+    "source": "Bộ 40 câu trắc nghiệm CNXHKH đã kiểm tra",
+    "sourceQuestionNumber": 3,
+    "question": "Đối tượng nghiên cứu của chủ nghĩa xã hội khoa học là gì?",
+    "options": [
+      {
+        "id": "N40-C1-Q003-O1",
+        "text": "Những quy luật hình thành và phát triển của các hình thái kinh tế - xã hội"
+      },
+      {
+        "id": "N40-C1-Q003-O2",
+        "text": "Những quy luật và tính quy luật chính trị - xã hội của quá trình phát sinh, hình thành và phát triển hình thái kinh tế - xã hội cộng sản chủ nghĩa"
+      },
+      {
+        "id": "N40-C1-Q003-O3",
+        "text": "Những quy luật và tính quy luật của tự nhiên, xã hội và tư duy"
+      },
+      {
+        "id": "N40-C1-Q003-O4",
+        "text": "Những quy luật và tính quy luật kinh tế của quá trình phát sinh, hình thành và phát triển hình thái kinh tế - xã hội tư bản chủ nghĩa"
+      }
+    ],
+    "correctOptionId": "N40-C1-Q003-O2",
+    "explanation": "Đối tượng nghiên cứu là các quy luật chính trị - xã hội của quá trình phát sinh, hình thành và phát triển hình thái kinh tế - xã hội cộng sản chủ nghĩa.",
+    "reviewOnly": false
+  },
+  {
+    "id": "N40-C1-Q004",
+    "chapter": 1,
+    "number": 4,
+    "source": "Bộ 40 câu trắc nghiệm CNXHKH đã kiểm tra",
+    "sourceQuestionNumber": 4,
+    "question": "Nhân vật nào không phải là nhà tư tưởng chủ nghĩa xã hội không tưởng?",
+    "options": [
+      {
+        "id": "N40-C1-Q004-O1",
+        "text": "Thomas More"
+      },
+      {
+        "id": "N40-C1-Q004-O2",
+        "text": "Marx"
+      },
+      {
+        "id": "N40-C1-Q004-O3",
+        "text": "Charles Fourier"
+      },
+      {
+        "id": "N40-C1-Q004-O4",
+        "text": "Henri de Saint Simon"
+      }
+    ],
+    "correctOptionId": "N40-C1-Q004-O2",
+    "explanation": "Karl Marx là người sáng lập chủ nghĩa xã hội khoa học, không thuộc nhóm nhà tư tưởng xã hội chủ nghĩa không tưởng.",
+    "reviewOnly": false
+  },
+  {
+    "id": "N40-C1-Q005",
+    "chapter": 1,
+    "number": 5,
+    "source": "Bộ 40 câu trắc nghiệm CNXHKH đã kiểm tra",
+    "sourceQuestionNumber": 5,
+    "question": "Tác phẩm nào đánh dấu sự ra đời của chủ nghĩa xã hội khoa học?",
+    "options": [
+      {
+        "id": "N40-C1-Q005-O1",
+        "text": "Hệ tư tưởng Đức"
+      },
+      {
+        "id": "N40-C1-Q005-O2",
+        "text": "Gia đình thần thánh"
+      },
+      {
+        "id": "N40-C1-Q005-O3",
+        "text": "Tình cảnh giai cấp lao động ở Anh"
+      },
+      {
+        "id": "N40-C1-Q005-O4",
+        "text": "Tuyên ngôn Đảng Cộng sản"
+      }
+    ],
+    "correctOptionId": "N40-C1-Q005-O4",
+    "explanation": "Tuyên ngôn Đảng Cộng sản được công bố năm 1848, đánh dấu sự ra đời của chủ nghĩa xã hội khoa học.",
+    "reviewOnly": false
+  },
+  {
+    "id": "N40-C2-Q006",
+    "chapter": 2,
+    "number": 6,
+    "source": "Bộ 40 câu trắc nghiệm CNXHKH đã kiểm tra",
+    "sourceQuestionNumber": 6,
+    "question": "Theo quan điểm của chủ nghĩa Mác – Lênin, luận điểm nào nói về bản chất của giai cấp tư sản?",
+    "options": [
+      {
+        "id": "N40-C2-Q006-O1",
+        "text": "Thực hiện chính sách an sinh xã hội"
+      },
+      {
+        "id": "N40-C2-Q006-O2",
+        "text": "Đổi mới phương pháp quản lý"
+      },
+      {
+        "id": "N40-C2-Q006-O3",
+        "text": "Tích cực áp dụng tiến bộ khoa học kỹ thuật và công nghệ"
+      },
+      {
+        "id": "N40-C2-Q006-O4",
+        "text": "Bóc lột giá trị thặng dư"
+      }
+    ],
+    "correctOptionId": "N40-C2-Q006-O4",
+    "explanation": "Theo lý luận Mác - Lênin, quan hệ tư bản chủ nghĩa dựa trên việc chiếm đoạt giá trị thặng dư do người lao động làm thuê tạo ra.",
+    "reviewOnly": false
+  },
+  {
+    "id": "N40-C2-Q007",
+    "chapter": 2,
+    "number": 7,
+    "source": "Bộ 40 câu trắc nghiệm CNXHKH đã kiểm tra",
+    "sourceQuestionNumber": 7,
+    "question": "Hình thức đấu tranh đầu tiên của giai cấp công nhân khi chưa giành được chính quyền là:",
+    "options": [
+      {
+        "id": "N40-C2-Q007-O1",
+        "text": "Đấu tranh vũ trang"
+      },
+      {
+        "id": "N40-C2-Q007-O2",
+        "text": "Đấu tranh chính trị"
+      },
+      {
+        "id": "N40-C2-Q007-O3",
+        "text": "Đấu tranh tư tưởng"
+      },
+      {
+        "id": "N40-C2-Q007-O4",
+        "text": "Đấu tranh kinh tế"
+      }
+    ],
+    "correctOptionId": "N40-C2-Q007-O4",
+    "explanation": "Đấu tranh kinh tế, như đòi tăng lương và giảm giờ làm, là hình thức đấu tranh xuất hiện sớm của giai cấp công nhân.",
+    "reviewOnly": false
+  },
+  {
+    "id": "N40-C2-Q008",
+    "chapter": 2,
+    "number": 8,
+    "source": "Bộ 40 câu trắc nghiệm CNXHKH đã kiểm tra",
+    "sourceQuestionNumber": 8,
+    "question": "Dựa vào yếu tố nào mà giai cấp công nhân có tính tổ chức, kỷ luật lao động; tinh thần hợp tác và tâm lý lao động công nghiệp?",
+    "options": [
+      {
+        "id": "N40-C2-Q008-O1",
+        "text": "Tự do bán sức lao động"
+      },
+      {
+        "id": "N40-C2-Q008-O2",
+        "text": "Bản thân họ tự có"
+      },
+      {
+        "id": "N40-C2-Q008-O3",
+        "text": "Tự do phân phối sản phẩm làm ra"
+      },
+      {
+        "id": "N40-C2-Q008-O4",
+        "text": "Nền sản xuất đại công nghiệp và phương thức sản xuất tiên tiến"
+      }
+    ],
+    "correctOptionId": "N40-C2-Q008-O4",
+    "explanation": "Nền đại công nghiệp và phương thức sản xuất hiện đại tập trung người lao động vào quá trình lao động có tính xã hội hóa, qua đó hình thành tính tổ chức và kỷ luật.",
+    "reviewOnly": false
+  },
+  {
+    "id": "N40-C2-Q009",
+    "chapter": 2,
+    "number": 9,
+    "source": "Bộ 40 câu trắc nghiệm CNXHKH đã kiểm tra",
+    "sourceQuestionNumber": 9,
+    "question": "Chọn phương án đúng cho cụm từ còn thiếu: “Trong tất cả các giai cấp hiện đang đối lập với giai cấp tư sản thì chỉ có giai cấp vô sản là giai cấp thật sự [.........]” (C. Mác – Ph. Ăngghen: Toàn tập. Tập 4. Nxb. Chính trị quốc gia Sự thật, Hà Nội, 1995, tr.610)",
+    "options": [
+      {
+        "id": "N40-C2-Q009-O1",
+        "text": "Khoa học"
+      },
+      {
+        "id": "N40-C2-Q009-O2",
+        "text": "Tiên phong"
+      },
+      {
+        "id": "N40-C2-Q009-O3",
+        "text": "Cách mạng"
+      },
+      {
+        "id": "N40-C2-Q009-O4",
+        "text": "Triệt để"
+      }
+    ],
+    "correctOptionId": "N40-C2-Q009-O3",
+    "explanation": "Cụm từ trong trích dẫn là “giai cấp thật sự cách mạng”, nên chọn C.",
+    "reviewOnly": false
+  },
+  {
+    "id": "N40-C2-Q010",
+    "chapter": 2,
+    "number": 10,
+    "source": "Bộ 40 câu trắc nghiệm CNXHKH đã kiểm tra",
+    "sourceQuestionNumber": 10,
+    "question": "Đối diện với nhà tư bản, công nhân là những người lao động tự do, với nghĩa là:",
+    "options": [
+      {
+        "id": "N40-C2-Q010-O1",
+        "text": "Tự do phân bổ lợi ích kinh tế"
+      },
+      {
+        "id": "N40-C2-Q010-O2",
+        "text": "Tự do sử dụng máy móc thiết bị"
+      },
+      {
+        "id": "N40-C2-Q010-O3",
+        "text": "Tự do phân phối sản phẩm làm ra"
+      },
+      {
+        "id": "N40-C2-Q010-O4",
+        "text": "Tự do bán sức lao động của mình để kiếm sống"
+      }
+    ],
+    "correctOptionId": "N40-C2-Q010-O4",
+    "explanation": "Công nhân được xem là tự do theo nghĩa pháp lý có thể bán sức lao động của mình để kiếm sống, nhưng không sở hữu tư liệu sản xuất chủ yếu.",
+    "reviewOnly": false
+  },
+  {
+    "id": "N40-C2-Q011",
+    "chapter": 2,
+    "number": 11,
+    "source": "Bộ 40 câu trắc nghiệm CNXHKH đã kiểm tra",
+    "sourceQuestionNumber": 11,
+    "question": "Xét trong QHSX TBCN, giai cấp công nhân là:",
+    "options": [
+      {
+        "id": "N40-C2-Q011-O1",
+        "text": "Giai cấp có số lượng đông trong dân cư."
+      },
+      {
+        "id": "N40-C2-Q011-O2",
+        "text": "Giai cấp không có TLSX, đi làm thuê cho nhà tư bản, bị bóc lột giá trị thặng dư."
+      },
+      {
+        "id": "N40-C2-Q011-O3",
+        "text": "Giai cấp phải đi thuê tư liệu sản xuất của nhà tư bản"
+      },
+      {
+        "id": "N40-C2-Q011-O4",
+        "text": "Giai cấp nghèo khổ nhất."
+      }
+    ],
+    "correctOptionId": "N40-C2-Q011-O2",
+    "explanation": "Tiêu chí cốt lõi là vị trí trong quan hệ sản xuất tư bản chủ nghĩa: không có tư liệu sản xuất chủ yếu, phải bán sức lao động và bị chiếm đoạt giá trị thặng dư.",
+    "reviewOnly": false
+  },
+  {
+    "id": "N40-C2-Q012",
+    "chapter": 2,
+    "number": 12,
+    "source": "Bộ 40 câu trắc nghiệm CNXHKH đã kiểm tra",
+    "sourceQuestionNumber": 12,
+    "question": "Theo C.Mác và Ph.Ăngghen, hai phương diện cơ bản xác định giai cấp công nhân là:",
+    "options": [
+      {
+        "id": "N40-C2-Q012-O1",
+        "text": "Chính trị - xã hội và Cơ cấu xã hội – giai cấp"
+      },
+      {
+        "id": "N40-C2-Q012-O2",
+        "text": "Kinh tế - xã hội và Chính trị - xã hội"
+      },
+      {
+        "id": "N40-C2-Q012-O3",
+        "text": "Chính trị - xã hội và Văn hóa – xã hội"
+      },
+      {
+        "id": "N40-C2-Q012-O4",
+        "text": "Kinh tế - xã hội và Văn hóa – xã hội"
+      }
+    ],
+    "correctOptionId": "N40-C2-Q012-O2",
+    "explanation": "Hai phương diện cơ bản là kinh tế - xã hội và chính trị - xã hội.",
+    "reviewOnly": false
+  },
+  {
+    "id": "N40-C2-Q013",
+    "chapter": 2,
+    "number": 13,
+    "source": "Bộ 40 câu trắc nghiệm CNXHKH đã kiểm tra",
+    "sourceQuestionNumber": 13,
+    "question": "Trong chủ nghĩa tư bản, giai cấp duy nhất không có lợi ích riêng với nghĩa tư hữu là:",
+    "options": [
+      {
+        "id": "N40-C2-Q013-O1",
+        "text": "Địa chủ"
+      },
+      {
+        "id": "N40-C2-Q013-O2",
+        "text": "Tiểu tư sản"
+      },
+      {
+        "id": "N40-C2-Q013-O3",
+        "text": "Vô sản"
+      },
+      {
+        "id": "N40-C2-Q013-O4",
+        "text": "Tư sản"
+      }
+    ],
+    "correctOptionId": "N40-C2-Q013-O3",
+    "explanation": "Giai cấp vô sản không sở hữu tư liệu sản xuất chủ yếu và có lợi ích gắn với việc xóa bỏ quan hệ bóc lột tư bản chủ nghĩa.",
+    "reviewOnly": false
+  },
+  {
+    "id": "N40-C2-Q014",
+    "chapter": 2,
+    "number": 14,
+    "source": "Bộ 40 câu trắc nghiệm CNXHKH đã kiểm tra",
+    "sourceQuestionNumber": 14,
+    "question": "Chọn phương án đúng cho cụm từ còn thiếu: “[.........] là sản phẩm của sự kết hợp chủ nghĩa Mác – Lênin với phong trào công nhân trong cuộc đấu tranh thực hiện sứ mệnh lịch sử của giai cấp công nhân”",
+    "options": [
+      {
+        "id": "N40-C2-Q014-O1",
+        "text": "Giai cấp tư sản"
+      },
+      {
+        "id": "N40-C2-Q014-O2",
+        "text": "Đảng chính trị"
+      },
+      {
+        "id": "N40-C2-Q014-O3",
+        "text": "Đảng Cộng sản"
+      },
+      {
+        "id": "N40-C2-Q014-O4",
+        "text": "Giai cấp công nhân"
+      }
+    ],
+    "correctOptionId": "N40-C2-Q014-O3",
+    "explanation": "Đảng Cộng sản là sản phẩm của sự kết hợp giữa chủ nghĩa Mác - Lênin và phong trào công nhân.",
+    "reviewOnly": false
+  },
+  {
+    "id": "N40-C2-Q015",
+    "chapter": 2,
+    "number": 15,
+    "source": "Bộ 40 câu trắc nghiệm CNXHKH đã kiểm tra",
+    "sourceQuestionNumber": 15,
+    "question": "Điều kiện khách quan quy định sứ mệnh lịch sử của giai cấp công nhân là:",
+    "options": [
+      {
+        "id": "N40-C2-Q015-O1",
+        "text": "Giai cấp công nhân có đồng minh tự nhiên là giai cấp nông dân"
+      },
+      {
+        "id": "N40-C2-Q015-O2",
+        "text": "Địa vị kinh tế - xã hội và địa vị chính trị - xã hội"
+      },
+      {
+        "id": "N40-C2-Q015-O3",
+        "text": "Bản thân giai cấp công nhân phát triển về số lượng và chất lượng"
+      },
+      {
+        "id": "N40-C2-Q015-O4",
+        "text": "Đảng Cộng sản lãnh đạo"
+      }
+    ],
+    "correctOptionId": "N40-C2-Q015-O2",
+    "explanation": "Điều kiện khách quan xuất phát từ địa vị kinh tế - xã hội và chính trị - xã hội; sự phát triển của công nhân và vai trò lãnh đạo của Đảng thuộc nhân tố chủ quan.",
+    "reviewOnly": false
+  },
+  {
+    "id": "N40-C1-Q016",
+    "chapter": 1,
+    "number": 16,
+    "source": "Bộ 40 câu trắc nghiệm CNXHKH đã kiểm tra",
+    "sourceQuestionNumber": 16,
+    "question": "Phương pháp nghiên cứu có tính đặc thù của chủ nghĩa xã hội khoa học là gì?",
+    "options": [
+      {
+        "id": "N40-C1-Q016-O1",
+        "text": "Phương pháp so sánh"
+      },
+      {
+        "id": "N40-C1-Q016-O2",
+        "text": "Phương pháp kết hợp lịch sử và logic"
+      },
+      {
+        "id": "N40-C1-Q016-O3",
+        "text": "Phương pháp điều tra xã hội học"
+      },
+      {
+        "id": "N40-C1-Q016-O4",
+        "text": "Phương pháp khảo sát và phân tích về mặt chính trị - xã hội"
+      }
+    ],
+    "correctOptionId": "N40-C1-Q016-O4",
+    "explanation": "Tài liệu môn học nêu phương pháp khảo sát, phân tích và tổng kết lý luận về mặt chính trị - xã hội dựa trên điều kiện kinh tế - xã hội cụ thể là phương pháp đặc thù.",
+    "reviewOnly": false
+  },
+  {
+    "id": "N40-C1-Q017",
+    "chapter": 1,
+    "number": 17,
+    "source": "Bộ 40 câu trắc nghiệm CNXHKH đã kiểm tra",
+    "sourceQuestionNumber": 17,
+    "question": "Điểm tích cực của tư tưởng chủ nghĩa xã hội không tưởng là gì?",
+    "options": [
+      {
+        "id": "N40-C1-Q017-O1",
+        "text": "Mang tinh thần nhân đạo chủ nghĩa"
+      },
+      {
+        "id": "N40-C1-Q017-O2",
+        "text": "Phê phán chế độ tư sản một cách hòa bình"
+      },
+      {
+        "id": "N40-C1-Q017-O3",
+        "text": "Giải thích được bản chất bóc lột"
+      },
+      {
+        "id": "N40-C1-Q017-O4",
+        "text": "Xóa bỏ nhanh chóng chế độ tư hữu"
+      }
+    ],
+    "correctOptionId": "N40-C1-Q017-O1",
+    "explanation": "Chủ nghĩa xã hội không tưởng có giá trị nhân đạo, phê phán bất công và là tiền đề lý luận trực tiếp cho sự ra đời của chủ nghĩa xã hội khoa học.",
+    "reviewOnly": false
+  },
+  {
+    "id": "N40-C1-Q018",
+    "chapter": 1,
+    "number": 18,
+    "source": "Bộ 40 câu trắc nghiệm CNXHKH đã kiểm tra",
+    "sourceQuestionNumber": 18,
+    "question": "Phương pháp liên ngành trong nghiên cứu chủ nghĩa xã hội khoa học bao gồm việc sử dụng các phương pháp nào?",
+    "options": [
+      {
+        "id": "N40-C1-Q018-O1",
+        "text": "Phân tích, tổng hợp, thống kê"
+      },
+      {
+        "id": "N40-C1-Q018-O2",
+        "text": "Tất cả các phương pháp trên"
+      },
+      {
+        "id": "N40-C1-Q018-O3",
+        "text": "Logic và lịch sử"
+      },
+      {
+        "id": "N40-C1-Q018-O4",
+        "text": "Khảo sát và phân tích mặt chính trị - xã hội"
+      }
+    ],
+    "correctOptionId": "N40-C1-Q018-O1",
+    "explanation": "Theo đáp án đã chốt trong file 40 câu: nhóm phương pháp liên ngành được chọn ở đây là phân tích, tổng hợp và thống kê.",
+    "reviewOnly": false
+  },
+  {
+    "id": "N40-C1-Q019",
+    "chapter": 1,
+    "number": 19,
+    "source": "Bộ 40 câu trắc nghiệm CNXHKH đã kiểm tra",
+    "sourceQuestionNumber": 19,
+    "question": "Ba phát kiến vĩ đại của C. Mác & Ph. Ăngghen là gì?",
+    "options": [
+      {
+        "id": "N40-C1-Q019-O1",
+        "text": "Chủ nghĩa duy vật biện chứng, Học thuyết về chủ nghĩa đế quốc – giai đoạn tột cùng của chủ nghĩa tư bản và Học thuyết về sứ mệnh lịch sử toàn thế giới của giai cấp công nhân"
+      },
+      {
+        "id": "N40-C1-Q019-O2",
+        "text": "Chủ nghĩa duy vật biện chứng, Học thuyết về giá trị - lao động và Học thuyết về sứ mệnh lịch sử toàn thế giới của giai cấp công nhân"
+      },
+      {
+        "id": "N40-C1-Q019-O3",
+        "text": "Chủ nghĩa duy vật lịch sử, Học thuyết về giá trị thặng dư và Học thuyết về sứ mệnh lịch sử toàn thế giới của giai cấp công nhân"
+      },
+      {
+        "id": "N40-C1-Q019-O4",
+        "text": "Chủ nghĩa duy vật lịch sử, Học thuyết về chủ nghĩa đế quốc – giai đoạn tột cùng của chủ nghĩa tư bản và Học thuyết về sứ mệnh lịch sử toàn thế giới của giai cấp công nhân"
+      }
+    ],
+    "correctOptionId": "N40-C1-Q019-O3",
+    "explanation": "Ba phát kiến được học trong môn gồm chủ nghĩa duy vật lịch sử, học thuyết giá trị thặng dư và học thuyết về sứ mệnh lịch sử toàn thế giới của giai cấp công nhân.",
+    "reviewOnly": false
+  },
+  {
+    "id": "N40-C1-Q020",
+    "chapter": 1,
+    "number": 20,
+    "source": "Bộ 40 câu trắc nghiệm CNXHKH đã kiểm tra",
+    "sourceQuestionNumber": 20,
+    "question": "Nội dung của tư tưởng chủ nghĩa xã hội phản ánh điều gì?",
+    "options": [
+      {
+        "id": "N40-C1-Q020-O1",
+        "text": "Cả (1), (2) và (3)"
+      },
+      {
+        "id": "N40-C1-Q020-O2",
+        "text": "Cách thức và phương pháp đấu tranh để giải phóng con người (2)"
+      },
+      {
+        "id": "N40-C1-Q020-O3",
+        "text": "Những mô hình xã hội tốt đẹp trong tương lai (3)"
+      },
+      {
+        "id": "N40-C1-Q020-O4",
+        "text": "Sự áp bức và bóc lột (1)"
+      }
+    ],
+    "correctOptionId": "N40-C1-Q020-O1",
+    "explanation": "Tư tưởng xã hội chủ nghĩa phản ánh nhu cầu và nguyện vọng của người lao động bị áp bức, con đường đấu tranh giải phóng và mô hình xã hội tốt đẹp trong tương lai.",
+    "reviewOnly": false
+  },
+  {
+    "id": "N40-C3-Q021",
+    "chapter": 3,
+    "number": 21,
+    "source": "Bộ 40 câu trắc nghiệm CNXHKH đã kiểm tra",
+    "sourceQuestionNumber": 21,
+    "question": "Bỏ qua việc xác lập vị trí thống trị của quan hệ sản xuất và kiến trúc thượng tầng tư bản chủ nghĩa, nhưng tiếp thu, kế thừa những thành tựu mà nhân loại đã đạt được dưới chế độ tư bản chủ nghĩa là đặc điểm của thời kỳ nào ở nước ta?",
+    "options": [
+      {
+        "id": "N40-C3-Q021-O1",
+        "text": "Thời kỳ kháng chiến chống Mỹ"
+      },
+      {
+        "id": "N40-C3-Q021-O2",
+        "text": "Thời kỳ kháng chiến chống Pháp"
+      },
+      {
+        "id": "N40-C3-Q021-O3",
+        "text": "Thời kỳ quá độ lên chủ nghĩa xã hội"
+      },
+      {
+        "id": "N40-C3-Q021-O4",
+        "text": "Thời kỳ kế hoạch hóa tập trung quan liêu bao cấp"
+      }
+    ],
+    "correctOptionId": "N40-C3-Q021-O3",
+    "explanation": "Đây là quan điểm về quá độ lên chủ nghĩa xã hội ở Việt Nam: bỏ qua việc xác lập sự thống trị của quan hệ sản xuất và kiến trúc thượng tầng tư bản chủ nghĩa, đồng thời kế thừa thành tựu nhân loại.",
+    "reviewOnly": false
+  },
+  {
+    "id": "N40-C3-Q022",
+    "chapter": 3,
+    "number": 22,
+    "source": "Bộ 40 câu trắc nghiệm CNXHKH đã kiểm tra",
+    "sourceQuestionNumber": 22,
+    "question": "Chọn phương án đúng cho cụm từ còn thiếu trong nhận định của Lênin về phương thức đi lên chủ nghĩa xã hội trong điều kiện lịch sử cụ thể của nước Nga: “Hãy dùng cả hai tay mà lấy những cái tốt của nước ngoài: Chính quyền Xô viết + trật tự ở đường sắt Phổ + [.........] + ngành giáo dục quốc dân Mỹ” (Lênin: Toàn tập. Tập 42. Nxb Tiến bộ, Mátxcơva, 1977, tr.280).",
+    "options": [
+      {
+        "id": "N40-C3-Q022-O1",
+        "text": "Kỹ thuật và cách thức tổ chức các Tơ rớt ở Mỹ."
+      },
+      {
+        "id": "N40-C3-Q022-O2",
+        "text": "Cách mạng công nghiệp ở Anh."
+      },
+      {
+        "id": "N40-C3-Q022-O3",
+        "text": "Khoa học kỹ thuật của Đức."
+      },
+      {
+        "id": "N40-C3-Q022-O4",
+        "text": "Văn học nghệ thuật của Ý"
+      }
+    ],
+    "correctOptionId": "N40-C3-Q022-O1",
+    "explanation": "Cụm từ được trích trong tài liệu là “kỹ thuật và cách thức tổ chức các tơ-rớt ở Mỹ”.",
+    "reviewOnly": false
+  },
+  {
+    "id": "N40-C3-Q023",
+    "chapter": 3,
+    "number": 23,
+    "source": "Bộ 40 câu trắc nghiệm CNXHKH đã kiểm tra",
+    "sourceQuestionNumber": 23,
+    "question": "Đặc điểm nổi bật và bao trùm của thời kỳ quá độ lên chủ nghĩa xã hội là gì?",
+    "options": [
+      {
+        "id": "N40-C3-Q023-O1",
+        "text": "Tồn tại một nền kinh tế nhiều thành phần"
+      },
+      {
+        "id": "N40-C3-Q023-O2",
+        "text": "Kết cấu giai cấp trong xã hội đa dạng và phức tạp"
+      },
+      {
+        "id": "N40-C3-Q023-O3",
+        "text": "Tồn tại nhiều yếu tố văn hóa và tư tưởng khác nhau"
+      },
+      {
+        "id": "N40-C3-Q023-O4",
+        "text": "Tồn tại những yếu tố của xã hội cũ bên cạnh những nhân tố mới của chủ nghĩa xã hội"
+      }
+    ],
+    "correctOptionId": "N40-C3-Q023-O4",
+    "explanation": "Đặc điểm bao trùm là các yếu tố của xã hội cũ và nhân tố mới của chủ nghĩa xã hội cùng tồn tại, vừa thống nhất vừa đấu tranh trên các lĩnh vực.",
+    "reviewOnly": false
+  },
+  {
+    "id": "N40-C3-Q024",
+    "chapter": 3,
+    "number": 24,
+    "source": "Bộ 40 câu trắc nghiệm CNXHKH đã kiểm tra",
+    "sourceQuestionNumber": 24,
+    "question": "Đặc điểm lớn nhất của thời kỳ quá độ lên chủ nghĩa xã hội ở nước ta là:",
+    "options": [
+      {
+        "id": "N40-C3-Q024-O1",
+        "text": "Từ một nền sản xuất nhỏ là phổ biến quá độ lên chủ nghĩa xã hội không qua chế độ tư bản chủ nghĩa"
+      },
+      {
+        "id": "N40-C3-Q024-O2",
+        "text": "Năng suất lao động thấp"
+      },
+      {
+        "id": "N40-C3-Q024-O3",
+        "text": "Lực lượng sản xuất chưa phát triển"
+      },
+      {
+        "id": "N40-C3-Q024-O4",
+        "text": "Nhiều thành phần xã hội đan xen tồn tại"
+      }
+    ],
+    "correctOptionId": "N40-C3-Q024-O1",
+    "explanation": "Đặc điểm lớn nhất là xuất phát từ nền sản xuất nhỏ là phổ biến và quá độ lên chủ nghĩa xã hội bỏ qua chế độ tư bản chủ nghĩa.",
+    "reviewOnly": false
+  },
+  {
+    "id": "N40-C3-Q025",
+    "chapter": 3,
+    "number": 25,
+    "source": "Bộ 40 câu trắc nghiệm CNXHKH đã kiểm tra",
+    "sourceQuestionNumber": 25,
+    "question": "Đại hội XIII của Đảng đã xác định mục tiêu phát triển theo định hướng xã hội chủ nghĩa đến năm 2045 là gì?",
+    "options": [
+      {
+        "id": "N40-C3-Q025-O1",
+        "text": "Việt Nam là nước đang phát triển, có công nghiệp hiện đại, thu nhập trung bình cao"
+      },
+      {
+        "id": "N40-C3-Q025-O2",
+        "text": "Việt Nam trở thành nước phát triển, thu nhập cao"
+      },
+      {
+        "id": "N40-C3-Q025-O3",
+        "text": "Việt Nam là nước đang phát triển, có công nghiệp theo hướng hiện đại, vượt qua mức thu nhập trung bình thấp"
+      },
+      {
+        "id": "N40-C3-Q025-O4",
+        "text": "Việt Nam trở thành nước phát triển, thu nhập trung bình cao"
+      }
+    ],
+    "correctOptionId": "N40-C3-Q025-O2",
+    "explanation": "Mục tiêu đến năm 2045 là đưa Việt Nam trở thành nước phát triển, có thu nhập cao.",
+    "reviewOnly": false
+  },
+  {
+    "id": "N40-C3-Q026",
+    "chapter": 3,
+    "number": 26,
+    "source": "Bộ 40 câu trắc nghiệm CNXHKH đã kiểm tra",
+    "sourceQuestionNumber": 26,
+    "question": "Chọn ý đúng điền vào chỗ trống: “cuộc cách mạng của giai cấp vô sản đang có tất cả những triệu chứng là sắp nổ ra, sẽ chỉ có thể cải tạo xã hội hiện nay một cách dần dần, và chỉ khi nào đã tạo nên được một khối lượng […] cần thiết cho việc cải tạo đó thì khi ấy mới thủ tiêu được chế độ tư hữu” (C. Mác & Ph. Ăngghen: Toàn tập, Nxb. Chính trị quốc gia, Hà Nội, 2002, t.4, tr.469)",
+    "options": [
+      {
+        "id": "N40-C3-Q026-O1",
+        "text": "Giá trị thặng dư"
+      },
+      {
+        "id": "N40-C3-Q026-O2",
+        "text": "Tư liệu tiêu dùng"
+      },
+      {
+        "id": "N40-C3-Q026-O3",
+        "text": "Giá trị sức lao động"
+      },
+      {
+        "id": "N40-C3-Q026-O4",
+        "text": "Tư liệu sản xuất"
+      }
+    ],
+    "correctOptionId": "N40-C3-Q026-O4",
+    "explanation": "Chỗ trống trong trích dẫn là “tư liệu sản xuất”, gắn với điều kiện vật chất cần thiết để cải tạo xã hội.",
+    "reviewOnly": false
+  },
+  {
+    "id": "N40-C3-Q027",
+    "chapter": 3,
+    "number": 27,
+    "source": "Bộ 40 câu trắc nghiệm CNXHKH đã kiểm tra",
+    "sourceQuestionNumber": 27,
+    "question": "Theo Lênin, hình thái kinh tế - xã hội cộng sản chủ nghĩa có những thời kỳ nào?",
+    "options": [
+      {
+        "id": "N40-C3-Q027-O1",
+        "text": "Chủ nghĩa xã hội và chủ nghĩa cộng sản"
+      },
+      {
+        "id": "N40-C3-Q027-O2",
+        "text": "Chủ nghĩa xã hội phát triển cao và cộng sản chủ nghĩa"
+      },
+      {
+        "id": "N40-C3-Q027-O3",
+        "text": "Quá độ lên chủ nghĩa xã hội, chủ nghĩa xã hội và chủ nghĩa cộng sản"
+      },
+      {
+        "id": "N40-C3-Q027-O4",
+        "text": "Quá độ lên chủ nghĩa xã hội, chủ nghĩa xã hội, chủ nghĩa xã hội phát triển cao và cộng sản chủ nghĩa"
+      }
+    ],
+    "correctOptionId": "N40-C3-Q027-O3",
+    "explanation": "Theo cách trình bày của tài liệu, quá trình gồm thời kỳ quá độ lên chủ nghĩa xã hội, giai đoạn xã hội chủ nghĩa và giai đoạn cộng sản chủ nghĩa.",
+    "reviewOnly": false
+  },
+  {
+    "id": "N40-C3-Q028",
+    "chapter": 3,
+    "number": 28,
+    "source": "Bộ 40 câu trắc nghiệm CNXHKH đã kiểm tra",
+    "sourceQuestionNumber": 28,
+    "question": "Nhiệm vụ nào KHÔNG THUỘC nội dung tư tưởng - văn hóa của thời kỳ quá độ lên chủ nghĩa xã hội?",
+    "options": [
+      {
+        "id": "N40-C3-Q028-O1",
+        "text": "Xây dựng Đảng Cộng sản vững mạnh"
+      },
+      {
+        "id": "N40-C3-Q028-O2",
+        "text": "Xây dựng nền văn hóa mới chủ nghĩa xã hội"
+      },
+      {
+        "id": "N40-C3-Q028-O3",
+        "text": "Tiếp thu giá trị tinh hoa của các nền văn hóa trên thế giới"
+      },
+      {
+        "id": "N40-C3-Q028-O4",
+        "text": "Tuyên truyền hệ tư tưởng của giai cấp công nhân"
+      }
+    ],
+    "correctOptionId": "N40-C3-Q028-O1",
+    "explanation": "Xây dựng Đảng Cộng sản vững mạnh thuộc nội dung chính trị; các phương án còn lại thuộc lĩnh vực tư tưởng - văn hóa.",
+    "reviewOnly": false
+  },
+  {
+    "id": "N40-C3-Q029",
+    "chapter": 3,
+    "number": 29,
+    "source": "Bộ 40 câu trắc nghiệm CNXHKH đã kiểm tra",
+    "sourceQuestionNumber": 29,
+    "question": "Về phương diện kinh tế, đặc điểm của thời kỳ quá độ lên chủ nghĩa xã hội là:",
+    "options": [
+      {
+        "id": "N40-C3-Q029-O1",
+        "text": "Nền kinh tế chỉ có hai thành phần: kinh tế nhà nước và kinh tế tập thể"
+      },
+      {
+        "id": "N40-C3-Q029-O2",
+        "text": "Tồn tại một chế độ sở hữu tư liệu sản xuất dưới hai hình thức: toàn dân và tập thể"
+      },
+      {
+        "id": "N40-C3-Q029-O3",
+        "text": "Tất yếu tồn tại nền kinh tế nhiều thành phần"
+      },
+      {
+        "id": "N40-C3-Q029-O4",
+        "text": "Tồn tại một nền kinh tế chỉ có các thành phần kinh tế xã hội chủ nghĩa"
+      }
+    ],
+    "correctOptionId": "N40-C3-Q029-O3",
+    "explanation": "Trong thời kỳ quá độ, cơ cấu kinh tế và hình thức sở hữu còn đa dạng nên tất yếu tồn tại nền kinh tế nhiều thành phần.",
+    "reviewOnly": false
+  },
+  {
+    "id": "N40-C3-Q030",
+    "chapter": 3,
+    "number": 30,
+    "source": "Bộ 40 câu trắc nghiệm CNXHKH đã kiểm tra",
+    "sourceQuestionNumber": 30,
+    "question": "Ba đột phá chiến lược được Nghị quyết Đại hội XIII năm 2021 của Đảng Cộng sản Việt Nam xác định là:",
+    "options": [
+      {
+        "id": "N40-C3-Q030-O1",
+        "text": "Hoàn thiện đồng bộ thể chế phát triển; phát triển nguồn nhân lực; xây dựng hệ thống kết cấu hạ tầng đồng bộ, hiện đại"
+      },
+      {
+        "id": "N40-C3-Q030-O2",
+        "text": "Xây dựng Nhà nước pháp quyền xã hội chủ nghĩa; xây dựng hệ thống kết cấu hạ tầng đồng bộ, hiện đại; phát huy giá trị văn hoá, sức mạnh con người Việt Nam"
+      },
+      {
+        "id": "N40-C3-Q030-O3",
+        "text": "Đẩy mạnh phòng chống tham nhũng; phát triển kinh tế tuần hoàn; xây dựng hệ thống kết cấu hạ tầng đồng bộ, hiện đại"
+      },
+      {
+        "id": "N40-C3-Q030-O4",
+        "text": "Xây dựng Nhà nước kiến tạo phát triển; phát triển kinh tế số, xã hội số; phát huy giá trị văn hoá, sức mạnh con người Việt Nam"
+      }
+    ],
+    "correctOptionId": "N40-C3-Q030-O1",
+    "explanation": "Ba đột phá chiến lược gồm hoàn thiện thể chế phát triển, phát triển nguồn nhân lực và phát triển kết cấu hạ tầng đồng bộ, hiện đại.",
+    "reviewOnly": false
+  },
+  {
+    "id": "N40-C4-Q031",
+    "chapter": 4,
+    "number": 31,
+    "source": "Bộ 40 câu trắc nghiệm CNXHKH đã kiểm tra",
+    "sourceQuestionNumber": 31,
+    "question": "Theo Lênin, nhà nước “nửa nhà nước” là gì?",
+    "options": [
+      {
+        "id": "N40-C4-Q031-O1",
+        "text": "Nhà nước phong kiến"
+      },
+      {
+        "id": "N40-C4-Q031-O2",
+        "text": "Nhà nước tư sản"
+      },
+      {
+        "id": "N40-C4-Q031-O3",
+        "text": "Nhà nước xã hội chủ nghĩa"
+      },
+      {
+        "id": "N40-C4-Q031-O4",
+        "text": "Nhà nước chủ nô"
+      }
+    ],
+    "correctOptionId": "N40-C4-Q031-O3",
+    "explanation": "Theo lý luận Lenin, nhà nước xã hội chủ nghĩa được xem là “nửa nhà nước” vì chức năng nhà nước dần biến đổi khi tiến tới xã hội không còn đối kháng giai cấp.",
+    "reviewOnly": false
+  },
+  {
+    "id": "N40-C4-Q032",
+    "chapter": 4,
+    "number": 32,
+    "source": "Bộ 40 câu trắc nghiệm CNXHKH đã kiểm tra",
+    "sourceQuestionNumber": 32,
+    "question": "“Chế độ dân chủ vô sản so với bất cứ chế độ dân chủ tư sản nào, cũng dân chủ hơn gấp triệu lần” là quan điểm của ai?",
+    "options": [
+      {
+        "id": "N40-C4-Q032-O1",
+        "text": "Ăngghen"
+      },
+      {
+        "id": "N40-C4-Q032-O2",
+        "text": "Hồ Chí Minh"
+      },
+      {
+        "id": "N40-C4-Q032-O3",
+        "text": "Các Mác"
+      },
+      {
+        "id": "N40-C4-Q032-O4",
+        "text": "Lênin"
+      }
+    ],
+    "correctOptionId": "N40-C4-Q032-O4",
+    "explanation": "Câu nói này được dẫn là quan điểm của V.I. Lenin.",
+    "reviewOnly": false
+  },
+  {
+    "id": "N40-C4-Q033",
+    "chapter": 4,
+    "number": 33,
+    "source": "Bộ 40 câu trắc nghiệm CNXHKH đã kiểm tra",
+    "sourceQuestionNumber": 33,
+    "question": "Dân chủ với tư cách là một chế độ xã hội, ra đời đầu tiên ở hình thái kinh tế - xã hội nào?",
+    "options": [
+      {
+        "id": "N40-C4-Q033-O1",
+        "text": "Phong kiến"
+      },
+      {
+        "id": "N40-C4-Q033-O2",
+        "text": "Chiếm hữu nô lệ"
+      },
+      {
+        "id": "N40-C4-Q033-O3",
+        "text": "Tư bản chủ nghĩa"
+      },
+      {
+        "id": "N40-C4-Q033-O4",
+        "text": "Công xã nguyên thủy"
+      }
+    ],
+    "correctOptionId": "N40-C4-Q033-O2",
+    "explanation": "Dân chủ với tư cách chế độ nhà nước xuất hiện đầu tiên trong xã hội chiếm hữu nô lệ; công xã nguyên thủy có hình thức dân chủ sơ khai nhưng chưa có nhà nước.",
+    "reviewOnly": false
+  },
+  {
+    "id": "N40-C4-Q034",
+    "chapter": 4,
+    "number": 34,
+    "source": "Bộ 40 câu trắc nghiệm CNXHKH đã kiểm tra",
+    "sourceQuestionNumber": 34,
+    "question": "Ở nước ta, tổ chức nào hoạt động theo phương thức hiệp thương dân chủ, phối hợp và thống nhất hành động giữa các thành viên theo chương trình hoạt động chung?",
+    "options": [
+      {
+        "id": "N40-C4-Q034-O1",
+        "text": "Đảng Cộng sản Việt Nam"
+      },
+      {
+        "id": "N40-C4-Q034-O2",
+        "text": "Mặt trận Tổ quốc Việt Nam"
+      },
+      {
+        "id": "N40-C4-Q034-O3",
+        "text": "Quốc hội"
+      },
+      {
+        "id": "N40-C4-Q034-O4",
+        "text": "Chính phủ"
+      }
+    ],
+    "correctOptionId": "N40-C4-Q034-O2",
+    "explanation": "Mặt trận Tổ quốc Việt Nam hoạt động theo phương thức hiệp thương dân chủ, phối hợp và thống nhất hành động giữa các thành viên.",
+    "reviewOnly": false
+  },
+  {
+    "id": "N40-C4-Q035",
+    "chapter": 4,
+    "number": 35,
+    "source": "Bộ 40 câu trắc nghiệm CNXHKH đã kiểm tra",
+    "sourceQuestionNumber": 35,
+    "question": "Hình thức dân chủ quân sự xuất hiện trong hình thái kinh tế - xã hội nào?",
+    "options": [
+      {
+        "id": "N40-C4-Q035-O1",
+        "text": "Công xã nguyên thuỷ"
+      },
+      {
+        "id": "N40-C4-Q035-O2",
+        "text": "Chiếm hữu nô lệ"
+      },
+      {
+        "id": "N40-C4-Q035-O3",
+        "text": "Phong kiến"
+      },
+      {
+        "id": "N40-C4-Q035-O4",
+        "text": "Tư bản chủ nghĩa"
+      }
+    ],
+    "correctOptionId": "N40-C4-Q035-O1",
+    "explanation": "Dân chủ quân sự là hình thức dân chủ sơ khai gắn với giai đoạn cuối của xã hội công xã nguyên thủy.",
+    "reviewOnly": false
+  },
+  {
+    "id": "N40-C4-Q036",
+    "chapter": 4,
+    "number": 36,
+    "source": "Bộ 40 câu trắc nghiệm CNXHKH đã kiểm tra",
+    "sourceQuestionNumber": 36,
+    "question": "Chọn ý đúng về phương thức thực hiện dân chủ gián tiếp (dân chủ đại diện).",
+    "options": [
+      {
+        "id": "N40-C4-Q036-O1",
+        "text": "Thực hiện quyền sáng kiến lập pháp; dân chủ ở cơ sở"
+      },
+      {
+        "id": "N40-C4-Q036-O2",
+        "text": "Đại biểu Quốc hội thực hiện quyền giám sát của mình đối với hoạt động của bộ máy nhà nước thông qua các hình thức: xem xét báo cáo, chất vấn, giám sát chuyên đề"
+      },
+      {
+        "id": "N40-C4-Q036-O3",
+        "text": "Bầu cử; bãi miễn đại biểu"
+      },
+      {
+        "id": "N40-C4-Q036-O4",
+        "text": "Trưng cầu ý dân"
+      }
+    ],
+    "correctOptionId": "N40-C4-Q036-O2",
+    "explanation": "Giám sát của đại biểu Quốc hội là hoạt động của người đại diện nhân dân trong cơ quan quyền lực nhà nước, thuộc cơ chế dân chủ đại diện.",
+    "reviewOnly": false
+  },
+  {
+    "id": "N40-C4-Q037",
+    "chapter": 4,
+    "number": 37,
+    "source": "Bộ 40 câu trắc nghiệm CNXHKH đã kiểm tra",
+    "sourceQuestionNumber": 37,
+    "question": "Theo quan điểm của chủ nghĩa Mác – Lênin, hình thức dân chủ nào được đánh giá là một bước tiến lớn của nhân loại nhưng vẫn là nền dân chủ của thiểu số đối với đại đa số nhân dân lao động?",
+    "options": [
+      {
+        "id": "N40-C4-Q037-O1",
+        "text": "Dân chủ chủ nô"
+      },
+      {
+        "id": "N40-C4-Q037-O2",
+        "text": "Dân chủ quân sự"
+      },
+      {
+        "id": "N40-C4-Q037-O3",
+        "text": "Dân chủ tư sản"
+      },
+      {
+        "id": "N40-C4-Q037-O4",
+        "text": "Dân chủ vô sản"
+      }
+    ],
+    "correctOptionId": "N40-C4-Q037-O3",
+    "explanation": "Dân chủ tư sản là bước tiến so với các hình thức trước đó, nhưng theo cách tiếp cận của môn học vẫn là nền dân chủ của thiểu số đối với đa số người lao động.",
+    "reviewOnly": false
+  },
+  {
+    "id": "N40-C4-Q038",
+    "chapter": 4,
+    "number": 38,
+    "source": "Bộ 40 câu trắc nghiệm CNXHKH đã kiểm tra",
+    "sourceQuestionNumber": 38,
+    "question": "Hoạt động nào là hình thức dân chủ gián tiếp của sinh viên trong trường đại học?",
+    "options": [
+      {
+        "id": "N40-C4-Q038-O1",
+        "text": "Đánh giá chất lượng phục vụ của các đơn vị chức năng"
+      },
+      {
+        "id": "N40-C4-Q038-O2",
+        "text": "Hội nghị đối thoại giữa đại diện sinh viên với Ban Giám hiệu cùng các đơn vị chức năng"
+      },
+      {
+        "id": "N40-C4-Q038-O3",
+        "text": "Tham gia khảo sát ý kiến về các học phần"
+      },
+      {
+        "id": "N40-C4-Q038-O4",
+        "text": "Đánh giá chất lượng giảng dạy của giảng viên"
+      }
+    ],
+    "correctOptionId": "N40-C4-Q038-O2",
+    "explanation": "Hội nghị đối thoại qua đại diện sinh viên là cách tham gia thông qua người đại diện, khác với các khảo sát hoặc đánh giá trực tiếp của từng sinh viên.",
+    "reviewOnly": false
+  },
+  {
+    "id": "N40-C4-Q039",
+    "chapter": 4,
+    "number": 39,
+    "source": "Bộ 40 câu trắc nghiệm CNXHKH đã kiểm tra",
+    "sourceQuestionNumber": 39,
+    "question": "Theo Nghị quyết Đại hội đại biểu toàn quốc lần thứ XIII (2021) của Đảng, để thực hành và phát huy rộng rãi quyền làm chủ của nhân dân và vai trò chủ thể của nhân dân, cần thực hiện hiệu quả phương châm nào?",
+    "options": [
+      {
+        "id": "N40-C4-Q039-O1",
+        "text": "Dân biết, dân bàn, dân làm, dân kiểm tra, dân giám sát, dân thụ hưởng"
+      },
+      {
+        "id": "N40-C4-Q039-O2",
+        "text": "Dân biết, dân làm, dân bàn, dân thụ hưởng, dân kiểm tra, dân giám sát"
+      },
+      {
+        "id": "N40-C4-Q039-O3",
+        "text": "Dân thụ hưởng, dân biết, dân làm, dân bàn, dân kiểm tra, dân giám sát"
+      },
+      {
+        "id": "N40-C4-Q039-O4",
+        "text": "Dân thụ hưởng, dân kiểm tra, dân biết, dân bàn, dân làm, dân giám sát"
+      }
+    ],
+    "correctOptionId": "N40-C4-Q039-O1",
+    "explanation": "Phương châm được chọn trong bộ câu hỏi là “Dân biết, dân bàn, dân làm, dân kiểm tra, dân giám sát, dân thụ hưởng”.",
+    "reviewOnly": false
+  },
+  {
+    "id": "N40-C4-Q040",
+    "chapter": 4,
+    "number": 40,
+    "source": "Bộ 40 câu trắc nghiệm CNXHKH đã kiểm tra",
+    "sourceQuestionNumber": 40,
+    "question": "Nhân dân bầu ra thủ lĩnh quân sự thông qua “Đại hội nhân dân”, mọi người đều có quyền phát biểu và tham gia quyết định bằng cách giơ tay hoặc hoan hô – là đặc trưng của hình thức dân chủ nào?",
+    "options": [
+      {
+        "id": "N40-C4-Q040-O1",
+        "text": "Dân chủ vô sản"
+      },
+      {
+        "id": "N40-C4-Q040-O2",
+        "text": "Dân chủ nguyên thủy"
+      },
+      {
+        "id": "N40-C4-Q040-O3",
+        "text": "Dân chủ chủ nô"
+      },
+      {
+        "id": "N40-C4-Q040-O4",
+        "text": "Dân chủ tư sản"
+      }
+    ],
+    "correctOptionId": "N40-C4-Q040-O2",
+    "explanation": "Mô tả này nói về hình thức dân chủ nguyên thủy, khi cộng đồng cùng tham gia phát biểu và quyết định tại đại hội nhân dân.",
+    "reviewOnly": false
   }
 ]
