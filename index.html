@@ -29,7 +29,7 @@ html[data-theme="dark"]{--bg:#0b1020;--panel:#111827;--panel2:#182235;--text:#f8
     <button data-page="stats">▥ Thống kê</button>
     <button data-page="settings">⚙ Cài đặt</button>
   </nav>
-  <div class="side-foot">Dữ liệu học được lưu ngay trên trình duyệt này. Không cần máy chủ, không cần khóa API.</div>
+  <div class="side-foot">Tiến độ học được lưu trên trình duyệt hiện tại.</div>
 </aside>
 <main class="main">
   <header class="topbar">
@@ -188,9 +188,9 @@ function renderExams(c){
    +'<button type="button" class="btn primary" style="width:100%" data-exam-code="'+esc(e.code)+'">Bắt đầu làm bài</button></article>';
  }).join('');
  c.innerHTML='<h1 class="page-title">Đề thi theo mã đề</h1>'
-  +'<p class="sub">Chọn mã đề để làm bài theo thứ tự câu hỏi gốc.</p>'
+  +'<p class="sub">Làm bài theo thứ tự câu hỏi trong từng mã đề.</p>'
   +'<div class="grid" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(270px,1fr));align-items:stretch">'+cards+'</div>'
-  +'<p class="muted" style="margin-top:18px;font-size:13px">Đáp án dùng để ôn tập, gồm đáp án ghi trong đề và kết quả đối chiếu tài liệu. Chưa thay thế đáp án chính thức của giảng viên.</p>';
+  +'<p class="muted" style="margin-top:18px;font-size:13px">Đáp án phục vụ ôn tập, chưa thay thế đáp án chính thức của giảng viên.</p>';
  c.onclick=ev=>{const btn=ev.target.closest('button[data-exam-code]');if(btn)startExam(btn.dataset.examCode)};
 }
 function startExam(code){
@@ -227,7 +227,7 @@ function changeFlashPage(d){flashPage=Math.max(0,flashPage+d);renderFlashcards($
 function renderReview(c){
  const x=NEEDS_REVIEW,pages=Math.max(1,Math.ceil(x.length/40));reviewPage=Math.min(reviewPage,pages-1);
  c.innerHTML='<h1 class="page-title">Câu cần rà soát ('+x.length+')</h1>'
- +'<p class="sub">Các mục cần kiểm tra lại nội dung hoặc định dạng từ tài liệu nguồn.</p>'
+ +'<p class="sub">Các mục cần đối chiếu với tài liệu gốc.</p>'
  +'<div class="list">'+x.slice(reviewPage*40,(reviewPage+1)*40).map(y=>'<div class="q-row"><b>'+esc(y.source)+' • Câu '+y.number+'</b><p>'+esc(y.excerpt)+'</p><p class="muted">'+esc(y.reason)+(y.code?' • Mã đề '+esc(y.code):'')+'</p></div>').join('')+'</div>'
  +'<div class="row" style="justify-content:center;margin-top:16px"><button class="btn" '+(reviewPage===0?'disabled':'')+' onclick="changeReviewPage(-1)">← Trước</button><span class="pill">'+(reviewPage+1)+'/'+pages+'</span><button class="btn" '+(reviewPage+1===pages?'disabled':'')+' onclick="changeReviewPage(1)">Tiếp →</button></div>'
  +'<p class="muted" style="margin-top:15px">Ngoài ra, TN-CNXHKH.docx chứa các trang ảnh và chưa được chuyển thành trắc nghiệm. <a href="https://drive.google.com/file/d/1trnbJ8RpiMVTAE5FKNGKzbyPKeh3qhrw/view" target="_blank" rel="noopener">Xem tài liệu ảnh gốc</a>.</p>';
