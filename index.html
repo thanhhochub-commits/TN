@@ -52,7 +52,7 @@ const CNXH_ADDONS=window.CNXH_ADDONS||{mcqs:[],exams:[],flashcards:[],needsRevie
 
 (function loadReviewedExamSolutions(){
  const solved=window.CNXH_SOLVED_EXAMS||[];
- const expected={131120I:40,131120II:40,2223II:40,"DE-ON-01":50,"DE-ON-02":40};
+ const expected={'131120I':40,'131120II':40,'2223II':40,'DE-ON-01':50,'DE-ON-02':40};
  if(solved.length!==210)throw Error('Thiếu bộ giải 210 câu');
  const previous=new Map((CNXH_ADDONS.mcqs||[]).filter(q=>q.examCode).map(q=>[q.examCode+'#'+q.number,q]));
  const oldExams=new Map((CNXH_ADDONS.exams||[]).map(e=>[e.code,e]));
