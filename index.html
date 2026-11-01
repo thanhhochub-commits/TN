@@ -134,13 +134,14 @@ function renderExams(c){
   const notice=good?'Đã đủ '+e.expected+' câu':('Đã trích '+e.questionIds.length+'/'+e.expected+' câu; phần còn lại cần rà soát định dạng nguồn');
   return '<div class="card"><div class="row" style="justify-content:space-between"><h3 class="section-title">'+esc(e.code)+'</h3><span class="pill">Năm: '+esc(e.year)+'</span></div>'
    +'<p class="muted">Nguồn: '+esc(e.source)+'</p><p>'+esc(notice)+'</p>'
-   +'<p class="muted">'+(e.scored?e.scored+' câu có đáp án đánh dấu trong tài liệu gốc.':'Không có đáp án chốt trong nguồn; bài làm chỉ dùng tự luyện, không tự chấm điểm.')+'</p>'
-   +'<button class="btn primary" onclick="startExam('+JSON.stringify(e.code)+')">Làm mã đề này</button></div>';
+   +'<p class="muted">'+(e.scored===e.questionIds.length&&e.questionIds.length===e.expected?'Đã có đáp án nguồn cho toàn bộ '+e.scored+' câu.':e.scored>0?'Đã có '+e.scored+'/'+e.questionIds.length+' đáp án đối chiếu; các câu khác không tính điểm.':'Chưa xác minh được đáp án: có thể làm đề và xem lại lựa chọn, nhưng không chấm điểm các câu này.')+'</p>'
+   +'<button type="button" class="btn primary" data-exam-code="'+esc(e.code)+'">Làm mã đề này</button></div>';
  }).join('');
  c.innerHTML='<h1 class="page-title">Đề thi theo mã đề và năm</h1>'
   +'<p class="sub">Giữ thứ tự câu và các lựa chọn của từng đề gốc. Năm chưa được tài liệu xác nhận được ghi rõ.</p>'
   +'<div class="grid" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr))">'+cards+'</div>'
   +'<p class="muted" style="margin-top:18px">Các đề PDF có câu dính dòng hoặc thiếu phương án được ghi riêng ở mục Cần rà soát, không tự tạo lại đáp án.</p>';
+ c.onclick=ev=>{const btn=ev.target.closest('button[data-exam-code]');if(btn)startExam(btn.dataset.examCode)};
 }
 function startExam(code){
  const e=EXAMS.find(x=>x.code===code);if(!e)return;
