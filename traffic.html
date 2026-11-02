@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Thống kê truy cập LINK 1 | CNXHKH Quiz</title>
+<meta name="robots" content="noindex,nofollow">
+<style>
+:root{font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;color-scheme:light}
+*{box-sizing:border-box}
+body{margin:0;min-height:100vh;background:#f5f7fb;color:#172033;padding:30px 18px}
+main{max-width:760px;margin:32px auto}
+h1{font-size:clamp(24px,5vw,34px);letter-spacing:-.6px;margin:0 0 8px}
+p{line-height:1.6}
+.note{color:#64748b;margin:0 0 26px}
+.metrics{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:16px}
+.card{padding:24px;border:1px solid #e2e8f0;border-radius:20px;background:#fff;box-shadow:0 8px 24px #0f172a0b}
+.card h2{font-size:15px;font-weight:600;margin:0 0 14px;color:#475569}
+.value{font-size:48px;font-weight:800;letter-spacing:-2px;line-height:1.15;font-variant-numeric:tabular-nums}
+.muted{font-size:13px;color:#64748b;margin:12px 0 0}
+.actions{display:flex;gap:12px;align-items:center;flex-wrap:wrap;margin:22px 0}
+button,a.btn{border:1px solid #cbd5e1;background:#fff;border-radius:12px;padding:11px 17px;font-size:14px;font-weight:600;color:#172033;text-decoration:none;cursor:pointer}
+button:hover,a.btn:hover{background:#eef2ff}
+.status{color:#64748b;font-size:13px}
+.details{background:#fff;border:1px solid #e2e8f0;border-radius:16px;padding:20px;margin-top:20px;font-size:14px}
+.details p{margin:0 0 10px}
+.details p:last-child{margin:0}
+</style>
+</head>
+<body>
+<main>
+<h1>Thống kê truy cập LINK 1</h1>
+<p class="note">CNXHKH Quiz • Bắt đầu ghi nhận sau khi bộ đếm được triển khai ngày 02/11/2026</p>
+<section class="metrics" aria-live="polite">
+  <div class="card"><h2>Trình duyệt truy cập (ước tính)</h2><div class="value" id="visitors">...</div><p class="muted">Mỗi trình duyệt được đếm một lần nếu vẫn giữ bộ nhớ trang.</p></div>
+  <div class="card"><h2>Tổng lượt tải trang</h2><div class="value" id="views">...</div><p class="muted">Mỗi lần tải hoặc tải lại LINK 1 tạo thêm một lượt.</p></div>
+</section>
+<div class="actions"><button type="button" id="refresh">Cập nhật số liệu</button><a class="btn" href="./">Về trang trắc nghiệm</a><span class="status" id="status">Đang đọc số liệu...</span></div>
+<div class="details">
+  <p><strong>Lưu ý:</strong> Đây là bộ đếm miễn phí, không phải số người đã được định danh. Nếu một người dùng nhiều trình duyệt hoặc xóa dữ liệu trình duyệt, họ có thể được đếm nhiều lần.</p>
+  <p>Không khôi phục được lượt truy cập từ trước khi lắp bộ đếm. Số liệu chỉ dùng để tham khảo và có thể bị sai lệch do phần mềm chặn theo dõi hoặc các truy cập tự động.</p>
+  <p>Chỉ việc mở trang thống kê này <strong>không làm tăng số lượt truy cập</strong>.</p>
+</div>
+</main>
+<script>
+(function () {
+  'use strict';
+  const BASE='https://countapi.mileshilliard.com/api/v1/get/';
+  const KEYS={visitors:'tn_cnxhkh_20261102_unique_6b3c2f72',views:'tn_cnxhkh_20261102_views_6b3c2f72'};
+  const fmt=new Intl.NumberFormat('vi-VN');
+  async function read(key) {
+    const res=await fetch(BASE+encodeURIComponent(key),{cache:'no-store',credentials:'omit',referrerPolicy:'no-referrer'});
+    if (res.status===404) return 0;
+    if (!res.ok) throw new Error('HTTP '+res.status);
+    const json=await res.json();
+    const number=Number(json.value);
+    if (!Number.isFinite(number) || number<0) throw new Error('Dữ liệu không hợp lệ');
+    return number;
+  }
+  async function refresh() {
+    const b=document.getElementById('refresh'), status=document.getElementById('status');
+    b.disabled=true;status.textContent='Đang cập nhật...';
+    const results=await Promise.allSettled(Object.entries(KEYS).map(async ([field,key])=>{
+      document.getElementById(field).textContent=fmt.format(await read(key));
+    }));
+    const ok=results.every(r=>r.status==='fulfilled');
+    status.textContent=ok?'Đã cập nhật số liệu.':'Không lấy đủ số liệu, thử lại sau.';
+    for(const [i,result] of results.entries()) if(result.status==='rejected') document.getElementById(Object.keys(KEYS)[i]).textContent='—';
+    b.disabled=false;
+  }
+  document.getElementById('refresh').addEventListener('click',refresh);
+  refresh();
+})();
+</script>
+</body>
+</html>
